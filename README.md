@@ -4,7 +4,7 @@ This repository contains the code and resources related to our paper titled "Nav
 In this paper, we introduce a novel approach for clustering academic literature using Large Language Models (LLMs). Our method aims to address the challenges posed by the rapid evolution of 
 knowledge and the vast volume of research available, which can make it difficult to identify relevant information within specific domains.
 
-Abstract
+# Abstract
 Navigating the dynamic landscape of academic literature presents challenges due to the rapid evolution of knowledge and the sheer volume of available research, 
 which can obscure information within specific domains. The current use of descriptive tags for literature clustering, although helpful, lacks standardization and often fails to cover broad or multi-topic literature adequately. 
 To address these issues, this paper introduces a novel Large Language Model (LLM)-based topic extractor for academic literature. 
