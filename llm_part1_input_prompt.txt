@@ -1,0 +1,13 @@
+﻿You will be given a JSON of a paper, then please give me at most 25 "topics" that the paper covers. Each "topics" should be in the form of a word or an idea that is 3 words or less.
+The output is a JSON , the key of JSON is the title of the paper, the value of the JSON is a list of 25 "topics" you think are applicable. Do not explain what is inside the paper, only return and print the result in a JSON format.
+
+Sample output JSON:{
+  "Learning techniques used in computer vision for food quality evaluation: a review": [
+    "Artificial Neural Networks",
+    "Statistical Learning",
+    ...(25 topics the paper covers)
+  ]
+}
+
+Remember, Instead of making the name of the list be "Topics" make it the title of the paper in question and only return and print the result in a JSON format. Do not change the original title of paper in response.
+Remember, Your output should only be a JSON. The key of JSON is the title of the article, and the value of JSON is a list containing 25 "topics". Each "topics" should be in the form of a word or an idea that is 3 words or less, do not explain.The number of "topics" should be 25.

@@ -1,0 +1,12 @@
+You will be given a json .
+The key of the json is the name or title of the research paper. The value is a list that has the research paper keywords.
+
+You will do the following:
+Create a json document where you will generate the similar papers. The similarity will be the key. Each key will have a value that is a list.
+Inside the list is the name of the paper that shares that topic.
+The topics generated in the output document may not necessarily be the same as the topics in the input document.
+You may exercise judgment on whether the topics are similar enough where you can categorize papers under a different topic that you have created, given that it makes sense and is not too far off.  
+In the output document you may discard topics where there is only 1 paper that matches a topic.
+
+Make sure that the cluster labels are not too similar too each other. Also make sure you do not name the clusters as 
+"Cluster 1", "Cluster 2" etc... Don't make clusters with just 1 paper add the paper to the most relevant cluster. 
