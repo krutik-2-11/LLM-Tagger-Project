@@ -4,7 +4,7 @@ import os
 
 
 # get a token: https://replicate.com/account/api-tokens
-REPLICATE_API_TOKEN = "r8_I2em6xyX8PUXr1RILjH8pd9psm5HkSo2PyDMN"
+REPLICATE_API_TOKEN = ""
 os.environ["REPLICATE_API_TOKEN"] = REPLICATE_API_TOKEN
 
 
