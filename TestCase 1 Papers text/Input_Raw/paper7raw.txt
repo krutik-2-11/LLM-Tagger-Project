@@ -1,0 +1,732 @@
+Abstract
+Verbal praise is often used to improve prospective memory performance in daily life. According to the motivation cognitive model, the promotional efect of verbal praise on prospective memory may depend largely on redeploying attentional 
+resources, so its promotional efect is likely to be infuenced by attention. Two groups of college students (n=128, n=117) 
+participated in two experimental studies that examined this hypothesis. Experiment 1 manipulated attention load by changing the difculty of the ongoing tasks to focus on the efect of verbal praise on prospective memory under diferent attention 
+load conditions. The results showed that verbal praise promoted prospective memory performance under both attentional 
+load conditions (low, high), but verbal praise mainly promoted the prospective component when the attentional load was 
+low, meanwhile, verbal praise mainly promoted the retrospective component when the attention load was high. Experiment 
+2 altered the dependence of prospective memory tasks on attentional resources by manipulating the cue focality, further 
+exploring the promotional efect of verbal praise on prospective memory with diferent types of cues under the low attention 
+load condition. The results showed that verbal praise only promoted prospective memory when non-focal cues were used. 
+The results of this study partially verifed the motivation cognitive model.
+Introduction
+In daily life, many things require planning in advance, and 
+remember to perform in the right situation. This is a typical prospective memory task (Einstein & McDaniel, 1990), 
+and an example is remembering to print documents when 
+you pass the printing shop. From the perspective of composition structure, prospective memory contains two components: prospective component and retrospective component. 
+Among them, the prospective component refers to remembering something to do in the appropriate situation, mainly 
+pointing to the recognition of cues, and is most closely 
+related to cue monitoring. By comparison, the retrospective component refers to the specifc content of prospective memory intention, which mainly points to intention 
+extraction and is related to retrospective memory (Smith 
+& Bayen, 2004). The preparatory attention processing and 
+memory processing (PAM) theory suggests that the processing of prospective memory includes preparatory attention 
+processing and memory processing. Among them, the prospective component in prospective memory is controlled 
+by preparatory attention processing, while the retrospective 
+component is controlled by memory processing (Smith & 
+Bayen, 2006). Preparatory attention processing continuously 
+occupies individuals’attention resources after the intention 
+is formed, and even if the target does not appear, they also 
+continue to invest attention resources for cue monitoring. 
+Due to the existence of preparatory attention, PAM theory 
+holds that the processing of prospective memory always 
+involves attention consumption (Smith & Bayen, 2004, 
+2006). The multiprocess theory suggests that in most cases, 
+the processing of prospective memory does indeed require 
+a signifcant amount of self-initiated attentional resources, 
+but in a few cases (such as focal cues), the cues of prospective memory may be spontaneously extracted, and therefore 
+the processing of prospective memory may not involve preparatory attentional processing (Einstein et al., 2005). The 
+implementation of a prospective memory task requires the 
+successful recognition of cues and the successful extraction of intention content, so insufcient processing in any 
+component may lead to the failure of prospective memory. 
+* Yongxin Li 
+liyongxin@henu.edu.cn
+Yunfei Guo 
+gyfhenu@126.com
+Jiaqun Gan 
+932048493@qq.com
+1 Faculty of Education, Henan University, Jinming Road, 
+Longting District, Kaifeng, China
+Psychological Research
+To ensure the successful execution of prospective memory 
+tasks, reward is a method that people often use and several 
+studies have shown that material rewards can signifcantly 
+improve the prospective memory performance of children 
+(Sheppard et al., 2015) and adults (Jeong & Cranney, 2009). 
+However, in everyday life, non-material rewards are also 
+often used to improve prospective memory performance, for 
+example, verbal praise.
+Verbal praise is a common type of non-material reward 
+that efectively improves cognitive performance (Droe et al., 
+2013; Ross et al., 2020). To date, most studies have focused 
+on the promotional efect of verbal praise from the perspective of motivation. Deci et al. (1999) believes that the 
+main reason for the efectiveness of verbal praise lies in an 
+individual’s self-perception. Whether the content of verbal 
+praise afrms the process (e.g., you were very focused in 
+doing things) or the result (e.g., you did a good job on the 
+prospective memory task), the information generated afrms 
+the individuals’ abilities, which increases their feelings of 
+competence and self-esteem. To demonstrate their ability, 
+individuals will make greater eforts to achieve target tasks. 
+Albrecht et al. (2014) further found that the verbal praise 
+group had higher activation in the anterior striatum and 
+midbrain, indicating that verbal reward improved individuals’ subjective evaluation of the task itself. In addition, they 
+found no signifcant decline in cognitive performance after 
+the withdrawal of verbal praise, suggesting that the efects 
+of verbal praise are long-lasting. The efect of verbal praise 
+on prospective memory may be closely related to metacognition. Motivation can alter an individual’s evaluation of the 
+importance of prospective memory tasks, leading them to 
+develop more detailed plans and adopt more efective strategies (such as setting reminders in advance) during the encoding stage, and to engage in more active retelling and strategic monitoring during the retention and retrieval stages, all 
+of which may improve prospective memory performance 
+(Kuhlmann, 2019; Rummel & Meiser, 2013). In addition, 
+verbal praise, as a non-material motivation with positive 
+feedback, can also lead individuals to have better expectations of their own prospective memory performance, which 
+can also encourage them to strengthen attentional monitoring of prospective memory tasks (Kuhlmann, 2019; Rummel 
+& Meiser, 2013; Schnitzspahn et al., 2011).
+The motivational cognitive model explains in detail how 
+motivation improves prospective memory performance. 
+The motivational cognitive model suggests that prospective 
+memory goals associated with individuals are perceived as 
+more important, and this importance may afect prospective memory tasks in two ways. First, when individuals 
+perceive the importance of prospective memory tasks, they 
+will assign more attention resources to prospective memory 
+tasks, which is conducive to adequate processing of prospective memory tasks, thereby improving prospective memory 
+performance, which is consistent with the views of PAM 
+theory. Second, motivation may prompt individuals to adopt 
+some strategies to further ensure the successful execution 
+of prospective memory tasks (Penningroth & Scott, 2013a, 
+2015). But the use of strategies typically requires individuals 
+to plan ahead during the coding phase. Therefore, the adoption of efective strategies is also the result of individuals 
+making eforts in advance. The performance of prospective 
+memory tasks improved signifcantly when participants 
+received higher importance ratings (Kliegel et al., 2004) and 
+when more attention resources were assigned (Moyes et al., 
+2019). In short, the core view of the motivational cognitive 
+model is that individuals will make more eforts to process 
+prospective memory tasks more fully under motivational 
+conditions, so as to improve prospective memory performance. Since the strategies employed by individuals cannot 
+be measured by objective methods, this study focused on 
+the changes in individuals’ attention to determine whether 
+they put in more efort under the condition of verbal praise.
+The promotional efect of verbal praise on prospective 
+memory is likely to be afected by attention load. Verbal 
+praise can result in a person evaluating a task as being more 
+important (Albrecht et al., 2014), while importance itself 
+can prompt individuals to allocate more attention resources 
+to ensure the completion of prospective memory tasks (Penningroth & Scott, 2013a). Prospective memory studies in 
+the laboratory usually adopt a dual-task paradigm, in which 
+prospective memory tasks are inserted into ongoing tasks 
+and performed simultaneously (Bisiacchi et al., 2009). In 
+the case of moderate task difculty, individuals can indeed 
+allocate more attention resources to the prospective memory 
+task when motivated to do so, while individuals’ attention to 
+an ongoing task is poor when the task is very difcult. At the 
+same time, individuals who received motivation also faced 
+difculties in attention deployment under the high attention 
+load condition, which hindered their ability to transfer attention resources from ongoing tasks to prospective memory 
+tasks (Guo et al., 2023). Therefore, we speculated that verbal 
+praise was likely to promote prospective memory only under 
+the condition of low attentional load.
+Even when attention resources are adequate, the efect 
+of verbal praise on prospective memory may vary based on 
+how much prospective memory depends on self-initiated 
+attention resources. Varying cue focality can alter the attention demand in the prospective memory task itself. There 
+is an overlap between the recognition of focal cues in prospective memory and the processing of ongoing tasks (for 
+example, both the prospective memory cue and the ongoing 
+task are color judgments), and the individual can identify the 
+prospective memory cue while processing the ongoing tasks. 
+Therefore, the processing of prospective memory does not 
+consume additional attention resources (Scullin et al., 2007, 
+2010). By comparison, the recognition of non-focal cues 
+Psychological Research
+does not overlap with the processing of ongoing tasks (for 
+example, the ongoing task is color judgment, while the prospective memory tasks are word recognition), and individuals need to pay extra attention resources to the processing of 
+prospective memory cues after processing the ongoing tasks. 
+The prospective memory of focal cues is not highly dependent on cue monitoring and it is difcult to improve the performance of prospective memory even if given additional 
+attention resources. By comparison, non-focal prospective 
+memory tasks are highly dependent on cue monitoring, and 
+improvement in performance is generally closely related to 
+preparatory attention (Kliegel et al., 2008). Therefore, in the 
+verbal praise condition, more attention costs do not promote 
+prospective memory performance for focal cues, while performance should be better in the presence of non-focal cues.
+Whether verbal praise mainly promotes prospective 
+memory through the prospective component or retrospective component deserves further attention. The prospective 
+component mainly involves cue recognition, while the retrospective component mainly involves intention extraction 
+(Lajeunesse et al., 2019). Identifying which component 
+of prospective memory is enhanced by verbal praise will 
+help clarify the mechanism that underpins this efect. The 
+motivational cognitive model also states that the motivational induction may be promoted in two ways: the frst is to 
+encourage individuals to pay more attention to prospective 
+memory tasks; the second is to promote the spontaneous 
+extraction of a prospective memory intention through various methods (e.g., strategies) (Penningroth & Scott, 2013b; 
+Penningroth et al., 2011). Of them, the attention allocated by 
+the former is mainly used for cue retrieval, which is mainly 
+related to the prospective component (Guo et al., 2023; 
+Harrison & Einstein, 2010; Hering et al., 2013), while the 
+extraction intention by the latter refects the retrospective 
+component (Smith & Bayen, 2004). Therefore, if the prospective component and the retrospective component can 
+be separated, the applicability of the motivational cognitive 
+model in this study can be verifed. Previous studies have 
+used mathematical calculation (Cohen et al., 2001) and task 
+separation (Meier & Zimmermann, 2015) to separate prospective and retrospective components without considering 
+individual guessing. Multinomial processing tree (MPT) 
+model is more advantageous because it compensates for 
+this shortcoming.
+MPT model is a simple and efective modeling method 
+formed by the integration of cognitive psychology and statistics and other related disciplines (Smith & Bayen, 2004). 
+This model is based on the PAM theory. The MPT model 
+holds that the prospective component corresponds to the preparatory attention processing, while the retrospective component corresponds to the memory processing. The model 
+requires that the ongoing task must be a task with two alternative responses. For example, if the ongoing task is a color 
+judgment task, the computer screen frst shows four colored 
+boxes, followed by a colored word. Individuals are asked to 
+judge whether the color of the word appeared in the previous four boxes. If the answer is ‘yes’, the individual should 
+press the J key on the keyboard, otherwise he/she should 
+press the F key. The prospective memory task involves the 
+individual pressing the space key when encountering specifc words. There are four types of words in total: (1) a 
+PM task with the same color; (2) a PM task with diferent 
+color; (3) an ongoing task with the same color; and (4) an 
+ongoing task with a diferent color. Each word appears with 
+three responses: the J key, the F key, and the space bar (as 
+shown in Fig. 1). Meanwhile, seven parameters need to be 
+introduced to refect the relationship between the four types 
+of words and the three responses: C1, C2, P, M1, M2, g, and c. 
+C1 is the probability of identifying the same color. C2 is the 
+probability of identifying a diferent color. P is preparatory 
+attentional processing. M1 is the probability of identifying a 
+prospective memory target. M2 is the probability of identifying the non-prospective memory target, g is the probability 
+of guessing a prospective memory target and c is the probability of guessing the same color (Schnitzspahn et al., 2012; 
+Smith & Bayen, 2004). In short, C1 and C2 refect the probability that individuals actually respond correctly to ongoing 
+tasks, P refects the probability that individuals successfully 
+monitor the prospective memory cue, and M1 and M2 refect 
+the probability that individuals correctly recall the prospective memory intention content. However, it is possible for 
+individuals to make correct prospective memory responses 
+and ongoing tasks responses through guessing in some trials. To better explain the role of guessing, it is necessary 
+to introduce the two parameters c and g. The MPT model 
+contains seven free parameters, and the maximum likelihood 
+estimation method is used to estimate the parameters. Since 
+there are seven parameters to be estimated in the model, in 
+order to make the parameters measurable, Erdfelder et al. 
+(2009) pointed out that it is necessary to make assumptions 
+about the relationship between each parameter to reduce the 
+number of parameters. There are two ways to do this. The 
+frst is to set two or more parameters equal (Bayen et al., 
+1996), and the second is to assign specifc values to parameters (Erdfelder & Buchner, 1998). Smith and Bayen (2004) 
+determined the values of c and g by changing c and g to 
+observe whether P and M change. The results showed that 
+when the value of g was between 0.07 and 0.17, and the 
+value of c was between 0.07 and 0.85, the values of P and 
+M remained stable. To make g and c close to the average 
+values and considering the convenience of calculation, they 
+made the following assignments: c=0.5, g=0.1. According to the standard assumptions of the multinomial models 
+of source monitoring (Bayes et al., 1996), the probability 
+of individuals identifying targets and identifying nontargets 
+should be equal, and Smith and Bayen set M1= M2. These 
+Psychological Research
+Fig.
+1 Multinomial process
+-
+ing tree model of event-based 
+prospective memory (Smith & 
+Bayen, 2004). PM represents 
+prospective memory
+Psychological Research
+settings results in a new four-parameter model: C1, C2, P, 
+M. The estimated values of these four parameters can be 
+obtained by inputting the response category frequencies 
+of all participants for each trial type in the multiTree software (Moshagen, 2010). The specifc response frequency 
+required by the MPT model in the software can be referred 
+to the Table 2 of this study. In this case, P represents the 
+prospective component and M represents the retrospective 
+component. Finally, by comparing the parameters, we can 
+determine whether there are diferences in the prospective 
+and retrospective components between the verbal praise 
+group and the control group, to determine which component 
+is responsible for generating the promotional efect of verbal 
+praise on prospective memory. Currently, many studies have 
+validated the efectiveness of MPT in separating prospective and retrospective components in prospective memory 
+(Smith & Bayen, 2006; Smith et al., 2010, 2014). However, 
+the MPT model is based on the PAM theory, and its premise is that individuals must adopt preparatory attention processing to monitor prospective memory cues. But under the 
+condition of focal cues, the cue monitoring of prospective 
+memory overlaps with ongoing task processing to a high 
+extent, which cannot guarantee that the monitoring of focal 
+cues necessarily requires preparatory attention processing 
+(Einstein et al., 2005), Therefore, the MPT model is currently unable to separate the prospective and retrospective 
+components of prospective memory with focal cues.
+The present study is the frst to focus primarily on the 
+efect of verbal praise on prospective memory from the 
+attentional perspective. Experiment 1 explored the efect 
+of verbal praise on prospective memory under diferent 
+attentional loads by manipulating the difculty of the ongoing task and varying the attention resources available to an 
+individual. We hypothesized that verbal praise promotes 
+prospective memory only under the condition of low attentional load. Experiment 2 further manipulated the degree of 
+dependence of the prospective memory task on cue monitoring by cue focality under the low attentional load condition, 
+and further focused on the infuence of verbal praise on prospective memory under diferent cue types. We hypothesized 
+that verbal praise promotes prospective memory only under 
+the non-focal-cue condition. This study has theoretical as 
+well as practical signifcance. From a theoretical perspective, this study examined the changes in diferent prospective 
+memory components in the verbal praise group. The results 
+of this study provide a preliminary explanation of the promotional efect of verbal praise on prospective memory and 
+verify the applicability of the motivational cognitive model 
+in explaining this efect. In terms of applicability, the results 
+of this study confrm the boundary conditions under which 
+verbal praise has a promotional efect and provides suggestions regarding how verbal praise can be used to improve 
+prospective memory performance in daily life.
+Experiment 1
+Participants
+A total of 128 college students aged 18–25 were recruited, of 
+whom 43 (33.6%) were male. They were randomly assigned 
+to four groups: 32 in the low-load task and control group, 
+32 in the low-load task and experimental group, 32 in the 
+high-load task and control group, and 32 in the high-load 
+task and experimental group. All participants had normal 
+vision, no red and green color blindness, were familiar with 
+the basic operation of the computer, and had not participated 
+in a similar experiment recently. All participants were tested 
+independently, and they received 20 CNY (about 3 USD) as 
+compensation after the experiment. All participants signed 
+a written informed consent form. The studies were reviewed 
+and approved by the Institutional Review Board of Henan 
+Provincial Key Laboratory of Psychology and Behavior 
+(NO: 20220715011).
+Experimental design
+We adopted a 2 (group: verbal praise group, control 
+group)×2 (attention load: low-load, high-load) betweensubjects design.
+Procedure
+The experimental procedure involved two stages: the practice stage and the formal experimental stage. At the beginning of the experiment, the experimenter explained the 
+experiment to participants, and then questioned them about 
+the task requirements to make sure that they had understood the task correctly. The practice stage began with the 
+appearance of a “+” (250 ms), on the center of the computer 
+screen followed by four (low attentional load condition) or 
+six (high attentional load condition) squares with diferent colors (800 ms), and fnally a colored word (4000 ms) 
+appeared. Participants were asked to judge the color of the 
+words. If the word color was the same as the color of any 
+of the previous squares, they were to press the J key; otherwise, they were to press the F key. The prospective memory 
+task involved the participant pressing the space bar when 
+the word “name” or “atmosphere” was encountered. During 
+the practice phase, two prospective memory cues appeared 
+once each. After the practice stage, the formal experiment 
+began. Participants in the verbal praise group were praised 
+by the experimenter after they completed the practice stage, 
+with the praise meeting three criteria. First, the praise was 
+based on how well the participant performed in the practice 
+phase. Second, the praise focused on the prospective task, 
+telling the participant that he/she had done well on the prospective task and that he or she was at the top of the list of 
+Psychological Research
+participants. Finally, the participant was told to keep going. 
+For example, “You did a good job on the prospective task. 
+The correct rate is very high and you are at the top of the 
+group.” The control group was told something irrelevant at 
+the end of the practice stage. After the participants understood the instructions, they commenced the formal experiment. All the participants needed to have a 5-min delay 
+before executing the formal experimental program, and the 
+flling tasks during the delay period were some simple arithmetic questions. The formal experiment consisted of 120 
+ongoing tasks, into which four prospective memory tasks 
+were randomly inserted (Figs. 2, 3).
+Results
+Results of task responses
+Prospective memory accuracy The results of an analysis 
+of variance (ANOVA) showed a signifcant main efect of 
+attentional load, F(1,124)=5.68, p<0.05, ηp
+2=0.04, with 
+accuracy being greater in the low-load than in the high-load 
+condition. The main efect of group was also signifcant, 
+with the verbal praise group being more accurate than the 
+control group, F(1,124)=10.27, p<0.01, ηp
+2=0.08. The 
+interaction between group and attentional load, however, 
+was not signifcant, p>0.05.
+Prospective memory reaction time the results of an 
+ANOVA showed no signifcant main efect of attentional 
+load or group and no signifcant interaction between the two, 
+ps>0.05.
+Ongoing task accuracy The results of an ANOVA 
+showed a signifcant main efect of attentional load, F(1, 
+124)=103.71, p<0.001, ηp
+2=0.45, with accuracy higher in 
+the low-load than in the high-load condition. The main efect 
+of group and the interaction between group and attentional 
+load were not signifcant, ps>0.05.
+Ongoing task response time The results of an ANOVA 
+showed that the main efect of attentional load was not signifcant, p>0.05. However, the main efect of group was 
+signifcant, F(1, 124)=5.55, p<0.05, ηp
+2=0.04, with the 
+verbal praise group responding more slowly than the control 
+group. The interaction between attentional load and group 
+was not signifcant, p>0.05 (Table 1).
+The results of multinomial process tree (MPT) 
+modeling
+Model ft test: Model ft is the degree of ft between the 
+observed data and the value estimated by the model, 
+expressed by the statistic G2
+ (similar to the Chi-square 
+distribution), which is mainly used to explain whether the 
+observed data is suitable for MPT modeling analysis. In 
+this study, MultiTree v0.47 software was used to analyze 
+all participants’ responses, as shown in Table 2. Data from 
+the control and experimental groups in both the low attention load condition (G2
+(4)=2.96, p>0.05, G2
+(4)=1.00, 
+p>0.05) and high attention load condition (G2
+(4)=2.03, 
+Fig. 2 Schematic diagram of the 
+ongoing task under the low-load 
+condition
+Fig. 3 Schematic diagram of 
+ongoing task under high the 
+attention load condition
+Psychological Research
+p>0.05, G2
+(4)=2.27, p>0.05) were tested for the ft degree 
+of model, and the results showed that the ft degree was 
+good.
+Parameter estimation and analysis We focused on the differences in the prospective component (P) and retrospective 
+component (M) between the control group and the verbal 
+praise group under low and high attention load conditions, 
+respectively. The results showed that the prospective component of the verbal praise group (p=0.69) was higher than the 
+control group’s (p=0.56) when the attentional load was low, 
+ΔG2
+(1)=4.64, p<0.05. By comparison, the prospective 
+component of the verbal praise group (p=0.54) did not differ from the control group’s (p=0.44) when the attentional 
+load was high, ΔG2
+(1)=1.81, p>0.05. In addition, there 
+was no diference between the verbal praise group (M=0.96) 
+and the control group (M =0.97) in the retrospective component when the attentional low was low, ΔG2
+(1)=0.88, 
+p>0.05. Finally, the retrospective component of the verbal 
+praise group (M =0.97) was signifcantly higher than the 
+control group (M=0.90) when the attentional load was high, 
+ΔG2
+(1)=6.74, p<0.01.
+Discussion
+Experiment 1 mainly manipulated individuals' available 
+attention resources through the difculty of the ongoing 
+task, to explore the infuence of verbal praise on prospective memory under diferent attention loads. We found that 
+the prospective memory performance of the verbal praise 
+group was better than the control group’s under both low 
+and high attentional load conditions, indicating that the promotional efect of verbal praise on prospective memory was 
+not limited by attention load, which was inconsistent with 
+our prediction. The results also showed that the verbal praise 
+group’s response speed on the ongoing task was slower than 
+the control group’s, indicating that the verbal praise group 
+assigned more attention resources to the prospective memory task. This confrms the ideas of previous studies (Deci 
+et al., 1999) and the predictions of the motivation cognitive 
+model (Penningroth & Scott, 2013a).
+Although verbal praise facilitated prospective memory 
+in both high and low attentional load conditions, verbal 
+praise had varying efects on diferent prospective memory 
+components under diferent attentional load conditions. 
+When attention load was low, the verbal praise group was 
+higher than the control group on the prospective component 
+only, indicating that verbal praise can improve prospective 
+memory performance by promoting the prospective component under the sufcient attention condition. However, 
+when attention load was high, the verbal praise group was 
+better than the control group on the retrospective component 
+only, which indicates that verbal praise can promote prospective memory performance mainly through improving 
+the retrospective component under the insufcient attention 
+condition.
+Experiment 1 mainly focused on non-focal prospective 
+memory, which consumed additional attention resources 
+for cue retrieval (Scullin et al., 2010). Verbal praise can be 
+facilitated by allocating more attention resources to prospective memory tasks. We also found that verbal praise acted 
+as a facilitator by allocating more attention resources to cue 
+retrieval (the prospective component) under the adequate 
+attention condition. However, the processing of focal cues 
+Table 1 Participants’ prospective memory performance and ongoing 
+task performance
+Low-control control group under the low attention load condition; 
+Low-praise praise group under the low attention load condition; 
+High-control control group under the high attention load condition; 
+High-praise praise group under the high attention load condition; 
+ACC accuracy; RT response time
+Prospective memory Ongoing task
+ACC RT (ms) ACC RT (ms)
+Low-control 0.49 (0.29) 1102 (357) 0.78 (0.08) 1144 (279)
+Low-praise 0.60 (0.24) 1157 (272) 0.78 (0.07) 1212 (295)
+High-control 0.34 (0.27) 1157 (321) 0.65 (0.05) 1127 (191)
+High-praise 0.53 (0.26) 1260 (309) 0.67 (0.06) 1282 (292)
+Table 2 Response category frequencies of all participants for each 
+trial type
+Low-control control group under the low attention load condition; 
+Low-praise praise group under the low attention load condition; 
+High-control control group under the high attention load condition; 
+High-praise praise group under the high attention load condition; PM
+prospective memory; OT ongoing task
+Trial type Response type
+“F” “J” “Space”
+Low-control PM: Same 9 21 35
+PM: Diferent 24 10 40
+OT: Same 480 1477 3
+OT: Diferent 1367 377 6
+High-control PM: Same 6 15 48
+PM: Diferent 17 7 45
+OT: Same 434 1439 3
+OT: Diferent 1393 462 4
+Low-praise PM: Same 11 26 29
+PM: Diferent 32 13 26
+OT: Same 638 1191 8
+OT: Diferent 1205 654 9
+High-praise PM: Same 10 26 39
+PM: Diferent 20 9 33
+OT: Same 718 1133 3
+OT: Diferent 1197 647 4
+Psychological Research
+does not require additional attention consumption and is less 
+dependent on attention monitoring (Harrison & Einstein, 
+2010). Even with sufcient attention (for example, under the 
+low attention load condition), the verbal praise group can 
+assign sufcient attention to the prospective memory task, 
+but the prospective memory task itself is not highly dependent on attention monitoring, their prospective memory 
+performance may be less likely to beneft from additional 
+attention costs. Experiment 2 further examined whether the 
+promotional efect of verbal praise on prospective memory 
+was afected by cue focality under low attention loads.
+Experiment 2
+Participants
+One hundred and seventeen college students, aged 
+18–25 years old, including 53 males (45.3%), were randomly 
+recruited. The participants were randomly assigned into four 
+groups: 29 in the focal cue and control group, 30 in the focal 
+cue and experimental group, 30 in the non-focal cue and 
+control group, and 28 in the non-focal cue and experimental 
+group. Other aspects were consistent with Experiment 1.
+Experimental design
+A between-subject experiment design of two (groups: verbal 
+praise group, control group)×2 (cue focality: focal cue, nonfocal cue) was adopted.
+Experimental procedure
+The procedure in the non-focal cue condition was exactly 
+the same as in Experiment 1. Under the focal-cue condition, 
+the prospective memory task involved pressing the space bar 
+when yellow-colored words were encountered, and the rest 
+is consistent with Experiment 1.
+Results
+The MPT model is based on the PAM theory, which posits 
+that the successful execution of prospective memory tasks 
+always requires attention resources (Smith, 2003). Some 
+studies have found no evidence that the processing of prospective memory tasks is monitored with focal cues (Brewer 
+et al., 2010; Harrison & Einstein, 2010), hence, we did not 
+analyze the diferent components of prospective memory in 
+Experiment 2.
+Prospective memory accuracy The results of an ANOVA 
+showed that the main efect of cue focality was signifcant, F(1, 113)=7.32, p<0.01, ηp
+2=0.06, with accuracy 
+being greater with the focal cue than the non-focal cue. The 
+main efect of group was also signifcant, F(1, 113)=4.90, 
+p<0.05, ηp
+2=0.04, with accuracy being higher in the verbal praise group than in the control group. The interaction 
+between cue focality and group was also signifcant, F(1, 
+113)=5.44, p<0.05, ηp
+2=0.05, with accuracy being higher 
+in the verbal praise group than in the control group under 
+the non-focal cue condition, p<0.05, while there was no 
+diference between the two groups in the focal cue condition, p>0.05.
+Prospective memory response time The results of an 
+ANOVA showed a signifcant main efect of cue focality,
+F(1, 113)=9.88, p<0.01, ηp
+2=0.07, with faster response 
+speed in the focal cue than in the non-focal cue condition. 
+However, the main effect of group was not significant, 
+p>0.05 and the interaction between cue focality and group 
+was also not signifcant, p>0.05.
+Ongoing task accuracy The results of an ANOVA showed 
+that neither the main efects of cue focality or group nor the 
+interaction between the two were signifcant, ps>0.05.
+Ongoing task response time The results of an ANOVA 
+showed a significant main effect of cue focality, F(1, 
+113)=6.21, p<0.05, ηp
+2=0.05, with faster ongoing task 
+response speed in the focal cue than in the non-focal cue 
+condition. The main efect of group was also signifcant, 
+F(1, 113)=4.31, p<0.05, ηp
+2=0.04, with the verbal praise 
+group responding more slowly than the control group. None 
+of the interactions between group and cue focality were signifcant, ps>0.05 (Table 3).
+Discussion
+Experiment 1 revealed that verbal praise promoted prospective memory processing by allocating more attention under 
+the high-load condition. Experiment 2 further focused on 
+whether more attention resources allocated to prospective 
+memory tasks by verbal praise would promote prospective 
+Table 3 Participants’ performance on prospective memory tasks and 
+ongoing tasks in focal and non-focal conditions
+Focal-control control group under the focal cue condition; Focalpraise praise group under the focal cue condition; Non-focal-control
+control group under the non-focal cue condition; Non-focal-praise
+praise group under the non-focal cue condition; ACC accuracy; RT
+response time
+Prospective memory Ongoing task
+ACC RT (ms) ACC RT (ms)
+Focal-control 0.71 (0.27) 937 (201) 0.76 (0.07) 941 (195)
+Focal-praise 0.70 (0.35) 954 (224) 0.80 (0.08) 1037 (246)
+Non-focalcontrol
+0.41 (0.36) 1040 (300) 0.77 (0.07) 1089 (288)
+Non-focal-praise 0.68 (0.24) 1152 (395) 0.78 (0.06) 1183 (246)
+Psychological Research
+memory performance only when non-focal cues were used. 
+The results showed that the response speed of the ongoing 
+task was faster with a focal cue than with a non-focal cue, 
+which indicated that the prospective memory task required 
+less attention monitoring with a focal cue compared to a 
+non-focal cue. The verbal praise group’s response speed 
+was slower than the control group, indicating that the verbal praise group reserved more sustained attention to process prospective memory tasks. However, we found that the 
+verbal praise group’s prospective memory performance was 
+better than the control group in the non-focal cue condition, which is consistent with the fndings of Experiment 1. 
+However, there was no diference in prospective memory 
+performance between the two groups in the focal cue condition, suggesting that prospective memory under the focal cue 
+condition did not beneft from verbal praise. This is inconsistent with the view of the motivation cognitive model (Penningroth & Scott, 2013a).
+In summary, the results of Experiment 2 showed that 
+the prospective memory task involving a focal cue was less 
+dependent on attention monitoring. Individuals in the verbal 
+praise group did not signifcantly improve focal-cue prospective memory performance even though they assigned 
+more attention resources to the focal prospective memory 
+task. The PAM theory suggests that prospective memory 
+involves two processing processes: preparatory attention 
+processing and memory processing. Due to the existence of 
+preparatory attention processing, individuals will inevitably 
+consume attention resources for cue monitoring (Smith & 
+Bayen, 2004, 2006). However, the multiprocess theory suggests that the processing of prospective memory requires 
+attentional costs in most cases. But in a few cases (such as 
+under the focal-cue condition), prospective memory cues can 
+be spontaneously extracted, and the dependence of prospective memory with focal cues on attentional monitoring is 
+not strong (Einstein et al., 2005). Therefore, although verbal 
+praise encourages individuals to allocate more attentional 
+resources to prospective memory tasks, the extraction of 
+focal cues does not heavily rely on cue monitoring, so verbal 
+praise does not improve prospective memory performance 
+for focal cues.
+General discussion
+Verbal praise has an efective efect on improving cognitive performance (Albrecht et al., 2014). As a typical social 
+cognitive ability, prospective memory is very common in 
+our life and greatly impacts our quality of life. Therefore, it 
+is important to know whether verbal praise can promote prospective memory. However, to date no studies have directly 
+examined this issue, and this study is the frst to explore the 
+efect of verbal praise on prospective memory. Changes in 
+the difculty of ongoing tasks can manipulate the attention 
+resources that individuals allocate to prospective memory 
+tasks (Guo et al., 2022), while highly difcult ongoing tasks 
+limit the motivation to fexibly allocate attention resources to 
+prospective memory tasks (Guo et al., 2023). Therefore, the 
+promotional efect of verbal praise on prospective memory 
+may be limited by attention load. Experiment 1 showed that 
+verbal praise improved prospective memory performance 
+under both low and high attention load conditions, which 
+verifed our hypothesis under the low attention load condition only.
+How does verbal praise improve prospective memory 
+performance? MPT suggests that motivation may promote 
+task importance in two ways: the frst is to encourage individuals to pay more attention to prospective memory tasks, 
+and the second is to promote the spontaneous extraction 
+of prospective memory intention contents through various 
+pathways (Penningroth & Scott, 2013b; Penningroth et al., 
+2011). Results of the present study showed that verbal praise 
+improved prospective memory performance under both low 
+and high attentional load conditions, and the results of the 
+ongoing task showed that the verbal praise group assigned 
+more attention to prospective memory tasks, confrming 
+the frst pathway of MPT. However, we also found that verbal praise promoted the prospective component only when 
+attentional load was low, indicating that individuals assigned 
+more attention to cue retrieval of prospective memory under 
+the sufcient attention condition, which is consistent with 
+the MPT view. In the case of insufcient attention, although 
+individuals also allocated more attention, it was not used 
+to extract prospective memory cues, which meant that the 
+prospective component did not beneft from more attention 
+costs under the high attention load condition. At the same 
+time, we found that verbal praise only improved the retrospective component performance under the high attention 
+load condition. This suggests that verbal praise promotes 
+the extraction of prospective memory intention in the case 
+of insufcient attention and validates the second pathway of 
+MPT. There are two possible reasons why verbal praise did 
+not work through the prospective component but through the 
+retrospective component in the high attention load condition. 
+First, the ongoing task was more difcult. While the verbal 
+praise group reserved more time for task processing (Heathcote et al., 2015), the highly difcult ongoing task hindered 
+the transfer of attention (Zhang, 2017). Therefore, highdifculty ongoing tasks will hinder the transfer of attention 
+from ongoing tasks to prospective memory tasks, which is 
+not conducive to the retrieval of prospective memory cues. 
+Second, high attentional load leads to a decline in retrospective memory, which makes prospective memory intentions 
+difcult to extract (Marsh & Hicks, 1998). However, motivation encourages individuals to adopt more strategies to process the association between prospective memory cues and 
+intention content in the coding stage, so that the intention 
+Psychological Research
+content is in a state of spontaneous extraction (Penningroth 
+& Scott, 2013b). The higher the degree of automation of 
+cognitive processing, the less afect attention load has on 
+task performance (Zhang et al., 2011). Therefore, the retrospective component of the verbal praise group remained at a 
+high automatic level of processing even under the condition 
+of high attentional load, improving the performance of the 
+retrospective component.
+Although verbal praise can result in more attention being 
+allocated to facilitate the search for non-focal cues when 
+attention monitoring is adequate, prospective memory tasks 
+for focal cues do not beneft from more attention. The results 
+of this study showed that verbal praise continued to prompt 
+individuals to reserve more attention resources for the processing of focal-cue prospective memory, but verbal praise 
+did not improve the prospective memory performance of 
+focal cues, which is inconsistent with the motivational cognitive model. This is mainly because the processing of focal 
+cues is consistent with the processing of ongoing tasks, and 
+individuals have fully retrieved and recognized prospective 
+memory cues while processing ongoing tasks (Cona et al., 
+2014). At the same time, the recognition of focal cues is 
+mainly a bottom-up process (Zuber et al., 2019), while verbal praise mainly afects the top-down attention distribution 
+process. Therefore, the prospective memory of focal cues is 
+less likely to beneft from verbal praise.
+Together, these results indicate that verbal praise can 
+improve prospective memory performance under both low 
+attentional load and high attentional load conditions. When 
+attention load is low, verbal praise mainly improves prospective memory performance by allocating more attention 
+to cue monitoring. When attention load is high, however, 
+verbal praise improves prospective memory performance by 
+promoting the extraction of the intended content. In addition, when attentional load was low, the attention resources 
+reserved for prospective memory in the verbal praise group 
+was benefcial for the prospective memory performance of 
+non-focal cues, but not focal cues. The results of this study 
+demonstrate that verbal praise does not promote prospective 
+memory through both pathways of the motivational cognitive model, but through selective choosing one or the other.
+This study has some limitations. First, this study only 
+revealed the processing mechanism by which verbal praise 
+promotes prospective memory using simple behavioral 
+responses, which are relatively simple indicators. Eyetracking technology can refect the attentional changes more 
+comprehensively and has more advantages in explaining 
+the processing mechanism underpinning prospective memory. For example, pupil diameter can refect attention load 
+(Moyes et al., 2019), and fxation time can refect processing degree (Wedel & Pieters, 2017). Multiple indicators of 
+eye-tracking technology can identify what, when and how 
+individuals attend to a stimulus. Second, the delay time of 
+the prospective memory task in this study was relatively 
+short. Under a long delay condition, individuals allocate less 
+attention resources to prospective memory tasks (Conte & 
+McBride, 2018) and forget more intended content (Barrouillet et al., 2012). Enhanced attention monitoring induced by 
+verbal praise and the spontaneous extraction of the intended 
+content should improve prospective memory performance 
+to a greater extent. Third, this study adopted the betweensubjects design, which cannot exclude the infuence of individual diferences on the experimental efect (Greenwald, 
+1976). Therefore, this study found that the promoting efect 
+of verbal praise on prospective memory may also be mixed 
+with the interference of individual diferences. This study 
+systematically investigated the efects of verbal praise on 
+prospective memory and its diferent components under different attentional load and cue focality conditions. Experiment 1 manipulated attention load by changing the difculty of the ongoing tasks to focus on the efect of verbal 
+praise on prospective memory under diferent attention load 
+conditions. The results showed that verbal praise promoted 
+prospective memory performance under both attentional 
+load conditions, but verbal praise mainly promoted the 
+prospective component when the attentional load was low, 
+meanwhile, verbal praise mainly promoted the retrospective component when the attentional load was high. Experiment 2 altered the dependence of prospective memory tasks 
+on attention monitoring by manipulating the cue focality, 
+further exploring the promotional efect of verbal praise on 
+prospective memory with diferent types of cues under the 
+low attention load condition. The results showed that verbal 
+praise only promoted prospective memory when non-focal 
+cues were used.
+Author contributions YG, JG, and YL contributed to the study conception and design. Material preparation and data collection were 
+performed by YG and JG. Data analysis was performed by YG and 
+FG. The frst draft of the manuscript was written by YG, JG and YL 
+commented on previous versions of the manuscript. All authors read 
+and approved the fnal manuscript. The authors wish it to be known 
+that, in their opinion, the frst two authors should be regarded as joint 
+frst authors.
+Funding This research did not receive any specifc grant from funding 
+agencies in the public, commercial, or not-for-proft sectors.
+Data availability The data that support the fndings of this study are 
+available from the corresponding author on request.
+Declarations
+Competing interests The authors declare no competing interests.
+Conflict of interest The authors declare no confict of interest.
+Ethical approval All procedures performed in studies involving human 
+participants were in accordance with the ethical standards of the insti-
+Psychological Research
+tutional and/or national research committee and with the 1964 Helsinki 
+Declaration and its later amendments or comparable ethical standards.
+Informed consent Informed consent was obtained from all individual 
+participants included in the study

@@ -1,0 +1,1150 @@
+ABSTRACT
+Objective: To explore the effectiveness of doll therapy (DT) on behavior, psychology and cognition among
+older nursing home residents with dementia.
+Methods: A systematic review and meta-analysis was conducted. Subgroup analyses were performed to
+determine whether the intervention characteristics influenced effect sizes.
+Results: Ten studies met the inclusion criteria and were selected for qualitative and quantitative synthesis.
+The overall methodological quality was relatively high. DT significantly improved all behaviors [SMD=-0.42,
+P=0.01], including agitation [SMD=-0.94, P<0.001], apathy, irritability and wandering, and psychological
+
+states (i.e., pleasure, anxiety and depression). However, there was no significant difference in the improve-
+ment of cognition. Subgroup analyses revealed that the DT process employing empathy dolls and coordinat-
+ing with caregivers was more beneficial for improving all behaviors (P=0.01; P=0.02).
+
+Conclusion: DT significantly reduced behavioral and psychological disturbances among older nursing home
+residents with dementia. Specifically, administering empathy dolls and coordinating with caregivers may be
+the most appropriate and effective option.
+© 2023 The Author(s). Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Keywords:
+Doll therapy
+Older adults
+Dementia
+Behavior
+Psychology
+Cognition
+Nursing home
+
+Introduction
+As the aging trend intensifies, the demands for primary medical
+care and assistance with daily living among older adults living in
+long-term care facilities and nursing homes (NHs) are expected to
+increase. Aging is associated with varying degrees of deterioration in
+
+cognitive function; approximately 48 % of older NH residents experi-
+ence a clear-cut cognitive decline, and the dependency rate for care is
+
+as high as 30 %.1,2 Institutionalized older adults are at greater risk of
+
+dementia due to a multidimensional deterioration in cognitive func-
+tion.3 As a neurodegenerative disease with many different etiologies,
+
+the main types include Alzheimer’s disease (AD) and vascular demen-
+tia, which both begin with short-term memory loss and advance to
+
+long-term memory loss and confusion, decreased verbal and compre-
+hension abilities, and changes in personality and behaviors.4 Accord-
+ing to statistical data, more than 10 % of older adults have
+
+Alzheimer’s disease and related dementias (ADRD), and this preva-
+lence increases to 32 % among older NH residents.5 With the exten-
+sive losses from dementia, the burden and stress on caregivers and
+
+the healthcare system can be overwhelming.
+During the clinical progression of dementia, the appearance of
+
+behavioral and psychological symptoms of dementia (BPSD) can fur-
+ther worsen the burden of the disease, and classic symptoms include
+
+agitation, apathy, irritability, wandering, anxiety, depression, delu-
+sions and hallucinations.6 The most common behavioral disturbance
+
+among these symptoms is agitation, and the prevalence can be as
+
+high as 35 % to 70 %.7 Previous studies have indicated that the preva-
+lence of behavioral and psychological disorders ranges from 40 % to
+
+50 % among older NH residents. More than 80 % of institutionalized
+older adults with dementia experience the development of BPSD.8,9
+These issues could be related to the individual’s unfulfilled needs due
+to the environment provided by NHs. The conflicts and changes in
+the psychosocial environment experienced during migration to NHs
+can lead to behavioral and psychological disturbances, which is
+known as “transfer trauma” or “relocation stress syndrome”.
+10 BPSD
+is associated with triggering falling, fracture, multiple trauma,
+
+*Corresponding author.
+E-mail address: slydl2007@163.com (L. Sha). 1 These authors contributed equally to this work.
+https://doi.org/10.1016/j.gerinurse.2023.10.025
+0197-4572/$  see front matter © 2023 The Author(s). Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Geriatric Nursing 55 (2024) 119129
+Contents lists available at ScienceDirect
+Geriatric Nursing
+journal homepage: www.gnjournal.com
+
+disability and various accidents, which generate increased caregiver
+burden, abuse of psychotropic drugs, poor quality of life and higher
+rates of hospitalization and even mortality.8
+Nonpharmacological therapies are considered the main method of
+
+diminishing the risk of BPSD and include emotion-oriented interven-
+tions (reminiscence therapy and reality orientation), sensory stimula-
+tion interventions (acupuncture, music therapy, multisensory
+
+stimulation therapy and transcutaneous electrical nerve stimulation),
+behavior management techniques and psychosocial interventions
+(animal-assisted therapy and multimodal exercises).11 Doll therapy
+(DT) is also an effective nonpharmacological approach to reduce BPSD
+among older adults with moderate to severe dementia and has the
+advantages of being acceptable, affordable, available, and gradually
+used in NHs.12 Previous systematic reviews have already indicated
+the effectiveness of DT for promoting and maintaining the affective
+
+relationship of attachment caregiving.13 A DT program helps partici-
+pants sustain verbal communication skills and focus on the surround-
+ing environment, and it prevents social withdrawal by improving and
+
+maintaining social interaction.14 Furthermore, nonverbal communica-
+tion, such as eye contact, touch, exploration and caregiving behaviors,
+
+could also be increased by adopting care-related attitudes and activi-
+ties,15 thereby promoting a positive psychological state and minimiz-
+ing the appearance of challenging behaviors and psychologies.
+
+The concept of attachment describes the potential mechanism of
+
+the DT process in terms of its efficacy in the control of BPSD. Attach-
+ment theory considers that the human tendency to seek closeness
+
+and protection and the need to establish affective bonds when feeling
+vulnerable or insecure is an expression of the innate motivational
+system.16 This tendency and requirement could persist over the
+whole life course and is particularly important for older NH residents
+affected by dementia, as this population is often exposed to feelings
+
+of personal vulnerability and loss, as well as experiences of separa-
+tion.17 Therefore, BPSD might be interpreted as attachment requests,
+
+while DT provides the possibility of establishing the affective bond
+needed in a stressful situation to reduce behavioral and psychological
+disturbances. The dolls are designed to recreate the sensation of
+touching, staring at, and holding a child and thus can be perceived as
+a translational object, catalyze participants’ attention and reduce
+attachment requests.18 Through communication and interaction with
+the dolls, participants can be prompted to substitute caregiving
+behaviors for challenging behaviors.
+
+A recent meta-analysis revealed that DT can overcome the limita-
+tions of traditional interventions, improve the psychological state
+
+and communication skills of patients with dementia, and diminish
+challenging and aggressive behaviors.19 However, there is insufficient
+evidence to support the effects on older NH residents with dementia.
+Compared with community-dwelling or hospitalized individuals,
+
+institutionalized older adults are more likely to experience a worsen-
+ing of their behavioral and psychological conditions due to the partic-
+ularity of the environment. Although a few studies have examined
+
+the effects of DT on cognition,20 the available evidence is inadequate
+to reach a consensus. No meta-analysis has summarized the effects of
+DT on behavior, psychology and cognition among older NH residents
+with dementia. Therefore, the purpose of this systematic review and
+meta-analysis was to explore the effectiveness of DT in reducing
+dementia-related behavioral and psychological disturbances as well
+as ameliorating cognitive function among older adults with dementia
+in NHs. Subgroup analyses were conducted based on intervention
+characteristics (duration, cycle, types of dolls, and training mode and
+control measures) to optimize the selection of DT programs.
+Methods
+
+This systematic review was reported in accordance with the Pre-
+ferred Reporting Items for Systematic Reviews and Meta-Analysis
+
+(PRISMA) guidelines (Supplementary file 1). It was registered at the
+International Prospective Register of Systematic Reviews (PROSPERO)
+under registration number CRD42023452060.
+Search strategy
+The PubMed, Ovid (MEDLINE), Embase, Cochrane Library, CINAHL
+(EbscoHOST), and Web of Science databases were searched from
+inception until July 25, 2023. Google Scholar was also searched to
+
+identify literature that may have been omitted. The search was con-
+ducted using Medical Subject Headings (MeSH) and free text words,
+
+and language or publication year restrictions were not applied. The
+article type was restricted to randomized control trials (RCTs) and
+
+quasiexperimental studies. Moreover, we evaluated the gray litera-
+ture, the reference lists of the screened studies, and articles of for-
+ward citations to identify additional eligible studies. The search
+
+strategy details are presented in Supplementary file 2.
+Inclusion and exclusion criteria
+The Population, Intervention, Comparison, Outcome, Study design
+(PICOS) framework was used to formulate the selection criteria: (1)
+The population was individuals aged >65 years who had a dementia
+diagnosis in accordance with the Diagnostic and Statistical Manual of
+Mental Disorders (DSM-V) and residing in NHs, long-term care or
+assisted living facilities (residence duration 3 months); there were
+no restrictions on cognitive conditions, but participants were
+required to possess the motor skills necessary to interact with a doll
+and sufficient visual and auditory function and communication skills.
+(2) The intervention comprised DT, and the type of dolls was not
+restricted (e.g., empathy dolls, lifelike dolls, and newborn or reborn
+dolls). (3) The comparison groups received training that was not in
+
+any form of DT, standard care or no intervention. (4) The primary out-
+comes included any behavior-, psychology-, or cognition-related tar-
+gets. (5) The eligible study designs were randomized controlled trials
+
+(RCTs) or quasiexperimental studies.
+The exclusion criteria were as follows: (1) participants with
+severe sensory disorders; (2) dolls without a realistic appearance or
+that were stuffed dolls; (3) unable to access the full text; (4) mixed
+
+method design; (5) secondary analysis; (6) incomplete data for analy-
+sis; and (7) conference abstracts, case reports, gray literature, study
+
+protocols or review literature.
+Study selection and data extraction
+Two researchers initially separately screened the literature by
+
+evaluating the titles and abstracts in accordance with the prede-
+signed criteria. The literature that met the eligibility criteria was then
+
+selected for full-text reading and targeted analysis. Disagreements
+were resolved by consulting a third researcher to reach a consensus.
+The following data were extracted: (1) basic information (author
+names, publication year, country); (2) participant demographic data
+
+(characteristics, age, sample size and sex); (3) intervention character-
+istics (duration and cycle, types of dolls, training mode and control
+
+measures); and (4) outcome measurements (behavior-, psychology-
+and cognition-related indicators). All data were cross-checked by
+
+reviewers.
+Quality assessment
+The Cochrane risk of bias tool was used to evaluate the quality of
+
+the studies.21 Seven items were assessed: random sequence genera-
+tion, allocation concealment, blinding of participants and personnel,
+
+blinding of outcome assessment, incomplete outcome data, selective
+reporting and other bias. Each item was rated as having “high risk”,
+
+120 Y. Peng et al. / Geriatric Nursing 55 (2024) 119129
+
+“unclear risk” or “low risk”. Studies that met all of the above criteria
+
+were considered high-quality studies. Furthermore, the level of evi-
+dence for outcome indicators was evaluated by the Grading of Rec-
+ommendations Assessment, Development, and Evaluation (GRADE)
+
+approach.22 Each outcome was graded as very low, low, moderate or
+high level.
+Statistical analysis
+
+RevMan 5.3 (Cochrane Collaboration, Oxford, UK) statistical soft-
+ware was employed to perform the metaanalysis. The standard
+
+mean difference (SMD) or mean difference (MD) was calculated for
+continuous data, relative risks (RRs) were calculated for counting
+data, and the effect size was assessed using 95 % confidence intervals
+(CIs). The Q value and I
+
+2 value were used to determine heterogeneity
+
+among the studies. I
+
+2 values of 25 %, 50 % and 75 % indicated low,
+moderate and high heterogeneity, respectively. The fixed effect
+model was applied if the heterogeneity among the results was not
+significant (P0.1, I
+2
+<50 %); otherwise, the random effect model was
+
+selected (P<0.1, I
+2
+>50 %). Stata 14.0 statistical software (StataCorp,
+
+LLC, College Station, TX, USA) was used to analyze potential publica-
+tion bias, and the trim and fill methods were also carried out for veri-
+fication. Subgroup analyses were conducted to explore between-
+study heterogeneity. Sensitivity analysis was performed to test the
+
+reliability of the results. Descriptive analyses were used for statistical
+data that could not be combined. P<0.05 was considered to indicate
+statistical significance.
+
+Results
+Study selection
+A total of 360 studies were initially selected by the predesigned
+retrieval strategy from six databases and Google Scholar Search. After
+
+removing 128 duplicate studies with EndNote software, the remain-
+ing 232 studies were screened by title and abstract, and 179 studies
+
+were excluded because they did not meet the eligibility criteria.
+
+Then, 53 full-text studies were further screened, and 43 were subse-
+quently excluded for several reasons: noncorrelation outcomes
+
+(n=17); not RCTs or quasiexperimental studies (n=12); mixed method
+designs (n=5); unable to access the full text (n=4); secondary analysis
+of initial data (n=2); and incomplete data for meta-analysis (n=3).
+
+Ultimately, 10 studies2332 were included for qualitative and quanti-
+tative synthesis. The PRISMA flow diagram of the study selection pro-
+cess is illustrated in Fig. 1.
+
+Basic characteristics of studies and participants
+The 10 included studies were published from 2006 to 2022 and
+were conducted in Australia (n=1), Italy (n=3), Israel (n=1), Korea
+(n=1), Switzerland (n=2), Turkey (n=1) and the United Kingdom
+
+(n=1). A total of 573 older adults with dementia met the eligibility cri-
+teria in the included studies, and the participants’ mean (SD) age
+
+ranged from 82.4 (5.7)26 to 89.7 (8.4)28 years. The majority of partici-
+pants were females (83.66 %), and two studies did not report the sex
+
+proportion.26,27 Two studies were conducted in long-term care or
+
+Fig. 1. PRISMA flow diagram of the study selection process.
+Y. Peng et al. / Geriatric Nursing 55 (2024) 119129 121
+
+social care facilities,28,32 one was performed at a residential care cen-
+ter,27 two were carried out in other social institutions,25,26 and the
+
+remainder were conducted in NHs. Most of the participants had mod-
+erate to severe dementia, one study involved mild cognitive impair-
+ments in older adults,26 and one included older adults suffering from
+
+AD and vascular dementia.31 The participants’ effective adherence
+rates ranged from 82.69 % to 100 %. The reasons for loss to follow-up
+
+mainly included transfer (n=3),27 refusal to participate (n=3),24 neu-
+tral or negative interaction with the doll (n=6),24 unwillingness to
+
+continue (n=4),23 and terminal disease (n=1).23 The methodological
+characteristics of the included studies are summarized in Table 1.
+Doll therapy features
+The dolls mainly included two types as intervening measures.
+
+Three study designs involved empathy dolls, which were character-
+ized as eliciting psychological reactions and providing opportunities
+
+for pleasurable sensory experiences through recreating the sensa-
+tions of touching, staring at and holding a child.23,25,31 Five studies
+
+used lifelike dolls, which were made with smiles and eyes that could
+open and close to convey calmness and peacefulness, but they did
+
+not cry or laugh.24,2830,32 Five study designs reported that the train-
+ing mode was coordinated with caregivers, who guided, supervised
+
+and validated DT sessions, helping the participants to understand the
+program structure and ensuring the safety and comfort of the
+sessions.23,25,26,29,31 Five studies employed health education, and DT
+applications were introduced through pictures, videos or brochures
+within the acceptable understanding of the participants or led by a
+trained research assistant.24,27,28,30,32 The duration of each training
+session ranged from 0.5 to 4 hours, and the total intervention cycle
+
+lasted from 2 to 72 weeks. Most of the control groups received stan-
+dard care or no intervention, and the remaining studies were related
+
+to sham intervention,23,31 standard treatment,24,28 and hand-
+warmer.27 The DT features of the included studies are illustrated in
+
+Table 1.
+Outcome measurements
+The main outcome measures focused on behavior, psychology and
+
+cognition. The most common measurements were the Neuropsychi-
+atric Inventory Scale (NPI) for evaluating behavioral outcomes.24 It
+
+includes 12 behavioral domains, and the frequency (1=rarely to
+4=very often) and severity (1=mild to 3=severe) are reported. The
+final score is found by multiplying these values (0-144), with higher
+
+scores indicating more behavioral disturbances. The Observed Emo-
+tion Rating Scale (OERS) and Quality of Life in Late-Stage Dementia
+
+(QUALID) were selected for the evaluation of psychological state.28,29
+The Mini-Mental Status Examination (MMSE) was primarily used to
+assess cognition.26 It rates 11 items under 5 domains (30-point scale),
+with higher scores indicating more severe cognitive impairment.
+
+Finally, we extricated the different outcome measurement informa-
+tion according to similar structures and methods to create an out-
+come indicator that could be assessed (Table 1).
+
+Methodological quality
+
+The included studies followed the principle of randomization allo-
+cation, reasonable study design and baseline comparison; follow-up
+
+loss and outcome measurement data were completely reported, and
+
+the overall quality was at a high level. Among the 10 studies, 7 stud-
+ies reported random sequence-generating methods that mainly
+
+included drawing lots, computerized sequence generators, and com-
+puter-based block randomization.2328,30 Five studies implemented
+
+procedures for allocation concealment, mainly employing the sealed
+envelope method.23,2528 To ensure the successful completion of the
+
+DT program, only two studies fulfilled the blinding of participants
+and interveners,25,28 but seven studies completed the assessor-blind
+methods for data collection.2326,28,31,32 Almost all studies reported
+
+complete data, indicating that there was minimal possibility of selec-
+tive reporting bias or other bias. The quality assessment of the
+
+included studies is summarized in Table 2. Levels of evidence for out-
+come indicators were assessed as moderate (n=1) and low (n=2). The
+
+low level of evidence was mainly ascribed to the high heterogeneity
+and nonimplementation of allocation concealment and blinding
+methods, and the sample size was limited. The levels of evidence are
+illustrated in Supplementary file 3.
+Meta-analysis of outcome measures
+
+The primary indicators were behavior (agitation, apathy, irritabil-
+ity and wandering), psychology (pleasure, anxiety and depression),
+
+and cognition outcomes.
+Behavior
+The behavioral indicators included agitation, apathy, irritability
+and wandering. Seven studies were compared in terms of whole
+behavior, and one study was excluded from this meta-analysis
+because it reported a different calculation method for the outcome
+indicator.26 The results revealed that DT had a significant effect on
+improving the overall behavior of older NH residents with dementia
+[SMD=-0.42, 95 % CI (-0.74, -0.10), Z=2.54, P=0.01] (Fig. 2). Egger’s
+tests revealed that there was no significant publication bias
+(P=0.656). The trim-and-fill method imputed one study, and the
+results were subjected to trim-and-fill adjustment [SMD=-0.529, 95 %
+CI (-0.865, -0.192)], as shown in Table 3.
+Agitation
+Three studies were compared in terms of agitation.25,28,32 The
+results showed that DT significantly improved the agitation of older
+NH residents with dementia [SMD=-0.94, 95 % CI (-1.36, -0.51),
+Z=4.27, P<0.001] (Fig. 2). Egger’s test revealed that there was no
+potential publication bias (P=0.577), as shown in Table 3.
+Apathy
+Three studies compared participants’ apathy behavior. Molteni et
+al.23 reported that DT significantly reduced the apathy of older adults
+with dementia in NHs (z=-3.418, P<0.001). Santagata et al.24
+observed a significant amelioration of apathy symptoms among the
+participants through training (P=0.0011). Meanwhile, Balzotti et al.26
+found that the participants’ interaction behaviors, social contacts and
+verbalization were significantly enhanced (z=2.01, P=0.04).
+Irritability
+Three studies compared participants’ irritability behavior. Molteni
+et al.23 reported that DT exerted a significant reduction in disruptive
+and aggressive behaviors among older adults with dementia in NHs
+(z=-2.679, P<0.05). Balzotti et al.26 verbalized that participants used
+
+fewer swear words, shouted less, and exhibited less obsessive behav-
+ior (z=2.02, P=0.04). Similarly, Shin et al.29 observed that the partici-
+pants were less irritable while touching, looking at and holding the
+
+lifelike doll (t=-16.31, P<0.01).
+Wandering
+
+Three studies compared participants’ wandering behavior. Mol-
+teni et al.23 reported that DT significantly reduced the wandering of
+
+older adults with dementia in NHs (z=-2.231, P<0.05). Santagata et
+al.24 verbalized a significant improvement in wandering symptoms
+(P=0.0207). Likewise, Shin et al.29 found that the episodes of erratic
+wandering decreased among the participants (t=-17.76, P<0.01).
+
+122 Y. Peng et al. / Geriatric Nursing 55 (2024) 119129
+
+Table 1
+Characteristics of the included studies
+Author (year)
+Country
+
+Methods Participants Interventions Outcomes Measurement
+
+Characteristics
+Age (years)
+
+Sample Size
+(Male/Female)
+
+Experimental Group Control Group Duration and Cycle
+
+Molteni et al. (2022)23
+Switzerland
+
+Singleblinded RCT Older adults with dementia
+living in nursing homes
+EG: 86.9 § 5.9
+CG: 88.4 § 5.5
+
+Total=129
+EG=64 (0/64)
+CG=65 (0/65)
+
+ Design: Doll Therapy
+ Content: Empathy doll
+
+(Recreating the sensation of touch-
+ing, looking at, and holding a child)
+
+ Mode: Coordinated with caregiver
+(Guided and validated sessions)
+
+Sham intervention:
+Nonanthropomorphic
+object
+(Soft foam rubber cube
+
+covered with a col-
+ored and velvety tex-
+tile)
+
+Hours per session: 1
+Total: 72 weeks
+
+ Behavior: NPINH
+ Apathy
+ Irritability
+ Wandering
+ Psychology:
+NPINH Distress
+ Anxiety
+
+Santagata et al. (2021)24
+Italy
+
+RCT Older nursing home resi-
+dents with dementia
+
+EG: 87.0 § 7.0
+CG: 86.0 § 6.0
+
+Total=52
+EG=26 (5/21)
+CG=26 (4/22)
+
+ Design: Doll Therapy
+ Content: Lifelike doll
+ Mode: Health education
+(Provide a brochure on BPSD in
+dementia)
+
+Standard treatment:
+According to standard
+
+clinical care in choos-
+ing
+
+pharmacological
+intervention
+
+Hours per session: 2
+Total: 12 weeks
+
+ Behavior: NPI
+ Apathy
+ Wandering
+ Cognition: SPMSQ
+
+Yilmaz et al. (2020)25
+Turkey
+
+Doubleblinded RCT Institutionalized older adults
+with moderatetosevere
+dementia
+EG: 83.53 § 5.89
+CG: 82.30 § 7.55
+
+Total=29
+EG=15 (5/10)
+CG=14 (9/5)
+
+ Design: Doll Therapy
+ Content: Empathy doll
+(The dolls were named, dressed, had
+hats and socks on, and combed
+their hair)
+ Mode: Coordinated with caregiver
+(Guided and supervised sessions)
+
+No intervention Hours per session: 23
+Total: 8 weeks
+
+ Behavior: NPI
+ Agitation: CMAI
+ Cognition: SMMSE
+
+Balzotti et al. (2019)26
+Italy
+
+RCT Older adults with mild cog-
+nitive impairment living
+
+in social institutions
+EG1: 82.4 § 5.7
+EG2: 87.8 § 6.6
+CG: 86.9 § 5.2
+
+Total=30
+EG1=10
+EG2=10
+CG=10
+
+ Design: EG1: Gesturalverbal
+treatment
+EG2: Doll Therapy
+ Content: Five steps
+ Mode: Coordinated with caregiver
+(Presented, interacted and guided
+sessions)
+
+No intervention Hours per session: 1
+Total: 12 weeks
+
+ Behavior: NPIQ
+ Apathy
+ Irritability
+ Psychology
+ Depression
+ Cognition: MMSE
+
+Cantarella et al. (2018)27
+Italy
+
+RCT Older adults with severe
+
+dementia living in a resi-
+dential care center
+
+EG: 85.31 § 6.21
+CG: 87.23 § 5.03
+
+Total=29
+EG=16
+CG=13
+
+ Design: Doll Therapy
+
+ Content: Discussion study proto-
+colPretest asses-
+smentObservation phase-
+
+Experimental phasePosttest
+assessment
+ Mode: Health education
+
+Handwarmer Hours per session: 1
+Total: 4 weeks
+
+ Behavior: NPIBPSD
+
+Moyle et al. (2018)28
+Australia
+
+Doubleblinded RCT Older adults with dementia
+
+in longterm care facili-
+ties
+
+EG: 86.1 § 8.6
+CG: 89.7 § 8.4
+
+Total=33
+EG=18 (0/18)
+CG=15 (0/15)
+
+ Design: Doll Therapy
+ Content: Lifelike doll
+ Mode: Health education
+(Trained research assistant introduce
+and remove doll)
+
+Standard facility care Hours per session: 0.5
+Total: 3 weeks
+
+ Behavior
+ Agitation: CMAISF
+ Psychology: OERS
+ Pleasure
+ Cognition: MMSE
+
+Shin et al. (2015)29
+Korea
+
+Prepost Older nursing home resi-
+dents with dementia
+
+EG: 82.54 § 7.45
+
+Total=62
+EG=62 (9/53)
+
+ Design: Doll Therapy
+ Content: Lifelike doll
+ Mode: Coordinated with caregiver
+(Guided and feedback sessions)
+
+NA Hours per session: 1
+Total: 12 weeks
+
+ Behavior: Ad hoc
+questionnaire
+ Irritability
+ Wandering
+ Psychology: QUALID
+ Pleasure
+ Anxiety
+ Depression
+(continued on next page)
+Y. Peng et al. / Geriatric Nursing 55 (2024) 119
+129 123
+
+Psychology
+
+Four studies reported the benefits of DT in providing psychologi-
+cal support.23,26,28,29 Two of them found that DT had a significant
+
+effect on positive psychology (i.e., pleasure) among older NH resi-
+dents with dementia (Moyle et al., F=4.400, P=0.044; Shin et al., t=-
+
+4.28, P<0.01).28,29 Four studies were compared in terms of negative
+psychology (i.e., anxiety and depression). Two of them reported that
+DT significantly diminished anxiety and discomfort (Molteni et al.,
+z=-3.929, P<0.001; Shin et al., t=-18.05, P<0.01).23,29 Two studies
+found significant improvements in depression (Balzotti et al., z=2.02,
+P=0.04; Shin et al., t=-18.22, P<0.01).26,29
+Cognition
+Four studies were compared in terms of cognition.2426,28 The
+results showed that DT had no significant effect on improving the
+cognitive function of older adults with dementia in NHs [SMD=-0.23,
+95 % CI (-0.57, 0.11), Z=1.33, P=0.18] (Fig. 2). Egger’s test revealed that
+there was no potential publication bias (P=0.145). The trim-and-fill
+adjustment [SMD=-0.286, 95 % CI (-0.575, -0.003)] was performed by
+imputing one study, as shown in Table 3.
+Subgroup analysis
+Our results showed that DT had significant effects on behavior and
+
+psychology among older NH residents with dementia. Therefore, sub-
+group analyses were conducted to determine whether the interven-
+tion characteristics influenced the effect sizes and to solve the
+
+between-study heterogeneity. The subgroup analyses revealed that
+the empathy doll was significantly superior to the lifelike doll in
+
+improving overall behavior (P=0.01). The DT training mode, con-
+ducted in coordination with caregivers, was more effective than
+
+health education in improving behavior (P=0.02). However, the
+effects did not differ based on training duration, cycle, or control
+measures (Fig. 3).
+Discussion
+Given the intensification of the aging trend and the increasing
+demand for institutionalized facilities, there is an urgent need for an
+integrated, effective and sustainable option to provide psychological
+
+and cognitive care to reduce behavioral and psychological disturban-
+ces among older adults with dementia. DT is a nonpharmacological
+
+technique with the aim of promoting attachment and companionship
+
+among patients with dementia to improve their wellness and mini-
+mize the appearance of challenging behaviors and psychologies.19
+
+This meta-analysis was conducted to explore the effectiveness of DT
+for improving behavior, psychology and cognition among older NH
+residents with dementia. Ten studies reported that DT significantly
+reduced behavioral disturbances and improved the psychological
+state among institutionalized older adults with dementia. However,
+there was no significant difference in the improvement of cognitive
+function.
+Effects of the DT process on behavioral disturbances
+
+The emergence of BPSD seriously affects the presentation and pro-
+gression of dementia among older NH residents and is associated
+
+with greater functional impairment, accelerated cognitive decline
+and increased caregiver burden. The current meta-analysis revealed
+that the DT process significantly improved overall behavior, including
+agitation, apathy, irritability and wandering, among older adults with
+dementia in NHs. Our findings are in line with other studies reporting
+
+Table 1
+
+that DT was effective in decreasing negative behaviors such as
+
+(Continued)
+Author (year)
+Country
+Methods Participants Interventions Outcomes Measurement
+Characteristics
+Age (years)
+Sample Size
+(Male/Female)
+Experimental Group Control Group Duration and Cycle
+
+CohenMansfield
+et al. (2015)30
+Israel
+Exploratory study Older adults with dementia
+residing at a nursing home
+EG: 85.9 § 8.6
+CG: 85.9 § 8.6
+Total=165
+EG=89 (24/65)
+CG=76 (21/55)
+ Design: Doll Therapy
+ Content: Lifelike doll
+(Trial phase and treatment phase)
+ Mode: Health education
+No intervention Hours per session: 4
+Total: 2 weeks
+ Behavior: CAR
+
+Pezzati et al. (2014)31
+Switzerland
+
+Pilot study Older nursing home resi-
+dents with Alzheimer’s
+
+disease and vascular demen-
+tia
+
+EG: 85.8 § 7.3
+CG: 83.6 § 7.4
+Total=10
+EG=5 (1/4)
+CG=5 (0/5)
+ Design: Doll Therapy
+ Content: Empathy doll
+
+(Recreating the sensation of touch-
+ing, looking at and holding a child)
+
+ Mode: Coordinated with caregiver
+Sham intervention:
+Nonanthropomorphic
+object
+(Soft foam rubber cube
+
+covered with a col-
+ored and velvety tex-
+tile)
+
+Hours per session: 1
+Total: 4 weeks
+ Behavior: NPI
+
+James et al. (2006)32
+UK
+Pilot study Older adults with dementia
+living in an EMI social care
+home
+EG: 7594
+CG: 7594
+Total=34
+EG=14 (2/12)
+CG=20 (4/16)
+ Design: Doll Therapy
+ Content: Lifelike doll
+(Pick up, hold and interact with
+dolls)
+ Mode: Health education
+
+(Research staff introduce and feed-
+back sessions)
+
+No intervention Hours per session: 1
+Total: 12 weeks
+ Behavior: Ad hoc
+questionnaire
+ Agitation
+Note: BPSD, Behavioral and Psychological Symptoms of Dementia; CMAI, CohenMansfield Agitation Inventory Scale; CMAISF, CohenMansfield Agitation InventoryShort Form; CAR, Change Assessment Rating; CG, Control Group;
+EG, Experimental Group; EMI, Elderly Mentally Ill; MMSE, MiniMental Status Examination; NPI, Neuropsychiatric Inventory Scale; NPIBPSD, Neuropsychiatric InventoryBPSD Scale; NPINH, Neuropsychiatric InventoryNursing
+Home Scale; NPIQ, Neuropsychiatric Inventory Questionnaire; NA, Not Applicable; OERS, Observed Emotion Rating Scale; QUALID, Quality of Life in LateStage Dementia; RCT, Randomized Controlled Trial; SMMSE, Standardized Mini-
+Mental Status Examination; SPMSQ, Short Portable Mental Status Questionnaire.
+
+124 Y. Peng et al. / Geriatric Nursing 55 (2024) 119129
+
+agitation, apathy and aggression in patients with dementia.33 Mack-
+enzie et al.15 pointed out that 93 % of caregivers of institutionalized
+
+patients with dementia stated that DT decreased irritability and wan-
+dering and improved attitude and communication skills. The retro-
+spective study by Ellingford et al.34 reported that after the DT
+
+process, more positive behaviors emerged, while negative behaviors,
+such as agitation and aggression, declined.
+
+The potential benefits can be ascribed to the dolls having the char-
+acteristics of being cute, soft and comfortable, which could relax indi-
+viduals and conjure affective resonance through contact and
+
+Table 2
+Quality assessment of included studies
+Author (year) Random sequence
+generation
+
+Allocation
+concealment
+
+Blinding of participants
+and personnel
+
+Blinding of outcome
+assessment
+
+Incomplete
+outcome data
+Selective
+reporting
+Other bias
+Molteni et al. (2022)23 low risk low risk high risk low risk low risk low risk low risk
+Santagata et al. (2021)24 low risk unclear risk unclear risk low risk low risk low risk low risk
+Yilmaz et al. (2020)25 low risk low risk low risk low risk low risk low risk low risk
+Balzotti et al. (2019)26 low risk low risk unclear risk low risk low risk low risk low risk
+Cantarella et al. (2018)27 low risk low risk high risk unclear risk low risk low risk low risk
+Moyle et al. (2018)28 low risk low risk low risk low risk low risk low risk low risk
+Shin et al. (2015)29 high risk high risk unclear risk unclear risk low risk unclear risk unclear risk
+CohenMansfield et al. (2015)30 low risk unclear risk unclear risk unclear risk unclear risk low risk unclear risk
+Pezzati et al. (2014)31 unclear risk unclear risk unclear risk low risk low risk low risk unclear risk
+James et al. (2006)32 unclear risk unclear risk unclear risk low risk unclear risk unclear risk unclear risk
+
+Fig. 2. Forest plots of main outcomes.
+
+Table 3
+Metaanalysis of outcome indicators included in the studies
+Outcome indicators Study detail Effect measure Heterogeneity Publication bias
+
+Studies (n) SMD (95 % CI) P value I2
+
+( %) Egger P value Trimandfill imputed studies Trimandfill adjusted SMD (95 % CI)
+Behavior 6 0.42 (0.74, 0.10) 0.01 51 0.656 1 0.529 (0.865, 0.192)
+Agitation 3 0.94 (1.36, 0.51) <0.001 9 0.577 0 
+Cognition 4 0.23 (0.57, 0.11) 0.18 0 0.145 1 0.286 (0.575, 0.003)
+Y. Peng et al. / Geriatric Nursing 55 (2024) 119129 125
+
+interaction with them. Agitation is regarded as a craving for attach-
+ment, and the dolls provided as a therapeutic tool force participants
+
+to focus on the care needs of the dolls, thereby reducing the occur-
+rence of agitation and irritable behaviors.25 Additionally, the dolls
+
+can be conceptualized as a relational subject, prompting a series of
+
+proactive behaviors. This process enhances the participants’ attentive
+
+abilities, achieves affective alternation and clearly allocates signifi-
+cant relationships with the dolls in a safe environment, leading to the
+
+activation of the caregiving system.35,36 Therefore, more frequent
+and longer duration needs and desires for exploration were elicited
+
+Fig. 3. Subgroup analysis of intervention characteristics.
+126 Y. Peng et al. / Geriatric Nursing 55 (2024) 119129
+
+with regard to the relational value, consequently decreasing apathic
+and wandering behaviors. Protection and safety factors are essential
+for individuals based on attachment theory. The DT process enables
+communication, interaction and care between participants and dolls
+and satisfies participants’ attachment needs, thus improving overall
+behavior and decreasing behavioral disturbances.
+Effects of the DT process on psychological state
+Psychological disturbances are particularly pronounced among
+older NH residents with dementia, placing a growing burden on the
+
+health service system. The meta-analysis revealed that the DT pro-
+cess significantly improved the psychological state of this population.
+
+Our results are consistent with previous findings that DT can be used
+
+for rehabilitative purposes to decrease the signs of psychological dis-
+comfort (i.e., anxiety, depression and frustration) and to improve
+
+pleasure-related emotions, expressive ability and communication
+willingness among patients with moderate-to-severe dementia.37,38
+
+The benefits can be attributed to the active interaction and communi-
+cation with the dolls, which could motivate the participants to expe-
+rience the positive psychologies associated with parent-baby
+
+relationships again.31 From the perspective of neuroendocrinology
+based on the attachment theory framework, there is a preference for
+social familiarity when seeking to create supportive relationships
+mediated by oxytocin, which is involved in the mechanism for
+
+attachment formation and coping with stress.39 Therefore, DT con-
+tributed to the formation of attachment relationships through pro-
+gressive exposure, interaction and familiarity with the dolls, which
+
+resulted in a reduced negative psychological state. Furthermore, DT
+
+could create a therapeutic atmosphere to stimulate sensory percep-
+tion, promoting the development of a positive psychological state,
+
+and actively interacting with caregivers and the external
+environment.29,40
+Effects of the DT process on cognitive function
+The progression of dementia is frequently accompanied by varying
+
+degrees of cognitive decline, and the variability of cognitive perfor-
+mance is affected by multiple factors, which are mainly associated
+
+with poor stimulation of perceptive and executive function.41 The
+
+meta-analysis showed that application of the DT process did not effec-
+tively improve cognition among older NH residents with dementia,
+
+which is in line with previous findings.38 The potential mechanism
+was that improvements in cognition require attention, orientation,
+memory, and construction tasks that activate different sensory media
+
+to improve perceptive and executive functions, such as attention, reac-
+tion time, short-term memory, and information processing speed. DT
+
+was designed to reduce the participants’ attachment requests and
+establish affective bonds.18 Although it helps to improve attention,
+
+touching, staring at, and holding the dolls did not effectively amelio-
+rate executive ability. However, another view considered that interact-
+ing with dolls can stimulate perception and promote communication
+
+with the external environment, which can activate the brain’s residual
+memory to a certain extent.13 Therefore, we suggest incorporating
+
+more basic studies in the future to observe the effect of DT on cogni-
+tion among older NH residents with dementia.
+
+Characteristics of interventions
+
+The subgroup analyses revealed that the types of dolls and train-
+ing mode of DT had moderating effects on the improvement of over-
+all behavior among older NH residents with dementia. Therefore, in-
+depth analyses were constructed to determine the optimal strategy.
+
+Effects of the DT type on overall behavior
+The types of dolls employed by the DT process are manifold and
+varied, but the dominant types are empathy dolls and lifelike dolls.
+The differences between design types may produce different effects
+on the outcome indicators. Unexpected anecdotal findings from the
+subgroup analysis showed that DT sessions employing empathy dolls
+resulted in more significant improvement in all behaviors than those
+using lifelike dolls. The potential mechanism is that the presentation
+
+of empathy dolls elicits the participants’ psychological reactions, pro-
+vides opportunities for pleasurable sensory experiences and pro-
+motes caring and exploratory behaviors to build a caregiving
+
+relationship between the participants and the doll.23,42,43 Consistent
+
+with the theoretical framework of attachment, DT facilitates percep-
+tions of security by creating a situation in which the participants are
+
+gradually exposed to, interact with and become familiar with the
+dolls, which contributes to the formation of attachment relationships,
+
+reduces behavioral disturbances, and improves the participants’ com-
+munication abilities, self-esteem and overall quality of life.31,44 In
+
+contrast, the use of lifelike dolls is more concerned with calming
+emotions to minimize the appearance of challenging behaviors.28,45
+However, the establishment of affective bonds and anthropomorphic
+relationships in their designs is not perfect, resulting in differences in
+the generation of attachment;46 thus, the effects may be diminished.
+Effects of the DT mode on overall behavior
+To facilitate the implementation of the DT process, the design of
+
+the training mode must account for participants’ personal rights, pref-
+erences, attitudes and beliefs.29 Our subgroup analysis showed that
+
+the DT process coordinated with caregivers had a more significant
+
+effect on all behaviors than health education. Although previous stud-
+ies have confirmed the effectiveness of pictures, videos, brochures
+
+and guidance by trained research assistants,15,47 this cannot replace
+
+the role of caregivers who introduce, guide and explain the proce-
+dures to ensure correct execution and supervise, validate and feed-
+back the significance of participants’ interaction with the dolls.25,26
+
+While incrementally fostering autonomy, this process can also provide
+a source of security to improve the quality of caregiving relationships.
+Caregivers could recognize the participants’ interests, attitudes and
+preferences, assist in decision-making and provide information and
+support to ensure their rights to choose autonomously, guarantee the
+security of the procedures and implement the person-centered
+intervention.23,48 Based on the initial reactions of the participants,
+engaging with the doll and providing necessary assistance may be the
+optimal guidance to determine whether the approach is appropriate.
+Respect for autonomy could resolve any ethical issues that may be
+
+encountered in the DT process, such as viewing it as a childish behav-
+ior and the difficulties in finding the target individuals for treatment.
+
+Conversely, caregivers who regarded sessions as a daily duty gradu-
+ally became acquainted with the intervention mechanisms and pro-
+vided continuous supervision and feedback, which also helped to
+
+reduce their distress and improves the quality of personalized care.49
+Strengths and limitations
+This review systematically elucidated the effectiveness of DT on
+behavior, psychology and cognition among older NH residents with
+dementia. The optimal scheme was determined through in-depth
+analyses. Nevertheless, there are still some limitations to our study.
+First, the high proportion of female participants may have triggered
+sex-specific responses caused by the imbalance in the male‒female
+ratio. Second, blinding is difficult to achieve because participants and
+interveners need to know the DT process, which might bias the
+results. Third, because of the lack of standardized tools to assess the
+Y. Peng et al. / Geriatric Nursing 55 (2024) 119129 127
+
+affective-relational dynamics of attachment caregiving among the
+participants, some studies used only observational measures. Future
+
+studies should develop standardized and objective outcome meas-
+ures. Laboratory assessments can detect subtle changes that cannot
+
+be measured by clinical tests to avoid subjective effects.50 Fourth, the
+communications and interactions between health care professionals
+and participants may produce a calming effect during the DT process;
+therefore, the interaction effects are also difficult to identify. Finally,
+the partial included studies merely employed descriptive analyses
+due to methodological limitations, which may limit the credibility of
+the results.
+Conclusion
+This systematic review and meta-analysis demonstrates that the
+DT process significantly diminished behavioral disturbances and
+improved the psychological state among older NH residents with
+
+dementia, which can provide a reference for future research. How-
+ever, the mechanism behind the effectiveness of DT on cognition
+
+needs further exploration. The crucial findings were that employing
+empathy dolls and coordinating with caregivers may be the most
+appropriate and effective strategy. Currently, DT procedures are
+
+advocated as a cost-efficient, sustainable and safe approach to ame-
+liorate behavioral and psychological symptoms in older adults with
+
+dementia. Future studies should focus on multicenter study design
+and blind procedures, unify outcome indicators and precise measure
+outcomes, and identify the interaction effects between health care
+professionals and participants to further consolidate the effectiveness
+of DT among older NH residents with dementia.

@@ -1,0 +1,272 @@
+Advances in development of quantum computing processors brought ample opportunities to test 
+the performance of various quantum algorithms with practical implementations. In this paper we 
+report on implementations of quantum compression algorithm that can efciently compress unknown 
+quantum information. We restricted ourselves to compression of three pure qubits into two qubits, as 
+the complexity of even such a simple implementation is barely within the reach of today’s quantum 
+processors. We implemented the algorithm on IBM quantum processors with two diferent topological 
+layouts—a fully connected triangle processor and a partially connected line processor. It turns out that 
+the incomplete connectivity of the line processor afects the performance only minimally. On the other 
+hand, it turns out that the transpilation, i.e. compilation of the circuit into gates physically available 
+to the quantum processor, crucially infuences the result. We also have seen that the compression 
+followed by immediate decompression is, even for such a simple case, on the edge or even beyond the 
+capabilities of currently available quantum processors.
+Quantum computers, as a theoretical concept, has been suggested in the 1980’s independently by Paul Beniof1
+and Yuri Manin2
+. Later they have been popularized by Richard Feynman in his seminal work on simulating quantum physics with a quantum mechanical computer3
+, which has inspired a new scientifc feld, collectively known 
+as quantum information and computation4
+. In the last thirty years, the possibility of quantum computing has 
+been studied in depth and revolutionary advances in computation and information science have been made. It has 
+been shown that aside from the ability to simulate quantum physics efciently, which is invaluable in chemistry5,6
+, 
+quantum computers provide a speedup in interesting computational tasks, such as integer factorization7
+, search 
+in unstructured databases8–10 or random walks11. Additionally, quantum information scientists have realized 
+that using quantum features of physical particles, such as entanglement, can be used to implement novel communication protocols providing before unseen efciency12–14 and above all else, with unconditional security15–18.
+In spite of all these advances, there has always been a large gap between theory and experiments in quantum 
+computation and information. While there was a steady progress in development of practical quantum-mechanical computers19–21, in practice it has been lagging behind the theoretical advances and only the most well-known 
+quantum algorithms have obtained a proof-of-principle implementations (see the most recent implementations 
+of Shor’s factorization algorithm22 and Grover search23,24). Commonly, however, researchers were, until recently, 
+unable to test their algorithms even on small scale quantum computers. Tis situation has changed in May 2016, 
+when IBM has made their quantum computers accessible to general public via remote access25. Tis invigorated 
+the feld of quantum computation and since then multiple experiments have been conducted on IBM systems 
+and reported on in literature26–40. What is more, this inspired a new wave of research, designing algorithms that 
+can take advantage of noisy small scale quantum processors, called “Noisy intermediate-scale quantum (NISQ) 
+algorithms”41–43.
+In this paper we join this efort and implement quantum compression algorithm introduced in44 and further 
+developed in45–50. Tis algorithm is used to compress n identical copies of an arbitrary pure qubit state into 
+roughly log(n) qubits. Unlike in classical physics, in quantum world a set of identical states represents a valuable 
+resource in comparison to a single copy of such a state. As quantum states cannot be copied51–53 and a single copy 
+provides only a limited information about the state when measured54, several copies can be utilized for repeated 
+use in follow-up procedures or for a more precise measurement.
+Storing N identical copies of the same state independently is obviously a very inefcient approach. Whereas 
+it is not possible to compress the states in the classical manner (concentrating entropy into a smaller subspace) 
+OPEN
+1
+Institute of Physics, Slovak Academy of Sciences, Dúbravská cesta 9, 841 04 Bratislava, Slovak Republic. 2
+Institute 
+of Computer Science, Masaryk University, Šumavská 416, 602 00 Brno, Czech Republic. *email: martin.plesch@
+savba.sk
+2
+Vol:.(1234567890)
+Scientifc Reports | (2022) 12:5841 | https://doi.org/10.1038/s41598-022-09881-8
+www.nature.com/scientificreports/
+without measuring the states and disturbing them, laws of quantum mechanics allow to utilize the symmetry of 
+a set of identical states to concentrate all relevant information onto a small, yet not constant subspace. In44 we 
+have shown that such a procedure can be done in an efcient way (i.e. using a number of elementary quantum 
+gates scaling at most quadratically with the number of compressed states) and this idea was later utilized with a 
+custom designed quantum experiment45 for the specifc case of compressing three identical states of qubits on 
+a subspace of two qubits.
+Here we implement the same, simplest non-trivial case, which we call 3 → 2 compression. Unfortunately, 
+larger number of compressed qubits is beyond the scope of current quantum processors, because the depth of the 
+required circuit becomes impractical. As we show in the “Results” section, compression followed by immediate 
+decompression is already for this most simple scenario on the edge of capabilities of IBM processors. Scaling up 
+to the next level, i.e. 4 → 3 compression, would induce an increase of the number of elementary gates by at least 
+a factor of 5, which would certainly result into a complete noise in the result. Another disadvantage of 4 → 3
+compression is a large redundancy in the target space (three qubits can accommodate information about as many 
+as seven identical states), leaving space for further errors in the decompression.
+Implemented algorithm can be defned using a gate model of quantum computation and is given in Fig. 1. 
+Apart from well known standard gates (CNOT gate, Tofoli gate and controlled H gate) the depicted algorithm 
+uses controlled U3 gates, where
+Note that U3 gate is just a specifc parametrization of a universal one qubit unitary. Implementing the 3 → 2
+compression algorithm is in principle possible simply by inserting the circuit from Fig. 1 into the IBM quantum 
+computing platform called Qiskit55, and running it using a simulator or a real processor. Tis, however, rarely 
+leads to an optimal, or even acceptable implementation in terms of fdelity of the compressed state to the ideal 
+compressed one. Te main reason for this is that controlled H gate, Tofoli gate and the controlled U3 gates cannot 
+be natively executed on the IBM quantum processors and need to be decomposed into the hardware supported 
+basis gates. Procedure to perform this decomposition is called transpilation. Te basis gates of IBM quantum 
+computers are: Rz (θ )—a rotation around z axis by an angle θ; √X—a square root of Pauli X gate; and CNOT—a 
+controlled not gate. Te fnal form of the circuit to be executed is further guided by the connectivity graph of 
+the quantum processor to be used, which contains an information about which pairs of qubits can perform a 
+hardware CNOT operation. Tere are only two types of connectivity graphs for a connected confguration of 3 
+qubits: (1) a triangle, a fully connected graph in which CNOT can be implemented between all pairs of qubits 
+and (2) a line, in which one CNOT between one pair of qubits is not available. Tese are both relevant for practical quantum computing on IBM quantum platform, as at the time of performing the experiments processors 
+of both kinds were available.
+Te paper is organized as follows. In the frst part, we present the results of simulations and experiments 
+for the compression algorithm only, both on the fully connected quantum processor and on the partially connected processor, where a more sophisticated transpilation is needed. In the second part we present the results 
+of a combined compression and immediate decompression algorithm, both for fully connected and partially 
+connected processors. Here the transpilation takes even a bigger role, as the internal IBM system was not able 
+to fully optimize the circuits, unlike in the previous case, so a custom post-processing lead to better results.
+Results
+We conducted two diferent 3 → 2 compression experiments. First, we performed a compression only algorithm, 
+in which we run the compression algorithm and perform the full tomography of the resulting 2 qubit states to 
+obtain fdelity to the ideal compressed state. Second, we performed compression algorithm followed by decompression algorithm, in which we frst compress three input states into two and then proceed to perform the 
+decompression algorithm. Tis experiment can be seen as a simulation of the whole compression/decompression 
+routine with an assumption of faultless quantum memory. Here we do not need to make a full tomography of 
+the resulting state, as the fdelity is given simply by its 000 state component.
+U3(φ, θ, ) = (1)  cos  θ
+2
+ − ei sin  θ
+2
+
+eiφ sin  θ
+2
+ ei(φ+) cos  θ
+2
+
+
+.
+Figure 1. Basic circuit for compression of three qubits into two afer a series of optimization comparing to 
+the original results presented in44. QSWT stands for Quantum Schur–Weyl Transform, for details see45. Before 
+execution on a real quantum processor it needs to be transpiled, i.e. compiled into basis gates.
+3
+Vol.:(0123456789)
+Scientifc Reports | (2022) 12:5841 | https://doi.org/10.1038/s41598-022-09881-8
+www.nature.com/scientificreports/
+As the input state |ψ� signifcantly afects the fdelities obtained, each of the two experiments was performed 
+on 6 diferent input states—eigenvectors of Pauli X, Y and Z operations denoted |+�, |−�, |y+�, |y−�, |0�, |1�. Further, we implemented each of these experiments in two ways—one using default calls of transpilation function 
+provided by the IBM programming environment Qiskit56 and the second using a more sophisticated transpilation algorithm, which frst splits the compression circuits into subparts and transpiles them separately before 
+one fnal transpilation as a whole (see “Methods” section for detailed description). Transpilation is performed 
+using simulators of quantum processors ibmq_5_yorktown (triangle connectivity) and ibmq_bogota (line connectivity) as backend. Choosing a backend informs the transpilation function about the connectivity and current 
+calibration data which is used in an attempt to fnd the best decomposition into the elementary quantum gates. 
+We show that using more sophisticated transpilation, we can signifcantly decrease the number of single- and 
+two-qubit gates needed, which results in decreased depth and increased fdelity in most of the performed experiments (see Figs. 2, 3 and 5).
+Te frst result of this paper is that the implementation on a line connected processor does not require substantially more resources than the fully connected triangle architecture—triangle implementation of the compression circuit requires 9 CNOTs, while the line implementation requires only 10 CNOTs. Tus the overhead 
+of the incomplete connectivity is limited to about 10% and is compensated by the lower noise of the processor 
+with limited connectivity.
+Finally, we run both experiments with diferent starting states and using both efcient and default transpilation on real quantum hardware. Tis reveals that the simulators are too optimistic as the decrease in fdelity for 
+all cases is rather signifcant. Tis efect becomes more pronounced with larger number of gates in the tested 
+circuit, which is apparent from the fact that compression experiment on real hardware produces rather good 
+outcomes even for real hardware (see Fig.  3), while compression/decompression experiment results in very low 
+fdelities of correct decompression (see Fig. 5).
+Compression experiment. In this subsection we present detailed results for the compression only experiment. First we conducted experiments with triangle connectivity, using ibmq_5_yorktown quantum processor. 
+Default transpilation with this backend produces a circuit with 9 CNOTs, 35 RZ operations and 28 √X operations, with depth 46. Te efcient transpiration results in a transpiled circuit with 9 CNOTs, 23 RZ operations 
+and 14 √X operations with depth 37 (see Fig. 2 for a schematic representation of these circuits). Tis diference 
+results in roughly 1–2% increase of fdelity when simulating the efciently transpiled compression algorithm, 
+except for starting state |1�, where the default solution slightly outperforms the efcient one.
+In experiments using line architecture we were using ibmq_bogota processor. With this backend the transpilation function produced variable results. Number of CNOTs varied between 10 and 25, while the circuit depth 
+varied between 49 and 105. Te reason for this variance is that transpilation procedure uses a stochastic method 
+to fnd decomposition in case of a missing CNOT connectivity. Roughly 25% of runs fnd the most efcient solution with 10 CNOTs, 30 RZ operations and 26 √X operations with depth 49. On the other hand, the efcient 
+transpilation (see “Methods” section for details) resulted in transpiled circuit with 10 CNOTs, 24 RZ, and 18 √X
+operations and depth 41 (see Fig. 2 for schematic representation of these circuits). Surprisingly, this diference 
+results only in negligible increase of fdelity of the simulated compression algorithm when using the efcient 
+solution. Even more interestingly, in case of input state |1� the default solution again outperforms the efcient one.
+In order to confrm the results obtained in simulation we also ran the same circuits on real hardware. For 
+ibmq_5_yorktown the obtained fdelities are signifcantly lower than the simulation suggests, with an average 
+drop of 20–30% and in case of default transpiled circuit, ranging even to 40% for the |−� input state (see Fig. 3). 
+Te length of the circuit is the likely reason for this decrease, as the coherence times for the ibmq_5_yorktown
+processor were rather short compared to the newer generation of processors. Tis intuition is confrmed by 
+inspecting the experiment results for ibmq_bogota. In this set of experiments with a newer generation of the 
+processor with longer coherence times the fdelity decrease compared to the simulation was only 7–20% (see 
+Fig. 3). Interestingly, also in this case we can see that the best default transpiled circuit outperformed the efcient 
+one for some input states.
+Compression and decompression experiment. In the second experiment we let the default transpiler produce the circuits for both compression and decompression (see Fig. 4).In case of ibmq_5_yorktown
+the default transpiler could not fnd a decompression circuit with 9 CNOTs and the complete compression/
+decompression circuit therefore had 21 CNOTs, 62 RZ operations and 46 √X operations with total depth of 90 
+including the operation, which resets the third qubit. Tis compares to efcient circuit for triangle connectivity, 
+which uses complex conjugate of the efcient compression algorithm for decompression with 18 CNOTs, 46 RZ
+and 28 √X with total depth of 77 including the reset operation. Tis more signifcant diference results in larger 
+advantage of simulating the efcient solution compared to the compression only experiment, with efcient circuit reaching roughly 5–6% better fdelities. Again, the outlier is the prepared state |1�, where the advantage of 
+the efcient solution is only roughly 1% (see Fig. 5).
+Using ibmq_bogota with line connectivity, we again observe that decompression algorithm poses a problem 
+for the default transpiler. Te solutions vary considerably with circuits using between 26 and 49 CNOTs with 
+depths between 107 and 201. In this experiment only roughly 3% of transpiler runs resulted in the best solution 
+with 26 CNOTs, 69 RZ and 60 √X operations with total depth of 99 including the three reset operations. For 
+comparison, the efcient solution always results in 20 CNOTs, 48 RZ and 36 √X operations with total depth of 
+87. Tis decrease in complexity results in advantage for the simulated efcient solution with average increased 
+fdelity between 3–7%, depending on the input state.
+4
+Vol:.(1234567890)
+Scientifc Reports | (2022) 12:5841 | https://doi.org/10.1038/s41598-022-09881-8
+www.nature.com/scientificreports/
+Moving on to experiments with hardware backend, we see that ibmq_5_yorktown sufers from a substantial 
+performance drop. In particular, the results in the default transpilation case are consistent with random outcomes, 
+Figure 2. Schematic representation of transpiled compression circuits. Here, single qubit rotations labeled U3
+(see Eq. (1) for defnition) are implemented by 1–5 basis gates, i.e. Rz rotations and √X. In total, the default 
+transpiled circuit using a triangle architecture contains 9 CNOTs, 35 RZ operations and 28 √X operations, 
+with depth 46. Efciently transpiled circuit using triangle architecture consists of 9 CNOTs, 23 RZ and 14 √X
+operations and has depth 37. Te best circuit produced by default transpiler on a line architecture consists of 10 
+CNOTs, 30 RZ operations and 26 √X operations with depth 49. Efcient transpilation always fnds a solution 
+with 10 CNOT, 24 RZ and 18 √X operations and also has depth 41. Tese circuits are used in the compression 
+experiment, where full tomography is performed on the qubits containing the compressed state, while the third 
+qubit is discarded. Note that in the circuit for the triangle connectivity qubit 2 is discarded and for the line 
+connectivity qubit 1 is discarded.
+5
+Vol.:(0123456789)
+Scientifc Reports | (2022) 12:5841 | https://doi.org/10.1038/s41598-022-09881-8
+www.nature.com/scientificreports/
+suggesting the experimental state fully decohered before the calculation could fnish. Similarly, in the case of 
+experiments using line connected ibmq_bogota backend we can observe a signifcant drop in fdelities. Te 
+diference between default and efcient circuits is more substantial than in the compression only experiment, 
+which is caused by a more substantial diference between the two circuits. Here, clearly the efcient solution 
+outperformed the default one, however, both sufered 20–45% drop in obtained fdelities comparing to simulations. Tis suggests that the length of the circuits currently exceeds the possibilities of even the newest generation 
+of IBM quantum computers.
+Discussion
+Compression of unknown quantum information in its simplest scenario, compressing of three identical states 
+into two, is a nice toy example for testing of abilities of emerging quantum computers. In this work we present 
+the implementation of the quantum compression algorithm on two diferent IBM processors. In both cases we 
+simulate the procedure using classical computers and run real quantum computations.
+Te frst result is the comparison of two diferent types of quantum processor connectivity—full triangle 
+and a line connectivity. Our implementations reveal that triangle connectivity does not result in a signifcant 
+advantage for the 3 → 2 compression, as only one additional CNOT is needed to compensate the missing connection. In other words, the higher quality of the newer generation of processors fully compensated the lower 
+level of connectivity. As a result, we have seen that the most recent generation of IBM quantum processors can 
+attain fdelity of compression of 70% − 87%, depending on the state to be compressed. On one hand this is a 
+rather impressive technical feat, because the implemented circuits are non-trivial, on the other, it is still likely 
+below the levels needed for practical use of the compression algorithm.
+Tere are also several results that have a general validity for basically any computation performed on quantum computers. First, we have shown that the current qiskit transpiler needs to be used wisely, with some 
+Figure 3. Column chart representing fdelities of the compressed state in the compression experiment using 
+both ibmq_5_yorktown and ibmq_bogota quantum processors. Simulations were performed with 1 million shots 
+each, using error parameters provided by IBM for each of the processors, while the hardware run fdelities are 
+averages calculated over 10–20 runs with 8192 shots each. We use standard deviation for error bars.
+6
+Vol:.(1234567890)
+Scientifc Reports | (2022) 12:5841 | https://doi.org/10.1038/s41598-022-09881-8
+www.nature.com/scientificreports/
+sophistication. Tis is demonstrated by the fact that the default setting of the transpiler fnds the most efcient 
+solution in case of line connectivity with only a very small probability. Even worse, the default transpiler does 
+not fnd the best solution for decompression circuit at all. Tis suggests that in order to fnd optimal transpiled 
+circuits for any algorithm described by a unitary U, it generally might be a good strategy to transpile both U
+and U†
+ and choose the more efcient one. It also turns out that it is advantageous to transpile more complicated 
+circuits frst in smaller blocks to get rid of unsupported gates and connections and then optimize the whole 
+circuit in order to minimize the total number of gates.
+As a very important point it turns out that the simulators implemented for IBM quantum computers are far 
+too optimistic. Most probably only a part of the decoherence sources is sufciently modeled, which leads to a 
+far lower simulated noise if compared to reality. Tis in particular limits its usability for testing the performance 
+of the available processors on complicated tasks.
+Methods
+In this section we briefy describe the tools and the algorithm used to obtain efcient circuits. Te main tool that 
+crucially infuenced the quality of the output results was transpile function from qiskit. It translates all gates 
+that are not directly supported by the computer into gates from its library and also bridges CNOT gates acting 
+between not-connected qubits into a series of gates on connected qubits. It should, to some level, also optimize 
+the circuit for the least number of gates and get use of the higher quality qubits and connections.
+In its basic form, transpile function takes as inputs circuit, backend and optimization_
+level. Input circuit contains the information about the circuit to be transpiled and backend contains 
+information about the quantum processor to be used—connectivity of given quantum processor (i.e. line or 
+triangle in our case), as well as error parameters of individual qubits. Te last input defnes what kind of optimization is performed on the circuit. Tere are four basic levels qiskit ofers, described in the Qiskit tutorial as: 
+optimization_level=0: just maps the circuit to the backend, with no explicit optimization (except 
+whatever optimizations the mapper does).
+optimization_level=1: maps the circuit, but also does light-weight optimizations by collapsing adjacent gates.
+optimization_level=2: medium-weight optimization, including a noise-adaptive layout and a gatecancellation procedure based on gate commutation relationships.
+optimization_level=3: heavy-weight optimization, which in addition to previous steps, does resynthesis of two-qubit blocks of gates in the circuit.
+For all settings, the approach of the transpiler is stochastic. Tus it does not necessarily ends up with the same 
+solution every time it is called. Moreover, for more complicated circuits and higher optimization levels it might 
+not fnd a solution at all, most probably due to reaching a threshold in the number of iterations or computer load.
+Te default circuits for both experiments with ibmq_5_yorktown were obtained by transpiling the default 
+circuit presented in Fig. 1 three times in a row, each time with decreasing the value of the optimization level, 
+starting from value 3. Te default circuits for ibmq_bogota were obtained in the same way. Te transpilation was 
+run 100 times for both experiments and the most efcient circuits were used.
+Figure 4. Schematics of the compression and decompression experiment. Tree copies of input state |0� are 
+frst prepared into one of the desired starting states |ψ� from the set {|0�, |1�, |+�, |−�, |y+�, |y−�} using the 
+preparation unitary UPrep. Subsequently, three copies of |ψ� are compressed using the compression algorithm 
+UComp. Ten, the last qubit is restored to state |0�. Tis marks the end of the compression part, afer which the 
+frst two qubits plus the |0� state are frst decompressed using the complex conjugation of UComp, and rotated 
+using the complex conjugation of the preparation unitary. Te expected result is |000� state and the probability 
+of obtaining this result is the fdelity of the experimental compression and decompression experiment. Dashed 
+vertical lines represent barriers that divide the circuits into parts, which the transpiler processes separately and 
+independently.
+7
+Vol.:(0123456789)
+Scientifc Reports | (2022) 12:5841 | https://doi.org/10.1038/s41598-022-09881-8
+www.nature.com/scientificreports/
+Te efcient circuits for compression experiment were obtained by frst splitting circuit presented in Fig. 1
+into three parts, in order to transpile both controlled U3 operations and the “Disentangle and erase” part separately. First this was done using ibmq_5_yorktown, with optimization_level = 3 for U3(1.23, 0, π ) and 
+optimization_level = 2 for U3(1.91, π, π ), to produce a circuit with 1 CNOT and 2 CNOTs respectively. 
+Ten the rest of the circuit from Fig. 1 was transpiled with optimization_level = 1. Finally all three 
+parts were joined together and again transpiled with optimization_level = 3, followed by optimization_level = 1 to produce the fnal result.
+In order to produce an efcient circuit for ibmq_bogota, the efcient circuit for ibmq_yorktown was transpiled 
+three times with a new backend, with optimization_level starting at value 3, followed by value 2 and fnally value 
+1. Again, the result of this transpilation was stochastic, but in roughly 10% of the trials the fnal circuit with 10 
+CNOTS was produced.
+Efcient circuits for the compression and decompression experiment were obtained by using previously 
+obtained efcient circuits for compression experiment and their complex conjugation for decompression part.

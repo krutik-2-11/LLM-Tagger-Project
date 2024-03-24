@@ -1,0 +1,1373 @@
+a b s t r a c t
+
+Feelings of belonging are integral in people’s choice of what career to pursue. Women and men are dispropor-
+tionately represented across careers, starting with academic training. The present research focuses on two fields
+
+that are similar in their history and subject matter but feature inverse gender gaps—psychology (more women
+than men) and philosophy (more men than women)—to investigate how theorized explanations for academic
+gender gaps contribute to feelings of belonging. Specifically, we simultaneously model the relative contribution
+of theoretically relevant individual differences (empathizing, systematizing, and intellectual combativeness) as
+well as life goals (prioritization of family, money, and status) to feelings of belonging and majoring in psychology
+
+or philosophy. We find that men report higher intellectual combativeness than women, and intellectual combat-
+iveness predicts feelings of belonging and majoring in philosophy over psychology. Although systematizing and
+
+empathizing are predictive of belonging and, in turn, majoring in psychology and philosophy, respectively, when
+other factors are taken into account, women and men do not differ in empathizing and systematizing. Women,
+more than men, report prioritizing having a family, wealth, and status in choosing a career, and these directly
+or indirectly feed into feelings of belonging and majoring in psychology, in contrast to prior theory. Together,
+these findings suggest that students’ perceptions of their own combativeness and the extent to which they desire
+money and status play essential roles in women’s feeling they belong in psychology and men’s feeling they belong
+in philosophy.
+Women represent the majority of students in higher education,
+
+but they are disproportionately represented across disciplines. Com-
+pared to men, women are overrepresented in fields such as human-
+ities and psychology and underrepresented in others such as STEM
+
+(Science, Technology, Engineering, Math) and philosophy. These gen-
+der disparities are problematic both because they limit the perspec-
+tives, talents, and diverse skills brought to bear on the work and be-
+cause these disparities emerge despite women and men’s equal capa-
+bilities across various types of work. Not only can this inequity pre-
+clude productivity and innovation (e.g., Deszsö and Ross, 2012), but
+
+the lack of parity itself is unjust. To better understand the factors that
+drive individuals towards or away from different fields, and control
+
+for many of the typical confounds such as history and topic, we in-
+vestigate the inverse gender gaps across two fields that are similar in
+
+history (i.e., were once one field) and subject matter (e.g., human na-
+ture, the mind, ethics, group interactions, knowledge, perceptions of
+
+✩ Preregistration is available on the Open Science Framework.
+∗ Corresponding author at: Heather Maranges, Department of Psychology, Winston-Salem, NC, 27109.
+E-mail address: hmaranges@gmail.com (H.M. Maranges).
+
+reality, morality): Psychology and Philosophy. This comparison is par-
+ticularly illuminating because both pipelines leak early, with women
+
+not enrolling in or leaving philosophy and men not enrolling in or
+leaving psychology after introductory classes (e.g., Paxton et al., 2012;
+Yu et al., 2020).
+The extent to which people feel that they belong within a particular
+field (i.e., the extent to which individuals feel accepted by and similar to
+their group) has a strong influence on whether they pursue a particular
+career path (e.g., Cheryan and Plaut, 2010; Good et al., 2012; Holland
+and Gottfredson, 1976; Walton & Cohen, 2011). Yet, to date, little work
+has investigated which factors contribute to belonging in psychology
+versus philosophy (but see Thompson et al., 2016). This is an important
+
+limitation, and the focus of the current work, because a better under-
+standing of such factors has the potential to benefit academia broadly
+
+by informing interventions that would increase diversity — the goal of
+many universities, professional societies, and social organizations.
+
+https://doi.org/10.1016/j.crbeha.2023.100097
+Received 3 October 2022; Received in revised form 20 December 2022; Accepted 7 January 2023
+2666-5182/© 2023 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+H.M. Maranges, M. Iannuccilli, K. Nieswandt et al. Current Research in Behavioral Sciences 4 (2023) 100097
+Humans are universally motivated to connect, form interpersonal
+relationships, seek group membership, and attain social acceptance by
+others (i.e., they need to belong; VandenBos, 2007/APA dictionary,
+2021; Baumeister and Leary, 1995). These connections are facilitated
+
+by perceptions that one is similar to others or has the traits and prior-
+ities necessary to succeed in a group or context (e.g., in terms of de-
+mographics, personality, interest, priorities, or ability). Evidence from
+
+STEM fields suggests that satisfaction of the need to belong encourages
+
+students to participate and persist in an academic field, whereas stu-
+dents are discouraged from continuing when the need to belong is not
+
+met (e.g., Cheryan and Plaut, 2010; Good et al., 2012; Walton & Co-
+hen, 2011). For instance, compared to men, women, who make up the
+
+minority of philosophy students, tend not to believe that people “like
+
+me” could succeed in philosophy and perceive themselves as having lit-
+tle in common with their philosophy instructors, tutors, or the “typical
+
+philosophy major”, and are less likely to enroll in additional philoso-
+phy courses (Thompson et al., 2016; for similar results, see Baron et al.,
+
+2015).
+Feelings of belonging emerge from perceiving fit between oneself
+and the field (e.g., Morganson et al., 2010; Päßler and Hell, 2012;
+
+Prediger, 1982), yet relatively little is known about the factors that de-
+termine students’ sense of belonging. We draw from two related domains
+
+of influences that have been theorized as explanations for gender gaps
+
+in academic disciplines. The first domain of influences relates to individ-
+ual differences, including students’ levels of empathizing, systematizing,
+
+and intellectual combativeness. The second domain of influences relates
+to life goals, including prioritization of having a family, having wealth,
+
+and gaining social status. Specifically, we tested the extent to which indi-
+vidual difference and life goal factors contribute to feelings of belonging
+
+and, in turn, to major choice in the academic disciplines of psychology
+and philosophy in the population where the gender gaps emerge (i.e.,
+
+undergraduates) while modeling the two domains of factors simultane-
+ously.
+
+The inverse gender gaps
+
+Women outnumber men in psychology. At North American universi-
+ties, women constitute over 70% of psychology graduates at each level
+
+of schooling — Bachelor’s (79%), Master’s (80%), and Doctorate (74%)
+(averaged across 2017–18 and 18–19; National Center for Education
+Statistics, 2019) — and 57% of faculty (Zippia Career Data, 2021). In
+contrast, in philosophy, women are in the minority; constituting less
+
+than 40% of philosophy students at each level—Bachelor’s (39%), Mas-
+ter’s (35%), and Doctorate (33%) (American Academy of Arts and Sci-
+ences Humanities Indicators, 2016; Paxton et al., 2012) — and 21%
+
+of faculty (Zippia Career Data, 2021). These gaps first emerge at the
+undergraduate level, both for initial enrolment and after introductory
+classes (e.g., Paxton et al., 2012; Yu et al., 2020). We confirmed this
+early gender gap with data from Concordia University in Canada, which
+
+allowed for sampling from a more diverse population,1 across four aca-
+demic years (2014/15 to 2017/18; see Supplemental Materials, hence-
+forth SM, for detailed analyses and results): Women make up 81% of
+
+psychology majors, whereas men make up only 19%. In contrast, men
+make up 66% of philosophy majors, whereas women make up only 34%.
+However, adding some nuance to when the training pipeline leaks, we
+find the gap appears to widen most for philosophy after the first year
+
+(i.e., average dropout of women of 32%; largely replicating past find-
+ings) and after the second year for psychology (i.e., average dropout of
+
+men of 12%). The inverse gender gaps of psychology and philosophy
+are striking given that the two fields were once one, sharing historical
+roots, and focused on similar topics. Determining what makes students
+feel they belong is likely central to understanding why students enroll
+and major in psychology versus philosophy.
+1 Compared, e.g., to convenience samples (Gurven, 2018)
+
+Theoretical accounts of the inverse gender gaps
+
+One domain of explanations for the inverse gender gaps across aca-
+demic fields relates to individual differences. Specifically, gender differ-
+ences in the tendency towards empathizing (i.e., motivation and abil-
+ity to identify and respond to others’ emotions) versus systematizing
+
+(i.e., engaging with abstract ideas, logic, and interested in systems2)
+(Baron-Cohen et al., 2003) and the combative nature of male-dominated
+
+fields (e.g., Moulton, 1983; Beebee, 2013) have been explored. Accord-
+ing to this individual difference perspective, women and men fit with
+
+and choose fields stereotyped as feminine (e.g., psychology) or mascu-
+line (e.g., philosophy) because on average, women score higher on em-
+pathizing and men score higher on systematizing (e.g., Focquaert et al.,
+
+2007; Greenberg et al., 2018). Although there is empirical support for
+this argument (e.g., Focquaert et al., 2007; Greenberg et al., 2018; see
+also Päßler and Hell, 2012; Zell et al., 2015), it has received criticism
+
+for ignoring the differential socialization of women and men, concep-
+tual issues surrounding the measure, and questions regarding the pre-
+dictive power of the measures over other factors (e.g., Leslie et al., 2015;
+
+Maranges et al., 2021). Moreover, the gender divide in constructs related
+
+to empathizing vs. systematizing shrinks when the constructs are mea-
+sured in more naturalistic contexts (e.g., Eisenberg and Lennon, 1983;
+
+see Fine, 2010).
+Importantly, whether there is a real-world difference between
+women and men on these individual difference dimensions (and if so,
+whether that difference is the result of nature or nurture) might be less
+important than the question of whether people believe that there is a
+
+difference. That is, even if women and men do not differ on empathiz-
+ing and systematizing in a nonsexist society, there is no doubt that both
+
+are useful measures insofar as they capture current perceptions, expec-
+tations, and internalized stereotypes. For example, philosophy under-
+graduates, including women, explicitly associate philosophy with some-
+one who is “intelligent”, “intellectual”, “logical”, “curious”, and who is
+
+“male” (Di Bella et al. 2016). Similarly, when students are instructed to
+think about someone who is logical, they think of a man (Beebee, 2013).
+
+In contrast, psychology is perceived as a field that does not require bril-
+liance (Leslie et al., 2015) or systematizing (e.g., Amsel et al., 2014;
+
+Pettijohn et al., 2015) and is associated with stereotypically feminine
+
+traits (e.g., emotional, empathetic) and motivations (e.g., altruism, in-
+timacy) (Boysen et al., 2021). Given the related associations between
+
+these two individual differences, gender, and academic fields, we in-
+clude empathizing and systematizing as candidate mediators in the link
+
+between gender and feelings of belonging in psychology versus philos-
+ophy.
+
+Another individual difference that may influence feelings of belong-
+ings relates to comfort with intellectual combativeness. Compared to
+
+psychology, work in philosophy is solitary rather than collaborative,
+
+and when scholars do come together to share their work, the dis-
+course is typically argumentative and confrontational, which may be
+
+construed as better fitting for men than women based on gender stereo-
+types (Moulton, 1983; Beebee, 2013). Indeed, compared to men, women
+
+predicted they would feel less comfortable participating in introduc-
+tory philosophy class discussions than men (Baron et al., 2015; but see
+
+Thompson et al., 2016). Hence, the extent to which gender influences
+
+students’ views of themselves as intellectually combative may be asso-
+ciated with feelings of belonging in philosophy, but not psychology.
+
+A separate domain of explanations that vary with gender and may
+influence feelings of belonging in diverse academic disciplines relates to
+
+life goals. Traditionally aged undergraduates are identifying and navi-
+gating life goals, including those related to career and family. Careers
+
+may vary in the extent to which they facilitate (or are perceived to facil-
+2 According to Baron-Cohen et al. (2003), systems “take inputs, which can
+
+then be operated on in variable ways, to deliver different outputs in a rule-
+governed way.”
+
+2
+
+H.M. Maranges, M. Iannuccilli, K. Nieswandt et al. Current Research in Behavioral Sciences 4 (2023) 100097
+
+itate) the goals of having a family, financial security, and/or social sta-
+tus. Moreover, people vary in the extent to which they prioritize those
+
+factors. Accordingly, some scholars have suggested that people’s prior-
+itization of family, wealth, and status can help us understand why stu-
+dents choose to pursue one discipline over others (e.g., Kessels, 2005;
+
+Montmarquette et al., 2002; Morgan et al., 2013).
+When it comes to balancing a career with family, men and women
+face considerably different challenges and social expectations. Though
+
+men are increasingly invested in coparenting and often praised for want-
+ing to balance a career with family life, women still shoulder the ma-
+jority of the child-care responsibilities (Craig, 2006; Kotila et al., 2013).
+
+Importantly, women are typically not praised for desiring work-life bal-
+ance (Correll et al., 2007; see also Luhr, 2020) but rather are expected to
+
+provide the lion’s share of childcare. As a result, women are more likely
+to expect work-family conflict across a variety of careers (Coyle et al.,
+2015). Although findings suggest that prioritization of a family does not
+directly predict the gender gap, research in STEM demonstrates that the
+perception that a field is less supportive of having a family may lower
+
+one’s feelings of belongingness (Morgan et al., 2013). Because fields as-
+sociated with women are perceived as allowing one to prioritize hav-
+ing a family (e.g., Weisgram et al., 2011), psychology may be viewed
+
+as being more family-friendly than philosophy. Moreover, many peo-
+ple may associate a degree in philosophy with an academic career (and
+
+academic careers are perceived as unfriendly to having a family; e.g.,
+Tan-Wilson and Stamp, 2015), whereas a psychology degree is thought
+to offer flexible career options (e.g., counselor, assessor). To this end,
+
+we test whether psychology, compared to philosophy, is viewed as fa-
+cilitating having a family.
+
+Beyond whether one’s career is considered compatible with fam-
+ily demands, students’ career choices may be influenced by the extent
+
+to which a field is viewed as supportive of the goal of financial secu-
+rity. Young people tend to be attracted to and choose majors that they
+
+expect to provide them with wealth (e.g., National Longitudinal Sur-
+vey of Youth data [1993] as assessed by Montmarquette et al., 2002),
+
+and this is especially true for men (for meta-analysis see Konrad et al.,
+2000; but see Montmarquette et al., 2002). There appears to be more
+
+economic opportunity for psychology majors than for philosophy ma-
+jors (Carnevale et al., 2015), and even when new opportunities arise
+
+for philosophy majors, their perceptions lag behind (Weinberg, 2018).
+
+Based on such findings, we could expect that students perceive psy-
+chology versus philosophy as allowing one to prioritize money in one’s
+
+career, and as a result, men would be more likely to choose psychol-
+ogy over philosophy. Yet this prediction opposes the observed gender
+
+gaps on average (i.e., that men are attracted to philosophy over psychol-
+ogy). Perhaps men are more likely to view academia overall (including
+
+both psychology and philosophy) as a viable, financially secure career
+
+path, which would help explain the violation of such predictions. Al-
+ternatively, it may be that men’s prioritization of wealth from a career
+
+serves as a buffer against gendered perceptions for belonging in psychol-
+ogy—men may experience stronger feelings of belonging in psychology
+
+to the extent that it relates to money because they value money more
+than women. Here, we test whether men prioritize money more than
+women and whether such a priority serves to buffer men’s feelings of
+belonging in psychology.
+
+The last life goal we considered relates to having a prestigious rep-
+utation or position relative to others in society, an affordance which
+
+varies across fields and careers. Desire for social status is a univer-
+sal human motivation (Anderson et al., 2015), and men are perceived
+
+as more attractive to the extent that they demonstrate this motivation
+(Buss, 1999; Buss et al., 2020; DeWall and Maner, 2008). Prioritization
+
+of status is a primary factor that drives choices about careers for uni-
+versity students (e.g., Haase and LautenschlaGer, 2011). In particular,
+
+students appear driven to study in stereotype-consistent fields to acquire
+status (e.g., Kessels, 2005). Thus, it may be that women who strongly
+
+desire status feel a stronger sense of belonging in psychology (stereo-
+typed as feminine) and men who strongly desire status feel a stronger
+
+sense of belonging in philosophy (stereotyped as masculine), with major
+choices aligning with these feelings of belonging. Likewise, we expect
+that men will view philosophy, compared to psychology, as garnering
+more social status compared to women, and vice versa.3
+
+Summary of Hypotheses. That more women than men study psychol-
+ogy and more men than women study philosophy is likely driven by
+
+the extent to which students feel they belong in and are therefore more
+inclined to major in a field. The current study assesses to what extent
+
+competing explanatory factors contribute to feelings of belonging in psy-
+chology and philosophy. Specifically, we aim to understand whether stu-
+dents’ individual differences (i.e., empathizing, systematizing, and intel-
+lectual combativeness) as well as life goals (i.e., prioritization of family,
+
+money, and status) mediate the link between gender and belonging and,
+in turn, choice to major in psychology or philosophy. We hypothesize
+
+that women will view themselves as more empathizing, less systematiz-
+ing and less combative, and will report greater prioritization of family
+
+and weaker prioritization of money, compared to men. We expect that,
+relative to women, men will perceive themselves as less empathizing,
+
+more systematizing and more combative, and report weaker prioritiza-
+tion of family and stronger prioritization of wealth. Moreover, we do not
+
+expect a gender difference in prioritization of status; rather, we expect
+
+that men who desire high status may feel more belonging in philoso-
+phy, whereas women who desire high status may feel more belonging
+
+in psychology. We also expect that higher perceptions of empathizing
+
+and prioritization of family and wealth will predict majoring in psychol-
+ogy over philosophy, and higher systematizing and combativeness will
+
+predict majoring in philosophy over psychology.
+
+It is important to keep in mind that these factors are unlikely to be in-
+nate differences and are likely the result of both socialization and stereo-
+types (e.g., Bian et al., 2017, 2018a,b; Hentschel et al., 2019; Kite et al.,
+
+2008). Thus, the results of our model can inform practical interventions
+aimed at closing the gender gaps.
+Method
+The present study was part of a preregistered empirical project on
+the Open Science Foundation (OSF, https://osf.io/7yauq/?view_only=
+875a58705ca74c2b95204dbaf1ec69ed).
+Participants. Students enrolled in philosophy or psychology classes
+
+in diverse (e.g., large state, small liberal arts, and ivy league) universi-
+ties across the United States and Canada were invited to respond to an
+
+online survey about career choices and their future.4 We excluded peo-
+ple who began but did not complete the majority of the survey (n = 179),
+
+failed the attention check (i.e., “I would say that I am paying attention,
+as evidenced by my choosing the most negative option now”; n = 109),
+
+asked to withdraw their data (n = 2), and/or were not philosophy or psy-
+chology majors (n = 1415). Our final sample included 241 psychology
+
+and philosophy majors (181 women, 62 men6; Mage = 21.63, SD = 5.19;
+65.4% White, 16.9% Hispanic or Latino, 6.6% Chinese, 6.6% Black or
+African, 4.6% Indian, 1.6% Native or Indigenous, 5.8% Indian, 1.6%
+
+Iranian, 3.3% Other). See SM for more details on recruitment of partic-
+ipants.
+
+3 There is also work that suggests women’s participation in high-status fields
+has increased over time and that psychology is not the highest status field (e.g.,
+Lippa et al., 2014), such that women who are highly status-prioritizing may be
+more likely to major in another field than psychology (or philosophy). 4 Data were collected in a single wave in Fall 2020 via “Survey_V4” (see OSF). 5 We retain these participants for one test of a preregistered hypothesis: That
+women’s level of prioritization of status would predict major such that women
+
+higher in prioritization of status elect to major in something other than psychol-
+ogy of philosophy. 6 Without enough statistical power to analyze and make conclusions from data
+
+of participants who identify as non-cis men and women, we did not analyze data
+
+from people who identified as transgender men (n = 1), postgender (n = 2), non-
+binary (n = 7), genderqueer (n = 1), genderfluid (n = 1), demifemale (n = 1).
+
+3
+
+H.M. Maranges, M. Iannuccilli, K. Nieswandt et al. Current Research in Behavioral Sciences 4 (2023) 100097
+Procedure and materials. After participants provided consent, they
+
+reported their major (Npsych = 167, Nphilo = 74) and demographic de-
+tails. Participants then responded to measures of belonging in psychol-
+ogy and philosophy, and reported on their own empathizing, system-
+atizing, and combativeness, as well as the extent to which they prioritize
+
+family, financial resources, and status in choosing a career. Participants
+also reported on which of the two fields they believe better facilitates
+prioritization of family, money, and status. Items were presented in a
+random order. See SM for all additional items and details related to
+scale development.
+Feelings of belonging
+
+Participants responded to 3 items that captured their feelings of be-
+longing in psychology and 3 nearly identical items that captured their
+
+feelings of belonging in philosophy, e.g., “I feel comfortable in the aca-
+demic environment of psychology (philosophy)” on a 1 (strongly disagree)
+
+to 7 (strongly agree) scale (psychology: M = 4.85, SD = 1.41; α = 0.83;
+philosophy: M = 3.64, SD = 1.73; α = 0.89). We adapted these items
+from Walton & Cohen (2007). For all items, see SM.
+Individual difference factors
+Empathizing. Participants responded to 7 items that measured to what
+
+extent they are motivated to identify and respond to other people’s emo-
+tions (Baron-Cohen et al., 2003), such as “I can tune into how someone
+
+feels” on a scale from 1 (strongly disagree) to 7 (strongly agree) (M = 5.07,
+SD = 0.83; α = 0.71).
+Systematizing. Participants responded to 9 items that measured to
+what extent they are motivated to analyze or construct systems (i.e.,
+that which takes and operates on inputs to deliver outputs according to
+some particular rules; Baron-Cohen et al., 2003), such as “I like to think
+about abstract ideas” on a scale from 1 (strongly disagree) to 7 (strongly
+agree) (M = 4.53, SD = 0.89; α = 0.77).
+
+Intellectual combativeness. Participants responded to 7 items that cap-
+tured the extent to which they enjoy and engage in intellectual de-
+bates/confrontation at the cost of social comfort on a scale from 1
+
+(strongly disagree) to 7 (strongly agree). For example, items include “In
+
+defending my ideas, I can sometimes frustrate other people” and “If a de-
+bate or a theoretical discussion gets heated, I feel uncomfortable” (reversed)
+
+(M = 4.71, SD = 1.11; α = 0.81).
+Life goal factors
+
+Prioritization of family. Participants responded to 4 items that cap-
+tured the extent to which they personally desire a career that facilitates
+
+having and time with a family, using a 1 (strongly disagree) to 7 (strongly
+agree) scale: e.g., “I prefer a job that would allow for flexible work hours
+for family and children” (M = 4.72, SD = 1.65; α = 0.88).
+
+Prioritization of money. Participants responded to 3 items that re-
+flected their personal desire for wealth on a 1 (strongly disagree) to 7
+
+(strongly agree) scale, e.g., “I want to make a lot of money in my career”
+(M = 4.87, SD = 1.46; α = 0.87).
+
+Prioritization of status. Participants responded to 3 items that mea-
+sured the extent to which they desire status and prestige via their ca-
+reer using a 1 (strongly disagree) to 7 (strongly agree) scale, e.g., “I want a
+
+career that gets respect and admiration” (M = 4.75, SD = 1.24; α = 0.78).
+Perceptions of the fields
+
+Prioritization of family. Participants responded to 5 items that cap-
+tured the extent to which they believe a field facilitates having a
+
+family, by choosing between Psychology and Philosophy: e.g., “A ca-
+reer in ______ facilitates the work-life balance essential for having a fam-
+ily.” We calculated perceptions of fit between prioritization of family
+
+and psychology (as compared to philosophy) by dividing the number
+
+of times psychology was chosen over philosophy by the total number
+
+of items (i.e., 5) and vice versa to calculate perceptions of philoso-
+phy (as compared to psychology), such that these values are inversely
+
+related.
+
+Prioritization of money. Participants responded to 3 items that cap-
+tured the extent to which they believe a field facilitates making money,
+
+by choosing between Psychology and Philosophy: e.g., “_____ is well-
+suited to those who want to make a lot of money in their career.” Per-
+ceptions of fit between prioritization of money and psychology (as
+
+compared to philosophy) was calculated by dividing the number of
+times psychology was chosen over philosophy by the total number
+
+of items (i.e., 3) and vice versa to calculate perceptions of philoso-
+phy (as compared to psychology), such that these values are inversely
+
+related.
+
+Prioritization of status. Participants responded to 5 items that cap-
+tured the extent to which they believe a field facilitates gaining so-
+cial status, by choosing between Psychology and Philosophy: e.g., “Work-
+ing in ______ would allow a person to build a name and reputation for
+
+him/herself.” We calculated perceptions that status can be gained in
+psychology (as compared to philosophy) by dividing the number of
+times psychology was chosen over philosophy by the total number
+
+of items (i.e., 5) and vice versa to calculate perceptions of philoso-
+phy (as compared to psychology), such that these values are inversely
+
+related.
+Results and discussion
+To assess the relations between gender, field of study, feelings of
+
+belonging, and factors related to individual differences (i.e., empathiz-
+ing, sympathizing, and combativeness) as well as life goals (i.e., priori-
+tization of family, wealth, and status) we examined the bivariate, zero-
+order associations between our variables (Table 1). We then examined
+
+participants’ views as to how psychology versus philosophy facilitate
+
+said goals (paired t-tests), how such factors predict feelings of belong-
+ing and majoring in psychology versus philosophy, and how these rela-
+tions vary by gender (i.e., interaction effects, see SM). We test whether
+
+gender and the different factors predict feelings of belonging and major
+choice using a series of regressions (i.e., linear regression for feelings
+of belonging as outcome and binomial logistic regression for major as
+outcome).
+Finally, a structural equation model (SEM, namely, a path analysis)
+was used to simultaneously assess how individual difference and life
+goal factors contribute to the gender gaps in psychology and philosophy
+(i.e., partially explain variance in the link between gender and belonging
+in philosophy and psychology, which in turn predict major). We employ
+
+SEM instead of basic mediation because SEM allows for complex se-
+quential mediation and moderation and simultaneous assessment of the
+
+associations among gender, individual difference factors (i.e., empathiz-
+ing, systematizing, combativeness), life goal factors (i.e., prioritization
+
+of family, prioritization of money and status), and feelings of belonging
+in psychology and philosophy as well as their relative contributions to
+major (see Fig. 1).
+Gender and field of study
+There was a positive correlation between majoring in psychology
+vs. philosophy and identifying as a woman vs. man (see Table 1), such
+
+that women were more likely to major in psychology and men in phi-
+losophy. Of psychology majors, 83% were women. However, perhaps
+
+because women were overall more willing to respond to our survey,
+
+we collected more data from women (56%) than men (44%) in philos-
+ophy. Nonetheless, our pilot study of aggregated enrollment data from
+
+2014/15, 2015/16, 2016/17, and 2017/1 at our institution replicates
+this pattern: More women than men enroll in classes in psychology when
+beginning university, and more men than women enroll in philosophy
+classes when beginning university (see Figs. 1S – 4S).
+4
+
+H.M. Maranges, M. Iannuccilli, K. Nieswandt et al. Current Research in Behavioral Sciences 4 (2023) 100097
+Table 1
+Correlations among primary variables.
+
+1 2 3 4 5 6 7 8 9
+
+1. Major (0=philosophy, 1=psychology) –
+2. Gender (0=man, 1=woman) .29∗∗∗ –
+3. Belonging in Psychology .72∗∗∗ .26∗∗∗ –
+4. Belonging in Philosophy −0.65∗∗∗ −0.25∗∗∗ −0.46∗∗∗ –
+5. Empathizing .26∗∗∗ .17∗∗ .35∗∗∗ −0.10 –
+6. Systematizing −0.43∗∗∗ −0.26∗∗∗ −0.38∗∗∗ .55∗∗∗ −0.95∗∗∗ –
+7. Intellectual Combativeness −0.33∗∗∗ −0.19∗∗ −0.11† .33∗∗∗ −0.01 −0.26∗∗∗ –
+8. Prioritization of Family .11† −0.04 .20∗∗ −0.14∗ .22∗∗∗ −0.26∗∗∗ .01 –
+9. Prioritization of Money .36∗∗∗ .13∗ .35∗∗∗ −0.35∗∗∗ .08 −0.21∗∗∗ .08 .27∗∗∗ –
+10. Prioritization of Status .01 −0.02 .08 .02 .02 .07 −0.21∗∗∗ .01 .47∗∗∗
+Note: †p < .10, ∗p < .05, ∗∗p < .01, ∗∗∗p < .001.
+
+Fig. 1. Belonging in Psychology and Philosophy Path Model. Note: Contributors to feelings of belonging in psychology are represented in italics, and contributors
+to feelings of belonging in philosophy are represented in bold. ∗p < .05, ∗∗p < .01, ∗∗∗p < .001.
+Feelings of belonging
+Feelings of belonging in psychology were negatively associated with
+feelings of belonging in philosophy (see Table 1), suggesting that the
+more students feel they belong in psychology, the less they feel they
+
+belong in philosophy and vice versa. Gender was also positively asso-
+ciated with belonging in psychology and negatively with belonging in
+
+philosophy: women, compared to men, report feeling more belonging in
+
+psychology and men, compared to women, report feeling more belong-
+ing in philosophy.
+
+Gender and individual difference factors
+
+For each individual difference factor, we first describe significant bi-
+variate associations with gender and belonging in psychology and phi-
+losophy (see Table 1 for correlations) and then describe interaction anal-
+yses (i.e., between gender and individual differences in predicting be-
+longing and majoring; see SM).
+
+Empathizing. Women, compared to men, perceived themselves as
+
+more empathizing, per the positive association between gender and em-
+pathizing (see Table 1 for correlations and Table 2 for means and stan-
+dard deviations). Moreover, empathizing was positively associated with
+
+belonging and majoring in psychology (Table 1), such that the more
+empathizing people perceive themselves to be, the more they feel they
+belong in psychology and the more likely they are to major in that field.
+Table 2
+Means and Standard Deviations for Individual Difference factors.
+
+Major
+
+Individual differences Philosophy Psychology
+Empathizing 4.76 [1.01]a 5.21 [0.70]
+Men 4.50 [0.95] 5.20 [0.56]
+Women 4.96 [1.03] 5.21 [0.73]
+Systematizing 5.10 [0.67] 4.28 [0.86]
+Men 5.30 [0.60] 4.50 [0.56]
+Women 4.94 [0.69] 4.23 [0.90]
+Combativeness 5.24 [1.02] 4.47 [1.07]
+Men 5.13 [0.90] 4.98 [1.13]
+women 5.33 [1.11] 4.37 [1.03]
+Note. aMean [SD]. Responses were on a 7-point scale (1 = “strongly disagree”
+to 7 = “strongly agree”).
+Empathizing and gender interacted to predict feelings of belonging
+
+in philosophy but did not interact to predict feelings of belonging in psy-
+chology (see analysesin SM,starting on page 10). At low, not high, levels
+
+of empathizing, there is an effect of gender on feelings of belonging in
+philosophy. For people who report higher empathizing tendencies, men
+
+and women are no different in how much they feel they belong in phi-
+losophy; but for people low in empathizing, men feel like they belong in
+
+philosophy more than women, who feel they belong in psychology. Ex-
+amining the interaction between gender and empathizing another way,
+
+within gender, we see that among men, there is an effect of empathiz-
+5
+
+H.M. Maranges, M. Iannuccilli, K. Nieswandt et al. Current Research in Behavioral Sciences 4 (2023) 100097
+ing, such that men who reported higher self-perceptions of empathizing
+felt less belonging in philosophy compared to men who reported lower
+empathizing, whereas there was no difference among women. In other
+words, perceptions of empathizing predicted feelings of belonging in
+philosophy for men, but not women. Finally, gender and empathizing
+
+did not interact to predict in majoring in either psychology or philoso-
+phy.
+
+Systematizing. Men, compared to women, perceived themselves as
+
+more systematizing (see positive correlation between gender and sys-
+tematizing in Tables 1 and 2 for means and standard deviations). Sys-
+tematizing was associated negatively with feelings of belonging in psy-
+chology, positively with feelings of belonging in philosophy, and nega-
+tively with majoring in psychology over philosophy (or positively with
+
+majoring in philosophy over psychology; Table 1).
+Systematizing and gender interacted to predict feelings of belonging
+
+in psychology, but not feelings of belonging in philosophy (see SM start-
+ing on page 14). At high, but not low, levels of systematizing, gender
+
+predicts feelings of belonging in psychology. That is, for people low in
+
+systematizing, men and women do not differ in their feelings of belong-
+ing in psychology; but, for people who are high in systematizing, men
+
+feel less belonging and women feel more belonging in psychology. For
+both women and men, there is an effect of systematizing, such that the
+more systematizing a student perceives themselves to be, the less they
+feel they belong in psychology, but this effect appears larger for men.
+Combativeness. Men self-reported more intellectual combativeness
+
+than did women (per negative correlation between gender and combat-
+iveness, Tables 1; see 2 for means and standard deviations). Moreover,
+
+combativeness was positively associated with feelings of belonging and
+majoring in philosophy (Table 1).
+
+Combativeness interacted with gender to predict feelings of belong-
+ing and majoring in philosophy, but not psychology (see SM starting
+
+on page 17). At low, not high levels, of combativeness gender predicts
+feelings of belonging and majoring in philosophy. That is, for people
+who perceive themselves as being low in combativeness, men feel more
+belonging and are more likely to major in philosophy, compared to
+women. However, this gender difference disappears for people high in
+combativeness, such that women high in combativeness are just as likely
+
+to feel like they belong or go into philosophy as men high in combat-
+iveness. Probed another way, women who perceive themselves as more
+
+combative are more likely to feel they belong and major in philosophy,
+but combativeness is not predictive for men.
+
+In sum, compared to men, women view themselves as more em-
+pathizing and less systematizing and combative. Higher empathizing
+
+and lower combativeness and systematizing were associated with ma-
+joring in psychology over philosophy; inversely, lower empathizing and
+
+higher combativeness and systematizing were associated with major-
+ing in philosophy over psychology. Students felt stronger feelings of
+
+belonging in psychology when they perceived themselves to be more
+empathizing and less systematizing (and to a nonsignificant extent, less
+combative), while feelings of belonging in philosophy were associated
+with higher systematizing and combativeness.
+Gender and factors related to life goals
+Prioritization of Family. As predicted, psychology (M = 0.65,
+
+SD = 0.36) was seen as facilitating having a family more than was philos-
+ophy (M = 0.34, SD = 0.35), t(240) = −6.88, p < .001. Men and women
+
+did not differ in the extent to which they prioritize family in choos-
+ing a career, as evidenced by no significant association between gender
+
+and prioritization of family (see Table 1 for correlations and Table 3 for
+
+means and standard deviations). Prioritization of family predicted feel-
+ings of belonging in psychology positively but in philosophy negatively;
+
+however, prioritization of family was not significantly directly associ-
+ated with majoring in psychology over philosophy (i.e., this association
+
+was marginal; Table 1).
+
+Table 3
+Means and Standard Deviations for Life Goals factors.
+Major
+
+Life Goals Philosophy Psychology
+Prioritization of Family 4.47 [1.68]a 4.84 [1.64]
+men 4.34 [1.52] 5.38 [1.00]
+women 4.57 [1.80] 4.72 [1.73]
+Prioritization of Money 4.08 [1.71] 5.20 [1.20]
+men 3.70 [1.53] 5.46 [1.07]
+women 4.37 [1.80] 5.15 [1.22]
+Prioritization of Status 4.69 [1.43] 4.75 [1.14]
+men 4.41 [1.28] 5.19 [0.93]
+women 4.92 [1.51] 4.67 [1.17]
+Note. aMean [SD]. Responses were on a 7-point scale (1 = “strongly disagree”
+to 7 = “strongly agree”).
+
+Moreover, prioritization of family interacted with gender to predict
+belonging in psychology, but not philosophy (see SM starting on page
+22). At low, but not high, levels of prioritization of family, there is an
+effect of gender. For people who highly value having a family, men and
+women do not differ in their feelings of belonging in psychology; the
+
+more people prioritized family, the more they felt they belonged in psy-
+chology. For people who prioritize family in their career choice to a
+
+comparatively low extent, women are more likely than men to feel they
+belong in psychology.
+Similarly, prioritization of family interacted with gender to predict
+major. At low, but not high, levels of prioritizing a family in career
+choice, women are more likely than men to major in psychology over
+philosophy and vice versa. No such difference was found among people
+
+who highly value having a family. Probing this another way, prioritiza-
+tion of family predicts major for men but not women; men who strongly
+
+prioritize being able to have a family in a career are more likely to major
+in psychology over philosophy compared to men who do not prioritize
+having a family in a career.
+Prioritization of Money. As predicted, psychology (M = 0.89,
+SD = 0.27) was seen as the career that provides financial resources,
+rather than philosophy (M = 0.11, SD = 0.27), t(238) = −22.42, p < .001.
+Unexpectedly, women, more than men, prioritized gaining wealth from
+a career, and that prioritization of money was associated with feelings
+of belonging and majoring in psychology (see Table 1 for correlations
+and Table 3 for means and standard deviations).
+In moderation analyses (see SM starting on page 27), prioritization
+of money interacted with gender to predict belonging in psychology
+but did not predict belonging in philosophy. Specifically, at low, but
+not high, levels of prioritization of money in one’s career, women more
+than men feel they belong in psychology. There is no gender difference
+
+in feelings of belonging in psychology among people who highly pri-
+oritize making a lot of money from their career. That is, for both men
+
+and women, prioritizing making a lot of money in their career predicts
+belonging in psychology, but this effect is stronger for men according to
+analyses probing the interaction by gender.
+Prioritization of money and gender also interacted to predict major
+in a similar pattern: for people who highly prioritize gaining wealth from
+their career, there is no gender difference in choice of major. However,
+for people who prioritize making money from their career to a lower
+degree, women are more likely than men to major in psychology over
+philosophy. Probing the interaction another way (i.e., by gender), the
+more students prioritize making a lot of money in a career, the more
+likely they are to major in psychology over philosophy, but this effect
+is stronger for men than women.
+Prioritization of Status. In contrast to predictions, overall, psychology
+(M = 0.62, SD = 0.27) was seen as providing more social status than
+philosophy (M = 0.37, SD = 0.27), t(240) = −7.33, p < .001. Both men
+(t(59) = −4.31, p < .001) and women (t(179) = −6.21, p < .001) evinced
+6
+
+H.M. Maranges, M. Iannuccilli, K. Nieswandt et al. Current Research in Behavioral Sciences 4 (2023) 100097
+the same differential perceptions of the fields.7 Men and women did
+not differ with respect to prioritizing status from their career, nor did
+prioritization of status predict feelings of belonging or majoring in either
+field (see Table 1 for correlations and Table 3 for means and standard
+deviations).
+Prioritization of status and gender interacted to predict belonging
+
+and majoring in psychology over philosophy, but they did not inter-
+act to predict feelings of belonging in philosophy (see SM starting on
+
+page 32). At low, but not high, levels of prioritizing status in choos-
+ing a career, there is an effect of gender, with lower status seeking
+
+women having stronger feelings of belonging in psychology compared
+
+to lower status seeking men. In contrast, for people who highly prior-
+itize gaining status via their careers, there is no gender difference in
+
+belonging in psychology. Probing this another way, for men but not
+women, there is an effect of prioritizing status from a career, such that
+
+the more they desire status, the more men feel they belong in psychol-
+ogy. Prioritization of status and gender interacted to predict majoring
+
+in psychology over philosophy in a similar way: at low levels of pri-
+oritization of status, women are more likely to major in psychology
+
+than men, but there is no effect of gender for higher status seekers.
+
+Though, probing the interaction another way, status is more predic-
+tive of major for men than for women, with higher prioritization of sta-
+tus predicting majoring in psychology over philosophy for men but not
+
+women.
+In sum, across all life goals by gender (i.e., prioritization of family,
+money, and status) interaction analyses, a similar pattern emerges—at
+high levels, men and women do not differ in belonging or major, but
+
+at low levels, they do. This pattern suggests that when people’s prioriti-
+zation of family or money or status is relatively low, and therefore not
+
+guiding their belonging and major, they seem to feel a stronger sense of
+belonging and are more likely to major in stereotype-consistent majors,
+with women favoring psychology and men favoring philosophy.
+Structural equation model (SEM)
+Method and Model. We built an SEM in order to assess whether
+
+and how the relevant individual difference and life goal factors medi-
+ate or moderate the association between gender and belonging and, in
+
+turn, majoring in psychology or philosophy when simultaneously mod-
+elled. The model contained all significant bivariate associations (see
+
+Table 1) and significant interactions (see moderation analyses, SM) be-
+tween gender and the six explanatory factors. Based on theory, we
+
+modelled individual differences (i.e., empathizing, systematizing, and
+intellectual combativeness) as preceding life goals (i.e., prioritization
+of family, money, and status) in contributing to feelings of belonging
+
+and subsequently major. We then removed all non-significant interac-
+tions (i.e., Empathizing X Gender → Belonging in Philosophy, Combat-
+iveness X Gender → Belonging in Psychology, Prioritization of Family
+
+X Gender → Belonging in Psychology) and re-calculated pathway es-
+timates. We then removed nonsignificant pathways from the stream-
+lined model (i.e., Gender → Major, Gender → Empathizing, Combat-
+iveness → Belonging in Psychology, Prioritization of Family → Belong-
+ing in Psychology, Prioritization of Family → Belonging in Philoso-
+phy; see SM, page 37), which yielded our final model, displayed in
+
+Fig. 1.
+All variables were measured (i.e., none were latent factors); our
+
+analyses can hence be described as a path analysis. The path analy-
+sis was computed using AMOS (Arbuckle, 2014) and a Markov chain
+
+Monte Carlo (MCMC) Bayesian technique because the model included
+dichotomous variables (i.e., gender, major) which disallows normally
+
+7 These patterns of results for perceptions of the fields replicated when includ-
+ing non-psychology and -philosophy majors to ensure our results were not an
+
+artifact of having more psychology student participants: prioritization of family,
+t(384) = −9.52, p < .001; prioritization of money, t(382) = −25.30, p < .001;
+prioritization of status, t(384) = −8.07, p < .001.
+
+distributed outcome variables (see Choi and Levy, 2017). MCMC is a
+simulation-based estimation method; it empirically samples from the
+current data. Monte Carlo methods build on random simulation, and
+Markov chain methods build on samples that are independent from each
+
+other. Our MCMC model was specified in the following way. Burn-in ob-
+servations were set to 500, the random walk tuning parameter to 0.7, the
+
+number of batches for bath means to 20, and the convergence criterion
+to 1.00.
+Interpreting Model. See Fig. 1. We interpret the model from left to
+
+right (and top to bottom within columns of mediators), i.e., from gen-
+der to major. Importantly, the direct association between gender and
+
+major was no longer significant when taking individual differences (i.e.,
+
+empathizing, systematizing, and combativeness) and life goals (i.e., pri-
+oritization of family, money, and status) into account. Such factors ac-
+count for significant variance in the relationship between gender and
+
+major and help explain gendered feelings of belonging and subsequent
+gender gaps in psychology and philosophy.
+When all factors were taken into account, gender was no longer
+
+uniquely associated with empathizing and systematizing. Still, em-
+pathizing plays an important role: the more people report being em-
+pathizing, the more they prioritize family and the more they feel they
+
+belong in psychology, which predicts majoring in psychology over phi-
+losophy. Empathizing and systematizing were inversely related, such
+
+that the more empathizing people were, the less systematizing they
+were.
+Systematizing contributed negatively to prioritization of family and
+
+of money, and therefore indirectly to lower feelings of belonging in psy-
+chology. Systematizing also directly negatively predicted feelings of be-
+longing in psychology and positively predicted feelings of belonging in
+
+philosophy, which were in turn associated with higher likelihood of ma-
+joring in philosophy over psychology. These were the two strongest ef-
+fects in our model. Put another way, people who perceive themselves
+
+as highly systematizing do not highly value having a family or mak-
+ing a lot of money in a career and strongly feel that they belong in
+
+philosophy but not in psychology; consequently, they tend to major in
+philosophy, not psychology. Although gender did not directly predict
+systematizing such that men or women were more systematizing (when
+
+taking all other factors into account), gender interacted with systematiz-
+ing to predict belonging in psychology. Specifically, men who are high
+
+in systematizing feel especially low belonging in psychology compared
+to women who are equally high in systematizing. This suggests that for
+women high in systematizing, aspects of the culture of psychology are
+still welcoming to them, but less so for men. Systematizing is moderately
+related to intellectual combativeness.
+Intellectual combativeness differs by gender, such that men appear
+more combative than women, and positively predicts the prioritization
+of status from one’s career as well as higher feelings of belonging in
+philosophy. Although higher prioritization of status is associated with
+stronger feelings of belonging in psychology and subsequently majoring
+in psychology, the higher feelings of belonging in philosophy associated
+with high combativeness predicts majoring in philosophy.
+
+Prioritization of family in choosing a career is related to more em-
+pathizing, less systematizing, and more prioritization of money, but it
+
+is not predicted or moderated by gender and does not predict feelings
+of belonging. This is to say, men and women do not differ in the extent
+
+to which they want to have a family, and the desire to have a family-
+friendly career does not directly feed into feelings of belonging in one
+
+field over the other. Instead, our model suggests that the desire to have
+a family contributes to the desire to make a lot of money in one’s career,
+
+which in turn contributes to feelings of belonging in and therefore ma-
+joring in psychology over philosophy. Prioritization of money also inter-
+acted with gender to predict belonging in psychology. Namely, whereas
+
+women and men who highly prioritize money feel equal belonging in
+
+psychology, women who deprioritize money feel they belong in psy-
+chology more than do men who deprioritize money from their careers.
+
+Without a desire to have wealth, which is more easily accomplished via
+7
+
+H.M. Maranges, M. Iannuccilli, K. Nieswandt et al. Current Research in Behavioral Sciences 4 (2023) 100097
+psychology than philosophy, men do not experience the same strong
+feelings of belonging that women experience, again suggesting that the
+culture of psychology may be friendlier to women.
+Prioritization of money was also associated with prioritization of
+status, which positively predicted feelings of belonging in psychology,
+
+which predict majoring in psychology over philosophy. Notably, priori-
+tization of status interacted with gender also. As with the prioritization
+
+of money, women are more likely than men to feel they belong in psy-
+chology when they do not value garnering status via their career. But
+
+also, probing this another way, for men but not women, the more they
+desire status, the more men feel they belong in psychology. High feelings
+of belonging in psychology, in turn, predict majoring in that subject
+Feelings of belonging in psychology and feelings of belonging
+in philosophy were inversely related, such that being high in one
+
+tended to predict low levels of the other. And, of course, feel-
+ings of belonging in psychology predicted majoring in that field,
+
+and feelings of belonging in philosophy predicted majoring in that
+field.
+
+Summary of findings. Our model highlights individual difference fac-
+tors and life goals that account for feelings of belonging in academic
+
+psychology and philosophy, in turn influencing the likelihood of ma-
+joring in either field. Students are likely to feel they belong and major
+
+in psychology to the extent that they perceive themselves as highly em-
+pathizing, less systematizing, and highly prioritizing family, money, and
+
+status in their career. These students tend to be women. Students tend
+
+to feel they belong and major in philosophy to the extent that they per-
+ceive themselves as highly systematizing and intellectually combative.
+
+These students tend to be men. Adding some nuance, the interaction
+effects appear to reflect what we might think of as buffers against the
+gendered culture of psychology for men: men who were highly oriented
+toward systematizing, relatively unconcerned about making money in
+their careers, or did not value gaining status via their careers felt that
+they do not belong in psychology to the same extent that women with
+comparable traits and priorities did.
+General discussion
+Women and men are disproportionately represented across academic
+fields. Psychology and philosophy share history and topical interests yet
+feature inverse gender gaps: more women than men study psychology
+
+and more men than women study philosophy. Data from our own in-
+stitution confirm that pattern and further finds that the pipelines leak
+
+early, in introductory undergraduate courses. It is important to under-
+stand contributors to the feelings of belonging in these fields, which
+
+are likely a proximate and powerful driver of people’s decisions about
+what to study given the importance of (perceived) fit between person
+and field (e.g., Cheryan and Plaut, 2010; Good et al., 2012; Holland
+and Gottfredson, 1976; Morganson et al., 2010; Päßler and Hell, 2012;
+
+Prediger, 1982; Walton & Cohen, 2011). The present research exam-
+ined factors that likely play a role in the maintaining the gender dis-
+parities across psychology vs. philosophy—i.e., hypotheses that women
+
+are more empathizing and prioritizing of family; and that men are more
+systematizing, intellectually combative, and prioritizing of money and
+
+status—and, importantly, how these factors contribute to feelings of be-
+longing.
+
+We examined whether and how gender predicts major through per-
+ceptions of one’s individual difference traits (empathizing, systematiz-
+ing, and combativeness), life goals (prioritization of family, money, and
+
+status), and in turn feelings of belonging in psychology and philosophy
+in undergraduate students across North America. Critically, when these
+
+factors are considered, gender no longer directly predicts major, suggest-
+ing that individual differences and life goals that vary with gender may
+
+be the proximal cause of the gender gap in psychology and philosophy.
+
+Individual differences and life goal profiles for psychology and
+philosophy
+In choosing what career to pursue, people compare their personal
+characteristics to those that appear to dominate the field to assess fit.
+Past work casts people’s perceptions of psychology as an empathetic,
+communal field (e.g., Holland and Gottfedson, 1976), and, as we find
+in the present work, supportive of having a family, wealth, and social
+status. Philosophy, in contrast, is seen as the intellectually combative
+
+field, and, as our results suggest, unhelpful in pursuing the goals of fam-
+ily, wealth, and social status. We empirically examine the individual
+
+difference and life goal profiles of students who feel they belong in and
+therefore major in psychology versus philosophy.
+The picture is complex. Although perceptions of their own levels
+of empathizing, systematizing, and intellectual combativeness played
+important roles in feelings of belonging and major, they were not
+
+merely gendered differences as past work might suggest (e.g., Baron-
+Cohen et al., 2003). When evaluated in light of other factors, like com-
+bativeness and life goals, men and women did not differ in empathizing
+
+and systematizing.
+
+Still, empathizing and systematizing play important, though not sim-
+ply gendered, roles in explaining the gender gap. People who view
+
+themselves as high in empathizing feel they fit in psychology, consis-
+tent with theory, and also more strongly desire a career that facili-
+tates having a family. Prioritization of family in a career is likewise
+
+not gendered. This takes concerns about family-work balance off the
+
+table as a direct explanation of the gender gaps in psychology and phi-
+losophy; instead, prioritization of family might motivate prioritization
+
+of money, which more directly contributes to feelings of belonging in
+psychology.
+Systematizing does a lot of work in explaining students’ feelings of
+
+belonging and majoring in psychology vs. philosophy (i.e., it is statisti-
+cally associated with many of the contributing factors, and these associ-
+ations are of relatively large magnitude). Students who perceive them-
+selves as highly systematizing feel particularly low belonging in psy-
+chology and particularly high belonging in philosophy. Perceiving one-
+self as highly systematizing does have different implications for men and
+
+women’s feelings of fit, though: Compared to highly systemizing women,
+highly systemizing men felt alienated (i.e., lower feelings of belonging)
+in psychology. That is, it is not that men tend to be more systematizing
+than women (when other factors are considered), rather women who
+are highly systematizing may feel buffered against the incompatibility
+
+between their nature and that of psychology (i.e., perceived as empathiz-
+ing) compared to men who are highly systematizing. It is unclear what
+
+that buffer is; it could be gender on its own, providing the feeling psy-
+chology is for people “like them” given women feel more comfortable
+
+in environments where women are represented (e.g., Dasgupta et al.,
+2015).
+Crucially, we saw gender differences in intellectual combativeness,
+with men, more than women, perceiving themselves as highly motivated
+and willing to engage in intellectual debate, even at the cost of social
+
+coherence and comfort. Combativeness predicted strong feelings of be-
+longing, and in turn, majoring in philosophy. An important theoretical
+
+insight arises when considering that intellectual combativeness is associ-
+ated with high levels of systematizing, which is related to more belong-
+ing in philosophy and inversely related to empathizing, which predicts
+
+belonging in psychology. If combativeness both (a) drives the gender
+
+divide in psychology vs. philosophy and (b) covaries with high system-
+atizing / low empathizing which drive the gender divide in philosophy
+
+vs. psychology, then without operationalizing combativeness, we might
+find that systematizing and empathizing are partially responsible for the
+
+gender gaps, which prior work might suggest, by virtue of limited mea-
+surement. Put another way, intellectual combativeness appears to be an
+
+integral piece to the puzzle in understanding why men are attracted to
+and women are deterred from philosophy compared to psychology.
+8
+
+H.M. Maranges, M. Iannuccilli, K. Nieswandt et al. Current Research in Behavioral Sciences 4 (2023) 100097
+Our model is also consistent with the possibility that people who
+perceive themselves as more combative and therefore systematizing feel
+
+less belonging in psychology because they also prioritize having a fam-
+ily and money, which fosters feelings of fit with psychology. Notably,
+
+prioritization of money and status contribute to feelings of belonging
+in psychology, but are unrelated to feelings of belonging in philosophy,
+
+both of which contribute to major choice. This pattern suggests that peo-
+ple who desire a career that provides them with wealth and status feel
+
+more at home in psychology, but such concerns may not be weighed in
+considering philosophy as an academic home and major. It may be that
+philosophy does not attract people who desire wealth and social status,
+and that may be inherent to the sort of work philosophers do, which
+we have argued entails abstract work and building knowledge for its
+
+own sake (Maranges et al., 2021). However, we also found that intel-
+lectual combativeness fed into prioritization of status, which suggests
+
+that those who feel they belong in philosophy also desire to be known
+
+for their work. Perhaps this is a different sort of status than what psy-
+chology is perceived to provide. All in all, our findings suggest that the
+
+picture is complex, but they also add clarity.
+Implications for interventions
+
+Our findings can inform interventions aimed at closing the gen-
+der gaps by increasing women’s feelings of belonging in philosophy
+
+and men’s feelings of belonging in psychology. Intellectual combative-
+ness is one of the most powerful predictors of feelings of belonging in
+
+our model, both directly and through associations with systematizing
+
+and empathizing. Accordingly, it will be essential to target (a) expecta-
+tions that men should be, but women should not be intellectually com-
+bative and (b) the combative style of intellectual debate in academic
+
+philosophy. Successful interventions on women’s beliefs that they can-
+not grow their intelligence and are not brilliant (e.g., Blackwell et al.,
+
+2007)—which may be perceived a requisite to engagement in intellec-
+tual combativeness, as its link with systematizing could suggest—can be
+
+adapted to also address stereotypes about combativeness. For example,
+
+women may benefit from learning that just as many women lawyers en-
+gage in intense styles of debate as men (e.g., Burton et al., 1991) or about
+
+successful debaters who are women, as role models in particular con-
+texts help women feel they belong in those contexts (e.g., Young et al.,
+
+2013). Addressing this at its core, though, entails that the stereotype
+
+that combativeness indicates intellectual prowess should itself be bro-
+ken, especially for men. Additionally, philosophy departments, organi-
+zations, and conferences, should encourage a respectful discussion and
+
+discourage confrontational debate styles. This can begin in undergradu-
+ate classrooms, with instructors explicitly discussing this issue. But also,
+
+this culture change should be at the level of faculty and graduate stu-
+dents, who interact with more junior philosophy students.
+
+Recall that people who highly prioritized money (who tended to be
+women) and status felt more belonging in psychology, whereas those
+priorities were unrelated to philosophy. Hence, attracting more diverse
+students into philosophy may be accomplished by highlighting how
+philosophers often also engage in and inform discussions, such as about
+political or social issues, in the public spotlight. Moreover, our results
+
+suggest that the prioritization of money may in part emerge from peo-
+ple’s desire to have a family, which can be expensive. Accordingly, mak-
+ing philosophy a more family-friendly environment, such as by allowing
+
+flexible hours, work from home, and funding of child-care, may trickle
+down to undergraduates’ perceptions.
+
+Finally, the gender imbalances themselves likely self-perpetuate: Stu-
+dents feel less belonging in an academic group where they are in the
+
+gender minority (e.g., Inzlicht and Ben-Zeev, 2003; Sekaquaptewa and
+
+Thompson, 2002). Although broader interventions are necessary to in-
+crease the number of women in philosophy, for example, pairing the
+
+women who are already studying philosophy to work together may
+buffer their feelings of belonging. Indeed, research in STEM finds that
+when they work in groups with other women (vs. men; Dasgupta et al.,
+
+2015) or receive tutoring from or with other women (vs. men; for re-
+view, see Robinson et al., 2005), women experience heightened feelings
+
+of belonging and are more likely to persevere. Men may also benefit
+from working with other men in psychology.
+Limitations and future directions
+
+Notwithstanding its strength in terms of relevant sample and out-
+come, preregistration, and simultaneous modeling of important factors,
+
+this work is limited in a few ways worth mentioning. First, although
+35% of our sample is non-White, we did not have enough participants
+
+of color to examine other problematic gaps, lack of diversity, or is-
+sues of intersectionality. For example, Black students are underrepre-
+sented in philosophy (i.e., Black PhD students and graduates combined
+
+make up 1.32% of philosophers, but 13.4% of the population in the
+United States; Botts et al., 2014; US Census, 2021), with a pipeline that
+also leaks during undergraduate training (Bright et al., forthcoming;
+Schwitzgebel et al., 2021a). It is likely that gender identity interacts
+with ethnicity / race in creating unique, aggregating challenges to one’s
+
+feelings of belonging in psychology and philosophy (i.e., intersectional-
+ity; Crenshaw, 2018/1989). We also did not collect detailed data that
+
+allowed us to test our hypotheses for students from other underrepre-
+sented groups, including LGBQ+, working class and low socioeconomic
+
+status, and people with disabilities. Moreover, in building on past work
+and being able to make sufficiently powered, generalizable conclusions
+about people who report their gender as man or woman only, we were
+
+unable to systematically examine the perceptions and priorities of non-
+binary gendered students in psychology and philosophy. Future work
+
+should aim for more inclusivity in research on gender gaps.
+Second, and relatedly, our sample was limited in diversity insofar
+as student participants attend universities in WEIRD places (i.e., United
+
+States and Canada), where the hegemonic culture is WEIRD (i.e., West-
+ern, Educated, Industrial, Rich, Democratic; Henrich et al., 2010). Fu-
+ture research should aim to understand which and how perceptions of
+
+personality and priorities combine and contribute to feelings of belong-
+ing and majoring in psychology and philosophy for students from mi-
+noritized groups and non-WEIRD samples. Finally, the correlational na-
+ture of our data and analyses means that we cannot make claims about
+
+causality; rather, our findings are consistent with a mechanistic view of
+particular factors linking gender and major.
+Conclusion
+More women than men study psychology, and more men than
+
+women study philosophy. This is striking given the two fields share his-
+tory and overlapping subject matter. Feelings of fitting in are essential to
+
+understanding undergraduate major choice and therefore these gender
+
+gaps in academia. We empirically delineate the nuanced perceived per-
+sonality and priority profiles of undergraduate students who feel they
+
+belong in and chose to major in psychology vs. philosophy. Women were
+
+less intellectually combative than men and prioritized money more. Peo-
+ple who perceive themselves to be very empathizing but not systematiz-
+ing and who prioritize money and status from their career feel they
+
+belong in psychology, which predicts majoring in that field. People who
+
+perceive themselves to be highly systematizing and intellectually com-
+bative feel they belong in philosophy. These findings not only advance
+
+theory but also inform development of efficacious interventions by un-
+derscoring the essential role perceptions, especially individual differ-
+ences in combative approaches to dialog, and priorities, especially with
+
+respect to garnering wealth from a career, play in explaining this aca-
+demic gender gap.

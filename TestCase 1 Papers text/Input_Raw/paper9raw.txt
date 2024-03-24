@@ -1,0 +1,351 @@
+Abstract 
+Recent research showed significant stretch-mediated maximum 
+strength increases when performing stretching between 5 to 120 
+minutes per day with the calf muscle. However, since the practical applicability of these long stretching durations was questioned 
+and studies exploring the transferability to the upper body are
+scarce, the aim of this study was to investigate the possibility of 
+using a home-based stretching program to induce significant increases in maximum strength and flexibility. Therefore, 31 recreationally active participants (intervention group: 18, control 
+group: 13) stretched the pectoralis major for 15min/day for eight 
+weeks, incorporating three different stretching exercises. The 
+maximum strength was tested isometrically and dynamically in 
+the bench press (one-repetition maximum: 1RM) as well as shoulder range of motion (ROM) performing bilateral shoulder rotation 
+with a scaled bar. Using a two-way analysis of variance 
+(ANOVA) with repeated measures, the results showed high magnitude Time effects (ƞ² = 0.388 - 0.582, p < 0.001) and 
+Group*Time interaction (ƞ² = 0.281 - 0.53, p < 0.001 - 0.002), 
+with increases of 7.4 ± 5.6% in 1RM and of 9.8 ± 5.0% in ROM 
+test in the intervention group. In the isometric testing, there was 
+a high-magnitude Time effect (ƞ² = 0.271, p = 0.003), however, 
+the Group*Time interaction failed to reach significance (p = 
+0.75). The results are in line with previous results that showed 
+stretch-mediated maximum strength increases in the lower extremity. Future research should address the underlying physiological mechanisms such as muscle hypertrophy, contraction conditions as well as pointing out the relevance of intensity, training 
+frequency and stretching duration. 
+Key words: Range of motion, maximum voluntary isometric 
+contractions, 1 RM, static stretching, pectoralis major. 
+Introduction 
+Maximum strength is stated as a basic ability in sports performance (Wirth et al., 2016). Using resistance training to 
+improve lower (Sander et al., 2013; Wirth et al., 2016) and 
+upper extremity maximum strength is of high importance 
+for jumping and sprinting performance (Styles et al., 2016; 
+Suchomel et al., 2016) as well as throwing performance 
+(Hermassi et al., 2015), respectively. Enhanced strength 
+has been associated with improved athletic performance in 
+numerous sports, such as handball (Hermassi et al., 2015), 
+basketball (Warneke et al., 2022a), soccer (Lohmann et al., 
+2022), wrestling (McGuigan et al., 2006), boxing (Dunn et 
+al., 2022), and swimming (Wirth et al., 2022). In addition, 
+increased muscle strength contributes to injury prevention 
+and rehabilitation (Østerås et al., 2015; Sommervold and 
+Østerås, 2017). 
+Frequently, upper body strength is measured and 
+trained with the bench press (Lum et al., 2022; Young et 
+al., 2015). Bench press training typically necessitates 
+equipment such as barbells, weight plates and a bench. 
+However, in phases of limited accessibility to equipment 
+(e.g., pandemic lockdowns) or limited mobility (e.g., injuries), developing alternatives to common resistance training exercises to improve strength capabilities seems beneficial. Therefore, performing bodyweight training could be 
+seen as an alternative, especially in health-related sports 
+(Musick and Childs Cymet, 2006). Unfortunately, untrained individuals may not be able to adequately move 
+their own bodyweight (e.g., full push-ups). 
+Interestingly, high volume stretch training has been 
+shown to provide sufficient muscle stimulation to induce 
+maximum strength increases in humans (Arntz et al., 
+2023), mostly measured in the plantar flexors (Nelson et 
+al., 2012; Warneke et al., 2023a; Yahata et al., 2021) and 
+in the pectoralis major (Reiner et al., 2023). 
+Nevertheless, performing stretching with devices 
+for about one hour per day limits the practical applicability 
+(Schoenfeld et al., 2022). Furthermore, most of the available literature tested strength under isometric conditions in 
+practically uncommon testing conditions (isolated movements) (Reiner et al., 2023; Warneke et al., 2023a). Since 
+there are limitations when transferring results from isometric and isolated testing conditions to dynamic complex 
+movements, with this study we aimed to investigate the effectivity of a home-based stretching program on pectoralis 
+isometric and dynamic muscle strength and range of motion (ROM), to potentially enable the participants to stretch 
+independent of location and time of the day. Based on prior 
+publications (Arntz et al. 2023, Reiner et al., 2023), it was 
+hypothesized that an increase in bench press strength and 
+shoulder ROM would be observed in response to incorporating three different stretching exercises for 15min/day for 
+eight weeks. 
+Methods 
+Participants 
+Research article
+Received: 09 August 2023 / Accepted: 05 September 2023 / Published (online): 01 December 2023 
+598 Stretch-induced strength and flexibility increases 
+A priori sample size calculation was performed for the parameter of maximum isometric strength was performed using G-Power (Version 3.1) for F-tests with an assumed 
+high effect size of f = 0.35 level for  - error of 0.5 (Warneke et al. 2022d) and estimated power of 1 -  error set at 
+80% using two groups with two measurement points estimated a total sample size of at least 20 participants. Thirtyone (31) recreationally active participants were allocated 
+into an IG (n = 18, m: 13, f: 5, age:25.17 ± 3.81 years, 
+183.06 ± 7.24cm, 80.61 ± 13.4kg) and Control (n = 13, m: 
+8, f: 5, 25.38 ± 3.38 years, 179.77 ± 8.65cm, 76.08 ± 
+12.23kg). Participants were recruited from the university 
+sports program and physical education classes, therefore, 
+performing team or individual sports such as gymnastics or 
+swimming at least twice per week regularly or fitness or 
+resistance training in a gym for at least two days per week 
+for the last six months. Group allocation was based on their 
+willingness to participate, since numerous participants did 
+not want to be included to the intervention group. Participants were excluded if they reported shoulder and/or chest 
+pain, an injury of the upper limb within the last six months, 
+if they did not participate in group fitness programs or university sports classes or changed their training routines 
+(starting a new routine or stopping their previous training). 
+The study was conducted under consideration of the Declaration of Helsinki and the study design was approved by 
+the local ethical review board (Drs.EK/2022/064-01).
+Experimental design 
+To answer the research question, athletically active participants were allocated to an intervention group (IG) and a 
+control group (Control). Stretching was performed 3x5 
+minutes per day for eight weeks using three different exercises to stretch the pectoral musculature. Using a pre-posttest design, the effects on maximum strength using dynamic and isometric testing conditions were assessed. 
+Since it is well known that stretch training leads to improved flexibility (Medeiros et al., 2016) flexibility adaptations in the shoulder were examined to check the effectiveness of the stretching intervention. Prior to testing, a 
+familiarization session was performed to counteract habituation effects. 
+Maximum strength testing 
+Maximum strength was tested under dynamic conditions, 
+testing the one repetition maximum (1RM), and under isometric conditions using a Smith machine. Before testing, a 
+5- minute ergometer cycling at 1 kilopond and 2x5 pushups were performed to ensure a general warm up. 
+One repetition maximum (1RM) testing 
+The bench press 1RM was tested using the full ROM. 
+Therefore, the participant was instructed to adopt a supine 
+position on a training bench and the bar had to be lowered 
+until the bar rested on the chest for one second. After reacting to an acoustic signal, the participant was instructed to 
+push the weight as fast as possible to a fully extended elbow position. The weight was increased using 2.5kg steps 
+until the participant failed to perform the repetition. Between each attempt, a rest of two minutes was ensured. To 
+minimize the attempts to reach the maximum weight in the 
+testing, the familiarization session was used to set a baseline value for the pre-test. Amarante do Nascimento et al. 
+(2013) pointed out high reliability of 1RM strength testing 
+in the bench press with intraclass coefficient correlations 
+(ICC) up to 0.99. 
+Maximum isometric testing 
+Maximum isometric strength was tested with an elbow angle of 90°. The participant was positioned in a supine position on a training bench. The bar was fixed in the Smith 
+machine to present an insurmountable resistance. Afterwards, the participant was instructed to perform a maximum voluntary contraction for three seconds. Trials were 
+performed until no increase in the maximum strength value 
+was observed, however, a minimum of three trials was performed. With an ICC of 0.89 - 0.97 a high reliability of 
+isometric bench press testing can be assumed (Young et al., 
+2014). 
+Flexibility 
+Shoulder ROM was tested using a straight wooden bar with 
+a scale measuring the distance between the hands. The participant was instructed to hold the bar with extended elbows in front of the body and flex the shoulders as far as 
+possible to move the bar over and behind the head and back 
+respectively (see Figure 1). To the best of our knowledge, 
+no reliability values for this test could be found in literature, therefore ICC and CV were calculated in this study 
+for the intra-day reliability (see Results section). 
+Figure 1. Shoulder range of motion ROM testing with the 
+straight wooden bar with the scale to measure the distance 
+between the hands 
+Stretching intervention 
+Participants were instructed to perform an eight-week 
+home-based stretching program, using a gymnastic band 
+with a resistance equal to 13.6 - 27.2 kg. Stretching was 
+applied for 15 minutes by including three different exercises, each performed for five minutes. The three stretching 
+variations are presented in Figures 2 a-c and were used to 
+primarily stretch the pectoralis muscles. Participants were 
+instructed to rest 30 seconds between the exercises. The order was chronologically determined as shown in Figure 2. 
+The participants were instructed to perform the stretch 
+training by using a 6 - 7 on a stretching visual analogue 
+scale, as previously performed by Warneke et al. (2022c; 
+2022d) and were instructed to document the training in a 
+stretching diary. 
+Warneke et al. 599
+Figure 2. Three stretching exercises (a-c) included in the intervention. In figure (a) the participant was instructed 
+to stretch the pectoralis muscle with straight arms pointing to the back with the elastic band as a resistance. The 
+second stretch was performed with 90° elbow and shoulder angle, forearms pointing upwards, with the elastic 
+band pulling from the back (shoulder external rotation) (b). The stretching exercise illustrated in (c) was performed in a supine position performing a fly movement with the arms, while the elastic band provides a resistance by holding in both hands with straight arms and shoulders externally rotated towards the ground. 
+Table 1. Descriptive statistics and results of two-way ANOVA for both flexibility tests. 
+Parameter Pretest (M±SD) Posttest (M±SD) Pre-Post % Differences Time effect Time x group 
+IG 1RM (kg) 75.25 ± 33.62 79.69 ± 34.0 +7.4 ± 5.6 p < 0.001 
+F29,1 = 18.414 
+ƞ² = 0.388 
+p = 0.002 
+F29,2 = 11.314 
+Control 1RM (kg) 68.65 ± 25.76 69.19 ± 26.11 +0.7 ± 2.5 ƞ² = 0.281 
+IGISO (N) 649.99 ± 337.07 685.53 ± 325.11 +12.1 ± 22.3 p = 0.003 
+F29,1 = 10.801 
+ƞ² = 0.271 
+p = 0.754 
+F29,2 = 0.1 
+Control ISO (N) 600.50 ± 251.37 643.61 ± 241.67 +9.3 ± 15.0 ƞ² = 0.003 
+IGROM (cm) 54.61 ± 9.05 49.28 ± 8.7 -9.8 ± 5.0 p < 0.001 
+F29,1 = 40.318 
+ƞ² = 0.582 
+p < 0.001 
+F29,2 = 32.001 
+CGROM (cm) 50.00 ± 5.34 49.69 ± 5.7 ƞ² = 0.53 -0.7 ± 2.5 
+IG = intervention group, CG = control group, 1RM = one repetition maximum, ISO = isometric maximum strength, ROM = range of motion, kg = 
+kilogram, N = Newton, cm = centimeter, M = mean, SD = standard deviation 
+Statistical analysis 
+The analysis was performed with SPSS 28 (IBM, Armonk, 
+New York, USA). Data is provided as mean (M) ± standard 
+deviation (SD) for the pre-post values. The normal distribution of data was checked via Shapiro Wilk test. Reliability was determined using ICC, coefficient of variability and 
+95% confidence interval (CI) for aforementioned tests. 
+Moreover, Levene’s test for homogeneity in variance was 
+performed. A t-test for independent values was used to rule 
+out significant differences between IG and Control in pretest values. A 2 x 2 two-way ANOVA (2 conditions x 2 
+times) with repeated measures was performed for data 
+analyses of the pre-post comparisons for each parameter 
+separately. Effect sizes are presented as Eta squares (ƞ²) 
+and categorized as: small effect ƞ² < 0.06, medium effect 
+ƞ² = 0.06 - 0.14, large effect ƞ² > 0.14 (Cohen, 1988). Additionally, effect sizes for in-between group mean differences from pre- to posttest were calculated. Considering 
+the sample size differences between the IG and the Control, 
+Hedges g was therefore calculated and categorized as: 
+small effects g < 0.5, medium effect g = 0.5 - 0.8, large 
+effect g > 0.8. The level of significance was set to p < 0.05. 
+Results 
+As instructed, participants stated that they performed their 
+stretching exercises daily. Data were normally distributed 
+(p = 0.112 - 0.659). No significant differences between the 
+pre-test values between the IG and Control was detected 
+with p = 0.094 - 0.66. For the isometric strength testing and 
+ROM testing, there were high inter-day ICCs with 0.996 - 
+0.999, CV = 0.06 ± 0.09 - 2.43 ± 3.1% and high intra-day 
+ICCs of 0.997 - 0.998 and CV = 0.01 ± 0.03% - 1.8 ± 1.7%. 
+No intra-day reliability was obtained for the bench press 
+1RM since this was tested only once in the pre-test condition. However, the inter-day reliability also revealed high 
+reliability with ICC = 0.987 and CV = 3.26 ± 3.9%. 
+The results illustrated in Table 1 show significant, 
+high magnitude strength and shoulder ROM increases with 
+a Time effect in the 1RM and the ROM testing with p < 
+0.001, ƞ² = 0.388 and p < 0.001, ƞ² = 0.582, respectively. 
+Furthermore, both parameters showed a high magnitude, 
+significant Group * Time interaction effect with p = 0.002, 
+ƞ² = 0.281 and p < 0.001, ƞ² = 0.53, respectively. In the 
+maximum isometric strength testing, a significant, high 
+magnitude Time effect was found (p = 0.003, ƞ² = 0.271), 
+however, the Time * Group interaction effect did not reach 
+the level of significance (p = 0.754). The results are graphically illustrated in Figure 3, Figure 4 and Figure 5. 
+The illustrations of the individual mean differences 
+plot the difference between pre- and posttest of each parameter and therefore, the consistency of the effect can be 
+600 Stretch-induced strength and flexibility increases 
+reviewed. For 1RM, only one participant showed a decrease in performance from pre- to posttest while for the 
+maximal isometric strength measuring, no consistent effect 
+can be figured out. In ROM, all participants of the IG 
+showed significant flexibility improvements. Hedges g for 
+mean differences of the 1RM testing showed a high magnitude effect of g = 1.22, a trivial effect in isometric testing 
+of g = 0.11 and a high magnitude effect of g = 4.67 in ROM 
+testing.
+Figure 3. 1RM (kg) progression from pre- to post-test and the individual mean differences. * = significant change with p <0.05, 1RM 
+= one repetition maximum, IG = intervention group, CG = control group, DIFFBPIso = Difference from pre- to post-test in the bench press one 
+repetition strength test. 
+Figure 4. Maximum isometric strength (N) progression from pre- to post-test and the individual mean differences. ISO = isometric 
+maximum strength test, IG = intervention group, CG = control group, DIFFBPIso = Difference from pre- to post-test in the maximum isometric bench 
+press strength 
+Figure 5. ROM (cm) progression from pre- to post-test and the individual mean differences. ** = significant change with p<0.001, 
+ROM = Range of motion, IG = intervention group, CG = control group, DIFFROM = Difference from pre- to post-test in the shoulder girdle flexibility. 
+ 
+Warneke et al. 601
+The illustrations of the individual mean differences 
+plot the difference between pre- and posttest of each parameter and therefore, the consistency of the effect can be 
+reviewed. For 1RM, only one participant showed a decrease in performance from pre- to posttest while for the 
+maximal isometric strength measuring, no consistent effect 
+can be figured out. In ROM, all participants of the IG 
+showed significant flexibility improvements. Hedges g for 
+mean differences of the 1RM testing showed a high magnitude effect of g = 1.22, a trivial effect in isometric testing 
+of g = 0.11 and a high magnitude effect of g = 4.67 in ROM 
+testing.
+Discussion 
+With significant increases in maximum (dynamic) bench 
+press 1RM strength (7.4%) and shoulder ROM (9.8%), our 
+results are (partially) in line with recently published research, showing significant stretch-induced maximum 
+strength increases. Previously, plantar flexor muscles maximal dynamic strength demonstrated stretch-induced increases of up to 29% with intervention periods of up to 10 
+weeks (Nelson et al., 2012; Warneke et al., 2022d). Previously, Reiner et al. (2023) performed a seven-week stretch 
+training program, using three sessions per week performing three exercises with a stretching durations of five 
+minutes per exercise, hence, the stretching volume was 
+very similar to our study. However, they measured maximal voluntary isometric strength only, showing strength increases of up to 15%. Even though we measured a maximum isometric strength improvement of about 12%, the 
+control group also significantly increased their isometric 
+maximum strength 9.3%, leading to a lack of Time*Group 
+interaction. Assuming not all people may be accustomed to 
+isometric training and testing conditions (Drake et al., 
+2018; Warneke et al., 2023d), it can be hypothesized that 
+habituation effects induced increases in the control group. 
+Although we attempted to check potential learning effects 
+by previously performing habituation/familiarization sessions showing high inter-day reliability, our results underline the limited value of isometric testing devices, since unfamiliar testing condition, muscle length- and joint angle 
+specificity as well as exercise dependent conditions must 
+be considered, leading to partially conflicting results 
+(Drake et al., 2018; Warneke et al., 2023d). Discrepancies 
+between isometric and dynamic testing conditions can be 
+reviewed in Wirth (2007), investigating the effects of a dynamic resistance training program on isometric and dynamic maximum strength. With dynamic testing, five out 
+of six testing conditions revealed a significant strength increase, while with isometric testing, they reported a significant training-induced performance enhancement in just 
+one test, highlighting the relevance of specific testing conditions. Therefore, the lack of interaction effect in our 
+study under isometric testing conditions is even more surprising, as the intervention was static stretching and not a 
+dynamic training condition, which thus would have anticipated a higher effect in isometric testing conditions. Furthermore, the wide dispersion of the individual mean differences, (Figure 5) show an inconsistency in adaptations 
+with a mean increase of 12.1%  22.3%, which could possibly be attributed to an inability to produce a consistent 
+force output, because of unfamiliar testing conditions. In 
+line with this theory, the dynamic results show higher consistency with only one participant showing a decrease in 
+maximum strength. 
+Still, the question arises about the underlying mechanisms of stretch-mediated strength increases. While flexibility increases are mainly attributed to neuromuscular 
+changes, such as enhanced pain or stretch threshold 
+(Freitas et al., 2018) and/or muscle tendon unit stiffness 
+changes (Takeuchi et al., 2023), the physiology of stretchmediated strength increases remains still speculative. On 
+the one hand, it is well known that muscle hypertrophy 
+contributes to enhanced maximal strength (Goldspink and 
+Harridge, 2003). Even though stretching has shown the potential to induce hypertrophy when using one to two hours 
+of stretching, other experimental studies performing 
+stretching for up to 20 minutes per session (Wohlann et al., 
+2023) nor systematic review (Nunes et al., 2020; Panidi et 
+al., 2023) were able to point out significant muscle hypertrophy. Additionally, in the present study, we did not perform muscle volume measurements. 
+Since previous studies pointed out contralateral 
+strength increases (Nelson et al., 2012; Panidi et al., 2021; 
+Warneke et al., 2022b; 2022d) the involvement of neuronal 
+training adaptation in response to stretching seems evident. 
+While Holly et al. (1980) and Barnett et al. (1980) investigated the effects of stretching on EMG activity in animals 
+showing no significantly enhanced neuronal activity, no 
+studies were detected testing neuromuscular activity while 
+performing stretching in humans. Furthermore, changes in 
+reflex responses, changed activation patterns due to familiarization to stretching pain in higher muscle lengths or 
+changes in neuromuscular activity due to changes in contraction properties (changes in fascicle angle/length, (Panidi et al., 2023)) could also be hypothesized. The commonly reported increase in stretch/pain threshold with 
+ROM increases may also apply to strength gains, as individuals may be able to sustain greater discomfort when lifting/contracting and thus push harder (higher intensity contractions) with the suppression of pain. While there are 
+some promising explanatory approaches when interpreting 
+stretch-mediated strength increases (Warneke, et al., 
+2023b), there is still a lack of investigations exploring the 
+underlying physiology. Therefore, the underlying mechanisms remain unclear to this point. 
+Furthermore, it is well known from previous research, that (static) stretching performed for a duration of 
+several weeks commonly induces flexibility increases 
+(Konrad et al. 2023). Accordingly, the stretch training 
+showed significant increases in shoulder ROM. While not 
+investigated in the present study, the literature suggests 
+possible morphological and neurological mechanisms for 
+the chronic stretch training-induced improvements in 
+ROM. Five to six weeks of stretch training has been found 
+to decrease muscle and tendon stiffness (Behm et al. 2016), 
+although not in all studies (Freitas et al., 2018; Kubo et al.,
+2002; Mahieu et al., 2007), reduce tendon viscoelastic 
+properties (Kubo et al., 2002), and muscle passive resistive 
+602 Stretch-induced strength and flexibility increases 
+torque (Mahieu et al., 2007). Neuronal or psychophysiological adaptations such as changes in stretch tolerance by 
+increasing the pain threshold (Freitas et al., 2018; Konrad 
+and Tilp, 2014) is a ubiquitously proposed underlying 
+mechanism. With the vast extent of research focusing on 
+ROM adaptations in response to stretching, this study did 
+not focus on the underlying mechanisms of stretch traininginduced increases in flexibility. 
+Limitations 
+First, sex-distribution was not balanced. Since Warneke et 
+al. (2022c) described sex-related differences in stretch-mediated adaptations the results could be therefore influenced 
+significantly. Furthermore, in the final data analysis, the 
+sample size in IG and Control were not completely balanced. The results of the study are limited by providing 
+only phenomenological results without evaluating underlying physiological parameters such as hypertrophy, passive 
+stiffness, pain threshold or changes in the neuromuscular 
+activation. Since literature regarding stretch-mediated 
+strength increases is scarce, potential long-term issues regarding overstretching the shoulder joint were not reported 
+in this study, however, they might occur by increasing the 
+intensity and/or stretching duration. Therefore, potential 
+risks should be considered carefully in further studies, especially if participants are not familiar with using the full 
+ROM in the shoulder joint. 
+Conclusion
+Significant, large magnitude increases in maximum (dynamic) bench press 1RM strength (7.4%) and shoulder 
+ROM (9.8%) were documented following static stretching 
+of the pectoralis major for 15min/day for eight weeks, incorporating three different stretching exercises. Since 
+Schoenfeld et al. (2022) questioned the practical applications of using one hour of daily stretching to induce hypertrophy and previous studies pointed out the demand for further studies with the transferability to other muscle groups 
+(Warneke et al., 2022b; 2022d), a home-based training program was developed to improve the application of improving maximum strength via stretching. To clarify, the authors do not recommend the replacement of strength training to increase muscle mass or maximum strength, especially considering the comparably prolonged time to induce comparable results via stretching (Warneke et al., 
+2023c). Nevertheless, the results point out a possible alternative to those individuals, who are not willing to, do not 
+have access to strength training equipment or are less 
+trained and therefore not able to perform bodyweight training. Furthermore, it is important to emphasize that these 
+strength adaptations occurred with an unsupervised, at 
+home program. Whether stretch training could induce 
+enough tension to improve maximum strength significantly 
+in various populations (e.g., previously trained or athletes) 
+should be investigated in further studies, especially since 
+Li et al. (2022) showed that stretching only improved performance in low performance level individuals. 
+Outlook 
+Research in the future should investigate the underlying 
+mechanisms of stretch-induced stretching increases, including neuromuscular adaptations by performing EMGmeasurements as well as structural changes of the muscle, 
+tendon and muscle-tendon-complex. As Schoenfeld et al. 
+(2022) suggested the inclusion of interest stretch to enhance hypertrophy adaptations, the combination of longduration stretching interventions with the potential of inducing muscle hypertrophy and commonly used exercise 
+interventions such as resistance training should be investigated in further studies. 
+Acknowledgements 
+There is no conflict of interest. The present study complies with the current laws of the country in which it was performed. The datasets generated 
+and analyzed during the current study are not publicly available but are 
+available from the corresponding author, who was an organizer of the 
+study.

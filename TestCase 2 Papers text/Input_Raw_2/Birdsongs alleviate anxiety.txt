@@ -1,0 +1,709 @@
+The present study investigated the efect of urban (trafc noise) vs. natural (birdsongs) soundscapes
+on mood, state paranoia, and cognitive performance, hypothesizing that birdsongs lead to signifcant
+improvements in these outcomes. An additional goal was to explore the diferential impact of
+lower vs. higher diversity of the soundscapes by manipulating the number of diferent typical trafc
+sounds or songs of diferent bird species within the respective soundscapes. In a randomized online
+experiment, N= 295 participants were exposed to one out of four conditions for 6 min: trafc noise
+low, trafc noise high, birdsong low, and birdsong high diversity soundscapes. Before and after the
+exposure, participants performed a digit-span and dual n-back task, and flled out depression, anxiety,
+and paranoia questionnaires. The trafc noise soundscapes were associated with a signifcant increase
+in depression (small efect size in low, medium efect size in high diversity condition). Concerning the
+birdsong conditions, depression exclusively decreased after exposure to the high diversity soundscape
+(small efect size). Anxiety and paranoia signifcantly decreased in both birdsong conditions (medium
+efect sizes). For cognition, no efects were observed. In sum, the present study suggests that
+listening to birdsongs regardless of diversity improves anxiety, while trafc noise, also regardless of
+diversity, is related to higher depressiveness. Moreover, for the frst time, benefcial, medium-sized
+efects of birdsong soundscapes were demonstrated, reducing paranoia. Overall, the results bear
+interesting implications for further research, such as actively manipulating soundscapes in diferent
+environments or settings (e.g., psychiatric wards) and testing their efect on subclinical or even clinical
+manifestations of anxiety and paranoia.
+Te impact of environmental infuences on psychological well-being and cognition in humans have for a long
+time been neglected in traditional psychology. At present, human living environments are changing drastically.
+According to the UN 2007 was a turning point for humankind as for the frst time the majority of the global
+population lived in urban areas1
+
+. Until 2050, it is estimated that 68% of the world population will be living
+
+in cities2
+. In Europe the urbanization rate is already as high as 75%. Urbanization coincides with increasing
+rates of mental illness. An earlier review from 2005 came to the conclusion that about 30% of the incidence
+in schizophrenia may be attributed to urban factors in interaction with genetic liability and social adversity3
+.
+
+A meta-analysis4
+
+shows a link between the increase of schizophrenia incidence and the increase in urbanicity,
+highlighting the fact that the risk for schizophrenia in the most urban environment was estimated to be 2.37
+times higher than in the most rural environment. In a study investigating environmental factors known to trigger
+paranoia5
+, it was shown that urban cyclers commonly report to experience at least one state paranoia reaction,
+reported on a paranoia scale, in response to what the authors call an interpersonal threat situation. Tis was
+caused by the presence of potentially dangerous trafc participants, such as motor vehicle drivers. According to
+Ellet et al.5
+the key environmental factors known to trigger paranoia include threat and ambiguity, which may
+be more ofen found in urban compared to natural environments. A recent review on depression and urbanicity
+reported mixed results, however with the majority of studies suggesting an elevated risk of depression in more
+(vs. less) urbanized areas6
+
+. Concerning mood and anxiety disorders, a review on studies conducted in Europe
+concludes that most studies showed elevated risks for mood/anxiety symptoms when comparing some (albeit
+not all) of the urban to rural areas7
+
+. In sum, there is hence accumulating evidence that living in urban areas is
+
+related to worse mental health outcomes.
+
+OPEN
+
+1
+Lise Meitner Group for Environmental Neuroscience, Max Planck Institute for Human Development, Lentzeallee
+94, 14195 Berlin, Germany. 2
+
+Neuronal Plasticity Working Group, Department of Psychiatry and Psychotherapy,
+University Medical Center Hamburg-Eppendorf, Martinistr. 52, 20246 Hamburg, Germany. 3These authors jointly
+supervised this work: L. Ascone and S. Kühn. *email: stobbe@mpib-berlin.mpg.de
+
+2
+
+Vol:.(1234567890)
+Scientifc Reports | (2022) 12:16414 | https://doi.org/10.1038/s41598-022-20841-0
+www.nature.com/scientificreports/
+
+Contrary to the negative efect of urban environments on mental health, a recent study shows that increasing
+access to total and usable green space within the neighborhood can decrease anxiety/mood disorder treatment
+
+counts. Tis demonstrates the service that urban green spaces may provide for general mental health and well-
+being8
+
+. Another study, which looked at the perceived sensory dimensions (PSD) relevant for attentional and
+stress recovery in green spaces, found that natural environments which are serene, provide refuge, and are rich
+in species diversity, as well as are perceived as highly ‘natural’, are rated as most restful9
+
+. Tese efects are ofen
+
+explained by two predominant theories. Stress reduction theory (SRT) posits that landscapes, containing vegeta-
+tion, water and other aspects that provide benefts for survival, help to moderate and reduce states of arousal and
+
+negative thoughts and thus reduce the psychological and physiological symptoms of stress10. Similarly, Attention
+
+Restoration Teory (ART) states that stimuli from natural sources restore cognitive function by reducing atten-
+tion demands of the endogenous attention system11.
+
+Experimental research in the feld has so far predominantly studied visuo-spatial aspects of the environment
+concerning mental health efects, such as by using photographs, videos, slideshows, or other visual stimuli. Other
+sensory modalities have been much less studied12. Man-made (urban) soundscapes (the so-called anthrophone)
+can constitute constant stressors that may impair cognitive function and well-being. Urban noise contains salient
+stimuli that likely trigger an alert physiological and psychological state. Corroborating this notion, a systematic
+
+review on trafc noise exposure found consistent evidence for an association between trafc noise and depres-
+sion, as well as cognitive decline13. On the other hand, natural soundscapes, which are typically characterized
+
+by birdsongs, wind, or water12, could be an important source of attention-restorative and stress-ameliorating
+efects, as they might be implicitly associated with a safe and vital natural environment. As documented by a
+narrative review, birdsongs, water-, and wind-sounds have been shown to be perceived as pleasant, and to have
+benefcial efects on mood, arousal levels, and cognitive performance12. Importantly, in several studies that have
+reported positive efects of birds on human well-being, higher species diversity was a relevant factor14, perhaps
+because it may indicate the vitality or intactness of natural spaces. In a study across 26 countries conducted by
+Methorst et al.15, the authors established a relationship between species diversity of birds within a region and
+self-reported life satisfaction of residents of those regions. Remarkably, it was found that a 10% increase in bird
+species diversity raises life-satisfaction approx. 1.53 times more than a proportional rise in income15.
+In a randomized controlled experimental study using auditory stimuli, hypotheses derived from ART and SRT
+were tested. Van Hedger et al.16 compared a nature vs. city soundscape condition, whereby the former enhanced
+participants’ performance in a dual n-back and digit span task, but did not improve mood. Te present study
+broadly builds on the study by van Hedger et al.16 but adds the factor of diversity to the soundscapes. In addition
+
+to mood and cognition (dual n-back and digit span task), the present study additionally focusses on state para-
+noia, as this is a very prominent symptom in psychosis which can be measured in a change-sensitive manner17.
+
+Furthermore, state paranoia has been shown to increase in response to trafc noise (e.g., building-site noise)18.
+However, investigating in how far natural vs. urban auditory stimuli might infuence this symptom category has,
+to our knowledge, not systematically been studied yet. Te present study thus addressed the following hypotheses:
+(1) birdsong (vs. trafc noise) soundscapes have a benefcial efect on mood and paranoia; (2) birdsong (vs. trafc
+noise) soundscapes have a benefcial efect on cognitive performance. Furthermore, it was investigated whether
+greater (vs. lower) diversity of bird species or noise sources within the soundscapes would be a relevant factor,
+modulating the efects. Te outcomes (mood, paranoia, cognitive performance) were each measured before and
+afer soundscape exposure. For each soundscape type a low vs. high diversity version was created. Tis resulted
+in a between 2 (type: birdsongs vs. trafc noise)×2 (diversity: low vs. high)×within 2 (timepoint: pre vs. post)
+randomized experimental design.
+Results
+Perception of soundscapes. Te results of the MANOVA, revealed signifcant efects of type (F(3,
+276)=78.6, p<0.001, ηp
+
+2=0.461), diversity (F(3, 276)=3.16, p=0.025, ηp
+
+2=0.033), as well as type × diversity (F(3,
+276)=2.66, p=0.028), suggesting that all of these factors as well as their interaction had a signifcant impact on
+the perception of soundscapes (i.e., ratings on monotony/diversity, beauty, and pleasantness).
+Univariate follow-up ANOVAs revealed for the factor type, that it only signifcantly afected beauty (F(1,
+278)=168.8, p < 0.001, ηp
+
+2=0.378) and pleasantness perceptions (F(1, 278)=182.3, p < 0.001, ηp
+
+2=0.396), but
+
+not monotony/diversity type (F(1, 278)=0.06, p=0.812, ηp
+
+2=0.000). Concerning the factor diversity, it only sig-
+nifcantly afected the monotony/diversity ratings type (F(1, 278)=6.21, p=0.013, ηp
+
+2=0.022), but not the other
+
+rating dimensions of beauty (F(1, 278)=0.84, p=0.361, ηp
+
+2=0.003) or pleasantness (F(1, 278)=0.58, p=0.448,
+
+ηp
+2=0.002). Finally, concerning the interaction type×diversity, there were no signifcant efects on monotony/
+diversity (F(1, 278)=0.75, p=0.387, ηp
+
+2=0.003) nor beauty (F(1, 278)=2.84, p=0.093, ηp
+
+2=0.010), but on pleas-
+antness (F(1, 278)=5.36, p=0.021, ηp
+
+2=0.019).
+
+For statistical details on the post-hoc tests, see Table 1, (for descriptive data on the qualitative sound ratings
+see Supplementary Table 1). Low vs. high diversity conditions difered signifcantly from one another on the
+according monotony/diversity rating dimension, albeit with a small efect size. Tis efect was attributable to a
+signifcant small rating diference between the low and high trafc noise conditions; however, the low vs. high
+bird conditions were not perceived as signifcantly diferent concerning monotony/diversity. Tis speaks for
+only a partially successful manipulation of diversity. Both beauty and pleasantness were always perceived as
+signifcantly higher for the birdsong conditions in any given comparison with the trafc noise conditions (all
+p<0.001), with large efect sizes.
+Mood and paranoia. Univariate analyses of variance revealed no baseline diferences across the groups in the
+outcome variables at baseline for depression (F(3, 291)=0.31, p=0.820), or anxiety (F(3, 291)=0.31, p=0.821).
+
+3
+Vol.:(0123456789)
+
+Scientifc Reports | (2022) 12:16414 | https://doi.org/10.1038/s41598-022-20841-0
+www.nature.com/scientificreports/
+
+However, across the groups there were signifcant diferences in state paranoia (F(3, 291)=3.34, p=0.020). For
+details (exact group diferences and descriptive baseline data), see Supplementary Table 2.
+For depression, there was a signifcant time efect (F(1, 291) = 4.51, p = 0.035, η2
+
+partial = 0.015), suggesting
+overall changes in depressive states from pre-to-post. Te soundscape type× time interaction was signifcant
+(F(1, 291)=32.1, p<0.001, η2
+
+partial=0.099), the triple interaction type×diversity×time was non-signifcant (F(1,
+
+291)=1.52, p=0.217, η2
+
+partial=0.005), suggesting that diversity was not a modulating factor of the diferential pre-
+post-change by type. Additional analyses were run to check the robustness of the efects i.e., controlling for state
+
+paranoia age, and positive symptoms which difered signifcantly (paranoia) or at trend (p<0.10; age, positive
+symptoms) at baseline as covariates, and excluding cases who did not type in at least one digit of the auditory
+codeword at the end of the soundscape correctly (=listening compliance check). Te results of these analyses
+were comparable to the above reported ones. Post-hoc examination of the efects by computing within group
+dependent t-tests revealed that depressive symptoms signifcantly increased within both the low diversity urban
+soundscape (T(1, 82)=2.64, p=0.010, d=0.29) and high diversity urban condition (T(1, 68)=4.88, p < 0.001,
+d=0.59), whereas there were diferential efects in the birdsong conditions with no change in the low diversity
+condition (T(1, 62)= −1.49, p=0.142, d= −0.19) but a signifcant decrease in the high diversity condition (T(1,
+60)= −2.57, p=0.012, d= −0.29) (see Fig. 1).
+For anxiety, there was a signifcant time efect (F(1, 291)=39.9, p<0.001, η2
+
+partial=0.121), suggesting overall
+changes in state anxiety from pre-to-post. Te soundscape type×time interaction was signifcant (F(1, 291)=30.1,
+p < 0.001, η2
+partial = 0.094), the triple interaction type × diversity × time was non-signifcant (F(1, 291) = 0.15,
+p=0.704, η2
+partial=0.000), suggesting that diversity was not a modulating factor of the diferential pre-post-change
+by type. Additional analyses were run to check the robustness of the efects (for details see previous section),
+which revealed that the fndings were not altered by entering the covariates and/or excluding cases with incorrect
+codeword (failed listening compliance check). Post-hoc within-group t-tests for anxiety revealed that there were
+no efects within both trafc noise conditions (low diversity: T(1, 82)= −1.37, p=0.174, d= −0.15; high diversity:
+T(1, 68) = 0.49, p = 0.629, d = 0.06), whereas there were signifcant declines in both birdsong conditions (low
+diversity: T(1, 62)= −6.13, p<0.001, d= −0.77; high diversity: T(1, 60)= −6.32, p<0.001, d= −0.70) (see Fig. 1).
+
+As paranoia levels difered signifcantly at baseline between the groups, instead of a 2×2×2 repeated meas-
+ures ANOVA approach, univariate ANCOVA, with paranoia at baseline as covariate and post-test paranoia as
+
+outcome, predicted by type and diversity as factors, was computed. Type was a signifcant factor explaining post-
+test paranoia (F(1, 290)=45.5, p<0.001, η2
+
+partial=0.070), diversity was non-signifcant (F(1, 290)=0.50, p=0.480,
+Table 1. Comparison of soundscapes concerning beauty, pleasantness, and diversity/monotony ratings in the
+total sample. *p < .05; ***p < .001.
+DV Conditions t(df) p-value Cohen’s d
+Monotony/diversity
+Type trafc noise vs. birdsongs 0.50 (278) 0.619 0.06
+Diversity low vs. high −2.59 (280) 0.010* −0.21
+Trafc noise low vs. trafc noise high −2.38 (146) 0.019* −0.39
+Trafc noise low vs. birdsong low −0.81 (142) 0.418 −0.13
+Trafc noise low vs. birdsong high −1.89 (153) 0.060 −0.31
+Trafc noise high vs. birdsong low 1.69 (125) 0.094 0.30
+Trafc noise high vs. birdsong high 0.45 (136) 0.657 0.07
+Birdsong high vs. birdsong low 1.18 (131) 0.240 0.21
+Beauty
+Type trafc noise vs. birdsongs 13.1 (276) 0.000*** 1.54
+Diversity low vs. high −0.21 (280) 0.831 −0.03
+Trafc noise low vs. trafc noise high 1.77 (147) 0.079 0.28
+Trafc noise low vs. birdsong low −7.65 (142) 0.000*** −1.24
+Trafc noise low vs. birdsong high −8.75 (146) 0.000*** −1.38
+Trafc noise high vs. birdsong low −10.8 (125) 0.000*** −1.79
+Trafc noise high vs. birdsong high −11.6 (136) 0.000*** −1.98
+Birdsong high vs. birdsong low 0.61 (131) 0.546 0.11
+Pleasantness
+Type trafc noise vs. birdsongs 13.4 (280) 0.000*** 1.59
+Diversity low vs. high −0.34 (280) 0.732 −0.04
+Trafc noise low vs. trafc noise high 2.14 (147) 0.036* 0.35
+Trafc noise low vs. birdsong low −7.60 (142) 0.000*** −1.28
+Trafc noise low vs. birdsong high −9.50 (152) 0.000*** −1.51
+Trafc noise high vs. birdsong low −9.78 (125) 0.000*** −1.74
+Trafc noise high vs. birdsong high −11.7 (136) 0.000*** −2.00
+Birdsong high vs. birdsong low 1.15 (131) 0.252 0.20
+
+4
+
+Vol:.(1234567890)
+Scientifc Reports | (2022) 12:16414 | https://doi.org/10.1038/s41598-022-20841-0
+www.nature.com/scientificreports/
+
+η2
+partial=0.002), as was the interaction type × diversity (F(1, 290)=0.18, p=0.670, η2
+
+partial=0.001). Finally, for para-
+noia there were no changes in the trafc noise conditions (low diversity: T(1, 82)= −0.55, p=0.583, d= −0.06;
+
+high diversity: T(1, 68)= 0.67, p =0.507, d=0.08), but signifcant decreases in both birdsong conditions (low
+diversity: T(1, 62)= −5.90, p<0.001, d= −0.74; high diversity: T(1, 60)= −4.11, p<0.001, d= −0. 46) (Fig. 1).
+Cognition. Univariate analyses of variance revealed no baseline diferences across the groups in the cognition
+outcome variable at baseline for the forward digit span two-error maximum length (TE_ML) measure (F(3,
+291)=0.45, p=0.720), or the according backward digit span measure (F(3, 291)=0.15, p=0.962). Univariate
+analyses of variance also revealed no baseline diferences across the groups in the cognition outcome variable at
+baseline for the dual n-back measure d prime (F(3, 291)=1.01, p=0.388).
+Concerning the two-error maximum length digit span forward, there was no signifcant time efect (F(1,
+281) = 1.1, p = 0.298, η2
+
+partial = 0.004). Te time × soundscape type interaction efect was also not signifcant
+
+(F(1, 281)=0.2 p=0.662, η2
+
+partial=0.001), as well as the time×type×diversity triple interaction (F(1, 281)=1.1,
+
+p=0.296, η2
+partial=0.004). Te same null-fnding emerged for the according backward digit span measure: time
+(F(1, 281)=0.30, p=0.582, η2
+
+partial=0.001), time × soundscape type (F(1, 281)=1.04, p=0.308, η2
+
+partial=0.004) and
+
+time×type×diversity (F(1, 281)=1.2, p=0.278, η2
+
+partial=0.004). For the n-back task total performance param-
+eter, there were also consistent null-fndings. Tere was no signifcant efect of time (F(1, 287)=0.37, p=0.543,
+
+η2
+partial=0.001) or time×soundscape type (F(1, 287)=0.23, p=0.635, η2
+
+partial=0.001) nor time × type × diversity
+
+(F(1, 287)=1.12, p=0.279, η2
+
+partial=0.004). Additional analyses were run to check the robustness of the efects
+i.e., controlling for state paranoia age, and positive symptoms which difered signifcantly (paranoia) or at trend
+(p<0.10; age, positive symptoms) at baseline as covariates, and excluding cases who did not type in at least one
+digit of the auditory codeword at the end of the soundscape correctly (=listening compliance check). Te results
+of these analyses were comparable to the above reported ones. At last, an aggregation of both task scores into a
+composite z-score, which is an established practice in the feld16, did not yield a signifcant result either.
+Discussion
+Te present study built up a previous study by van Hedger et al.16, who demonstrated that a natural vs. urban
+soundscape was related to better cognitive outcomes, but failed to demonstrate signifcant efects on mood. In the
+present study, birdsongs were contrasted with trafc noise, whereby a novel diversity factor (low vs. high number
+of birdsongs or trafc noise sources in the soundscapes that participants were exposed to) was introduced, and
+efects on paranoia were additionally tested (for the rationale see “Introduction” section).
+Opposed to van Hedger et al.16 in the present study only efects on mood (depression, anxiety) and paranoia,
+but not on cognition (dual n-back, digit span task), were found. Trafc noise soundscapes generally aggravated
+Figure 1. Within-group changes in mood and paranoia for all variables of interest. Y-axes have been formatted
+to refect the possible data range. Te interpretation of scores corresponds to the Likert-scale of the respective
+measure. Between-group diferences (at baseline) and exact descriptives (means and standard deviations) for
+pre- and post-tests can be found in Supplementary Table 2. Paired t-test statistics for changes within groups in
+mood (anxiety, depression) and paranoia can be found in Supplementary Table 3.
+
+5
+Vol.:(0123456789)
+
+Scientifc Reports | (2022) 12:16414 | https://doi.org/10.1038/s41598-022-20841-0
+www.nature.com/scientificreports/
+
+depressive states (small efect in low diversity, moderate efect in high diversity condition), whereby these sound-
+scapes were also perceived as signifcantly diferent in terms of diversity in subjective ratings, which were con-
+ducted as a manipulation check at the end of the study. Exclusively the highly diverse birdsong soundscape
+
+decreased depressive states (small efect size). Generally, the birdsong conditions were not rated as signifcantly
+diferent in terms of diversity. Concerning anxiety, trafc noise soundscapes had no efect, whereas both birdsong
+soundscapes signifcantly alleviated anxiety (medium efect sizes). Finally, the trafc noise soundscapes had
+no efect on paranoia, whereas again both birdsong soundscapes signifcantly lowered it (medium efect sizes).
+
+Te benefcial efects of birdsongs in particular concerning mood and attention restoration have been previ-
+ously observed20. Mood recovery (e.g., afer a stressor) or benefcial mood efects have repeatedly been reported
+
+for exposure with natural sounds21,22. Te present study thus confrms prior fndings. Moreover, to the best of
+our knowledge, benefcial efects of natural soundscapes on state paranoia are shown for the very frst time. Tis
+
+fnding might be explained in several ways. Birdsongs might be implicitly associated with a vital natural environ-
+ment, divert attention away from (internal and external) stressors, or could signal the absence of acute threat.
+
+Urban soundscapes on the other hand might trigger socio-evaluative concerns, involuntarily direct attention
+resulting in perceived loss of control and hence alter vigilance to potential threats which are processes proposed
+to elicit paranoia. However, somewhat contradicting the latter notion, the trafc noise soundscapes as used in
+the present study did not increase paranoia. Possibly, by adding human voices to the audio fle, this efect could
+have been evoked. Human voices may more readily activate interpersonal sensitivity, to which a central role
+has been ascribed in the emergence and maintenance of paranoia23. Generally, classical learning paradigms
+(conditioning) might provide a framework to explain restorative nature efects. Hereby, frst an unconditioned
+positive response occurs in reaction to nature, which gets later retrieved by similar natural cues, and can later
+generalize to an abstract level whereby even more abstract cues (e.g., words) may trigger the original response24.
+Neither urban (trafc noise) nor natural (birdsong) soundscapes had any efect on cognitive performance,
+which, at frst glance, seems to contradict a previous study, which implemented the same cognitive tests (i.e., digit
+span and dual n-back)16. An explanation for the null efect could be the degree to which the administration of
+the tasks was controlled. Te current study was performed online, practice was restricted to two blocks (i.e., in a
+laboratory setting, participants can ofen train for as long as they wish/need), and hence there was little control
+over the degree to which subjects understood the task correctly (albeit visual inspection of the raw data did not
+
+reveal severe deviations from an expected performance). In addition, the online as opposed to a laboratory situ-
+ation does not allow for controlling context variables or systematically manipulating baseline levels of stress or
+
+fatigue21. Besides the highlighted methodological issues with respect to the cognitive outcomes of the current
+study, it could be debated whether such an efect of exposure to nature on cognitive performance as measured by
+executive functioning tasks really exists on a population level. Support for the existence of this efect originally
+comes from a study in which mere viewing of pictures from nature improved cognitive performance11. Tis was
+subsequently replicated with auditory exposure to nature in the form of soundscapes using the same cognitive
+
+tasks that were also administered in the current study16. Summing up this debate there hence seems to be pre-
+liminary support for the existence of such an efect on a population level, however future meta-analyses about
+
+this efect should be carried out in order to clarify the existence of the efect.
+Concerning the fact that there was no diference between the high and low diversity soundscapes of birdsongs
+with respect to the efects on mood and paranoia it should be mentioned that in a study by Methorst et al.15
+where bird species diversity in a given region was shown to be related to reported life-satisfaction in that region,
+the authors suggest two explanations which are also relevant in the light of the afore-mentioned result. It is
+concluded that the multisensory experience of birds can be a crucial factor for diversity of birdsongs to have an
+efect on life-satisfaction. Yet another explanation is that benefcial landscape properties in fact drive the efects,
+promoting both bird diversity and people’s life-satisfaction independently of one another. In the current study
+it might be the case that merely listening to a more diverse birdsong soundscape did not communicate the same
+
+multisensory experience than it does when people are experiencing bird diversity in a real-life situation. Fur-
+thermore, the appreciation of diversity might rely on certain knowledge or expertise, resulting in a beneft only
+
+for experienced listeners. Potentially, our sample did include mostly lay people concerning bird listening, which
+could partially explain the result with respect to the diversity variable (i.e., the soundscapes were not rated as
+signifcantly diferent from one another in terms of monotony/diversity). Future studies investigating this topic
+should aim to include some kind of expertise measurement in order to control for this factor.
+Limitations
+
+One limitation of the present study is the numerically higher percentage of males relative to females (albeit non-
+signifcant), which is a typical problem encountered in online studies. Future studies should stratify the subgroups
+
+by sex, such as to balance the sample in this regard. Furthermore, the manipulation of low vs. high diversity of
+the soundscapes was only partially successful. Namely, although the soundscape composition followed a logical
+rationale in this regard, and the subjective diversity rating the urban soundscapes signifcantly difered in the
+trafc noise soundscapes, this was not the case for the birdsong conditions. To assure stronger contrasts, and
+hence to be able to test the diversity hypothesis more aptly concerning enhanced benefcial efects, the contrast
+between the soundscapes needs to be further enhanced in future studies. In addition, mixed conditions such as
+urban soundscapes containing birdsongs would be a highly interesting research target, as this could more readily
+refect daily life exposure situations.
+It remains to say that the current study made use of a non-clinical sample opening the debate if the observed
+efects can also be generalized to people diagnosed with high levels of e.g., paranoia. Taking into account the
+continuum hypothesis, which states, that psychotic symptoms which are seen in patients can also be observed in
+non-clinical populations, it might be the case that both populations share a mechanism by which symptoms can
+
+6
+
+Vol:.(1234567890)
+Scientifc Reports | (2022) 12:16414 | https://doi.org/10.1038/s41598-022-20841-0
+www.nature.com/scientificreports/
+
+be relieved or improved. Tis remains speculative, nevertheless the current study can be seen as a pilot, exploring
+the existence and potential magnitude of efects, feasibility, and safety for a future transfer to a more vulnerable
+clinical sample. Future research could adopt the current design and investigate the efects of birdsong exposure
+
+on paranoia within a clinical sample. Such research can potentially result in low threshold environmental inter-
+ventions to reduce distress in e.g., psychiatric wards or other clinical settings. In the sense of conditioning (see
+
+above), associations with natural environments might divert attention away from psychological stressors or
+signal the absence of acute threat. Future experiments could aim to explore if paranoia does in fact not decrease
+afer exposure to threatening natural environments, such as the wilderness, or situations which signal the acute
+presence of threat, such as natural disasters.
+
+Moreover, it is important to highlight the fact, that the results of the current study cannot provide any clarifca-
+tion concerning the sustainability or replicability (e.g., by repeated exposure) of the efect birdsongs can have on
+
+mood and paranoia. Future research should aim to test such efects in a longitudinal and/or repeated exposure
+study design. Yet another limitation in the current study is the lack of a neutral control sound condition which
+would enable the interpretation of results with respect to a neutral condition instead of the mere comparison
+between a trafc condition and a birdsong condition. Te use of such a neutral control group within a similar
+design as implemented by the current study would be a great addition for future research. Finally, although the
+instructions required participants to set their audio system loudness to 80%, still subjectively perceived loudness
+of the soundscapes could constitute a confounding factor.
+
+Conclusion. Te present study provides evidence for the benefcial efects of birdsongs on mood (depres-
+sion, anxiety) and paranoid symptoms, with the latter being shown for the frst time. On the other hand, the
+
+negative efects of trafc noise were only confrmed concerning depressive symptoms. Te manipulated low
+vs. high diversity of the soundscapes did not have a signifcant efect, which might in part be explained by no
+perceived subjective diferences concerning monotony vs. diversity. Further replication in vulnerable, elevated
+risk- or clinical groups could be of interest to assess the magnitude of efects given pre-existing symptoms and
+cognitive performance defcits. In case of replication, using birdsongs as ‘soothing’ background soundscape
+could open interesting new possibilities in psychiatric hospitals or other therapeutic settings.
+Methods
+Power calculation and study registration. A power calculation was conducted for an interaction efect
+(repeated measures ANOVA), in G*Power 3.1.9.7 with f=0.10, α=0.05, power=0.90, 4 groups, correlation
+between repeated measures r=0.60, resulting in a minimum required total sample size of N=288 (n=72 per
+group). According to the general rule of thumb for Cohen’s f statistic, f≥0.10<0.25 is a small efect, f≥0.25<0.40
+is a medium efect, and, f≥0.40 a large efect (see Cohen, 1988)25. We opted for a small efect size as a similar
+study as ours, conducted by van Hedger et al.16, also using a repeated-measures ANOVA data analysis approach,
+reported interaction efects type ([2] natural vs. urban soundscapes) by time ([2] pre-to-post exposure) on mood,
+whereby Cohen’s d for negative afect was between 0.36 and 0.40. Tese results were non-signifcant, as the
+study was underpowered for detecting small efects. Te interaction efects observed concerning cognition in
+that paper, applying the same tests as in the present paper, were large (d between 0.71 to 0.76). Since we were
+interested in detecting efects on mood and to study yet unknown efects on state paranoia, we opted for and
+intermediate efect size between small and medium.
+Te study was pre-registered at aspredicted.org (study name: “Sounds_Online”, trial identifer: #67702, https://
+aspredicted.org/d5j7j.pdf) on 06/04/2021.
+Recruitment and in‐ and exclusion criteria. Te study was programmed using Inquisit 526 (https://
+www.millisecond.com) and accordingly run on the Millisecond server. Participants were recruited from the
+crowdsourcing platform Prolifc and received 10€ reimbursement for their full participation. Adult individuals
+were pre-screened on Prolifc (i.e., visibility of the study only for candidates with a suited profle) concerning
+fuent German language skills (as this was the study language), having no diagnosed lifetime mental illness, and
+having no hearing difculties. Pre-screened individuals could then access the study, where in- and exclusion
+
+criteria were checked further. Tis included no regular substance or drug intake, no suicidal thoughts, or tenden-
+cies, and availability of headphones for the purpose of the study.
+
+Study procedure. Afer providing informed consent, sociodemographic information was assessed, includ-
+ing education, income, and further variables, which were assessed for potential additional or exploratory analy-
+ses, but for the sake of conciseness are not reported in this paper. Psychosis liability was assessed. For an accord-
+ing overview on sample characteristics, see Table 2. Hereafer, pre-test assessments were conducted, including
+
+an assessment of mood (depression, anxiety), paranoia, the digit-span, and n-back tasks. Participants were ran-
+domized to one of four sound conditions: (1) low diversity trafc noise soundscape n=83, (2) high diversity
+
+trafc noise soundscape n=69, (3) low diversity birdsong soundscape n=63, or (4) high diversity birdsong
+soundscape n=80, (for details on the stimuli, see “Stimuli” section). Te soundscapes each lasted for exactly
+6 min. Participants were instructed to set their audio system volume to 80% (which was piloted with members
+of our research unit beforehand and deemed to be an optimal average volume) and to listen to the sounds until
+the end, when participants were required to continue by clicking with their mouse. Participants were told that a
+code, consisting of two spoken digits (in German), would be audible towards the end of the sound presentation,
+which they were required to type in correctly aferwards. Tis was implemented to assure listening-compliance
+and attention. Afer the sound presentation, the pre-test measures were repeated. Finally, several items to assess
+perceived sound quality, including beauty, pleasantness, and monotony (vs. diversity) were presented.
+
+7
+Vol.:(0123456789)
+
+Scientifc Reports | (2022) 12:16414 | https://doi.org/10.1038/s41598-022-20841-0
+www.nature.com/scientificreports/
+
+Sample. Initially, N=401 individuals started the survey. Of those, n=76 quit during the sociodemographic
+assessment, n=24 lacked pre-test data, and n=6 lacked post-test data. Tese n=106 cases were excluded from
+the analyses, resulting in a fnal sample of N=295. Of these, some participants had incomplete post-test data
+(n=10 missing digit span, 5 missing n-back, and n=8 missing the qualitative assessments [sound rating]).
+
+For detailed information and inferential statistics comparing the groups at baseline see Table 2. Te partici-
+pants were in their middle to late twenties on average and there were in tendency more males than females. Net
+
+income was mostly reported to be in the lowest category (i.e.,< 1.250€, 40–50% of participants of all groups),
+but also between 5 and 20% of participants did not wish to reveal their monthly net income. Positive symptom
+frequency levels did not difer signifcantly between the groups, albeit there were relatively marked descriptive
+diferences (p=0.058). Te values were mostly similar and within a confdence interval range that has previously
+been reported for healthy individuals19. Due to the trend-level nature of the diferences in positive symptom
+frequency, we decided to repeat the main analyses, controlling for this variable as covariate in the repeated
+measures ANOVAs.
+Measures. For all mood and the paranoia scales, item scores were computed (i.e., summing up responses
+on all items and dividing this by the number of items). Tis way, the interpretation of scores is facilitated, as it
+corresponds to the Likert-scale of the respective measure.
+Psychosis liability. Psychosis-liability or sub-clinical psychosis levels was assessed using the Community
+Assessment of Psychic Experiences (CAPE)19, in its German version, to assesses lifetime positive, negative and
+
+depressive symptoms (http://www.cape42.homestead.com/index.html). Te CAPE, including the German ver-
+sion, has been validated extensively17. Items refer to the lifetime prevalence of specifc symptoms, rated on an
+
+ordinal response scale for frequency (categories: 1=‘never’, 2=‘sometimes’, 3=‘ofen’, 4=‘nearly always’). Te
+total scale consists of 42 items, whereby the positive symptom scale includes 20 (e.g., ‘Do you ever feel as if things
+in magazines or on TV were written especially for you?’), the negative symptom scale 14 (e.g., ‘Do you ever feel
+that your mind is empty?’), and the depressive symptom scale 8 items (e.g., ‘Do you ever feel like a failure?’). To
+test for comparative baseline levels across all groups in psychosis liability, mean frequency scores for the positive
+symptom subscale was used, for which Mossaheb and colleagues have provided descriptive data for individuals
+with ultra-high risk for psychosis (n=84) vs without risk (i.e., healthy controls; n=81)19. Te positive dimension
+(frequency) of the CAPE had excellent internal consistency in the present sample, with Cronbach’s α=90.
+Mood and paranoid symptoms. Mood was assessed with the State Trait Anxiety Depression Inventory
+(STADI)27. Te scale contains 40 items, whereby the same 20 items are once presented in trait and once in state
+Table 2. Descriptive sample data and between-group diferences for socio-demographic variables. 1Te
+German school system has three type of school degrees; lowest=‘Hauptschulabschluss’, which can be acquired
+afer the 9th, middle=‘Realschulabschluss’, which can be acquired afer the 10th, and high=‘Abitur’, which
+can be acquired afer the 12th or 13th school year. 2Scores can range from 1 to 4, which indicate the average
+lifetime frequency of psychotic (positive or negative symptoms) symptoms (1=never, 2=sometimes, 3=ofen,
+4=nearly always). For reference: Mossaheb et al.19 report means (SD) for frequency on the positive symptom
+dimension individuals with ultra-high-risk for psychosis (n=84) vs. without risk (i.e., healthy controls; n=81):
+1.9 (0.5), [CI 1.71–2.02] vs. 1.6 (0.4), [CI 1.47–1.70].
+Variable
+
+Trafc noise low
+n=83
+
+Trafc noise high
+n=69
+
+Birdsong low
+n=63
+Birdsong high
+n=80 Inferential statistics
+Age mean (SD) 27.0 (7.48) 25.5 (7.10) 26.5 (6.30) 28.7 (7.72) F(3, 293)=2.53, p=0.057
+Sex: % male (n) 55% (45) 64% (44) 71% (45) 54% (43) X2
+
+(3, 293)=6.04, p=0.110
+
+School degree1% (n)
+None 1.20% (1) 2.90% (2) 6.30% (4) 3.80% (3)
+X2
+(9, 293)=6.04, p=0.285
+
+Low 11.0% (9) 11.6% (8) 15.9% (10) 7.60% (6)
+Middle 13.4% (11) 21.7% (15) 17.5% (11) 10.1% (8)
+High 73.4% (61) 63.8% (44) 60.3% (38) 78.5% (62)
+Net income % (n)
+<1.250€ 48.8% (40) 43.5% (30) 41.3% (26) 40.5% (32)
+
+X2
+(21, 293)=21.3, p=0.443
+
+1.250–1.749€ 11.0% (9) 7.20% (5) 15.9% (10) 16.5% (13)
+1.750–2.249€ 7.30% (6) 8.70% (6) 15.9% (10) 8.90% (7)
+2.250–2.999€ 12.2% (10) 8.70% (6) 12.7% (8) 10.1% (8)
+3.000–3.999€ 2.40% (2) 10.1% (7) 4.80% (3) 3.80% (4)
+4.000–4.999€ 3.70% (3) 0.00% (0) 1.60% (1) 1.30% (1)
+>5.000 € 2.40% (2) 2.90% (2) 3.20% (2) 2.40% (3)
+Not wish to answer 12.2% (10) 18.8% (13) 4.80% (3) 15.2% (12)
+CAPE positive symptoms
+freq. score2
+mean (SD) 1.62 (0.44) 1.58 (0.43) 1.73 (0.48) 1.53 (0.41) F(3, 294)=2.52, p=0.058
+
+8
+
+Vol:.(1234567890)
+Scientifc Reports | (2022) 12:16414 | https://doi.org/10.1038/s41598-022-20841-0
+www.nature.com/scientificreports/
+
+format. Only the latter was used in the present study. Te scale diferentiates between depression (low euthymia
+[inverted items], dysthymia) and anxiety (hyperarousal and worry), whereby each of the subscales is assessed by
+
+5 items. Te response format is a 4-point Likert (1=‘not at all’, 4=‘strongly applies’). Internal consistency (Cron-
+bach’s α) at pre-test was good both for the state anxiety (0.85) and depression (0.86) scales.
+
+Paranoia was assessed with a brief, change sensitive state version of the paranoia checklist, which has been
+validated and comparable to the long, state adapted 18-item version17. Te scale comprises 3 statements (e.g.,
+‘I need to be on my guard against others’, ‘Strangers and friends look at me critically’, ‘People try to upset me’),
+rated on an 11-point Likert-scale (each from 1 to 11) for the degree of agreement to the statement, associated
+distress and conviction, at present. Te latter two categories were only presented if the rating of agreement to the
+statement was>1 (which accordingly ofen results in a large amount of missing data). In the present study, only
+agreement was evaluated. Internal consistency at pre-test was acceptable with Cronbach’s α=0.78.
+Cognition. To assess digit span cognitive performance, both the forward and backward version were used,
+as available in Inquisit 526 [retrieved from https://www.millisecond.com] which is based on the original task
+reported by Woods et al.28. Two parameters are recommended for evaluation: the two-error maximum length
+(TE_ML) and the maximum length recalled (ML). Te two-error maximum length is defned as the last digit
+span a participant gets correct before making two consecutive errors while the maximum length is the digit span
+that a participant recalled correctly during all trials irrespective of the number of errors in-between. Starting
+with a successive visual presentation of 3 digits, the participants need to correctly recall a by 1 digit increasing
+sequence of digits and reproduce it by clicking on the correct digits in correct order. Afer two wrongly recalled
+sequences of the same length, the digit span is decreased by 1 digit until the digit span length again reaches the
+starting point of 3. Te total amount of trials is 14 making the shortest span possible 3 digits long and the longest
+span 16 digits long. Te participants were explicitly reminded not to use any memory assisting methods such
+as paper and pencil. Te dual n-back task, also available in the Inquisit 526 (retrieved from https://www.milli
+second.com) was assessed. Te task is based on the original work by Jaeggi et al.29. It consists of 4 experimental
+blocks demanding 2-back and 3-back level performance. While performing the task, subjects pay attention to
+their computer screen while also listening to a computer audio. On each trial a blue square appears in one out
+of eight grid-like locations around a central fxation cross, while at the same time a (German) letter is presented
+via the headphones. In the 2-back block condition, the subjects are instructed to press the “A” button on their
+keyboard when the current square position matches the square position from two trials before. Subjects are
+also instructed to press the “L” button on their keyboard if the spoken letter matched the letter two trials before.
+Te same instruction, but having to match stimuli 3 trials back, is provided for the 3-back condition. In the
+present study, participants trained each condition once, and then went on with the experimental blocks. Te
+
+performance parameter was the so-called d prime value calculated as the proportion of ((visual_TotalHits−vis-
+ual_TotalFA)+(auditory_TotalHits−auditory_TotalFA)/2)/number of total experimental blocks. Te highest
+
+possible d prime (greatest sensitivity) was 6.93 and the lowest was 0. Visual hits are defned as correct responses
+with respect to the location of the square and auditory hits are defned as the correct responses with respect to
+the spoken letter. Visual false alarms (FA) are defned as responses in the absence of a target in the visual domain,
+thus with respect to the location of the square and auditory false alarms are responses in the absence of a target
+in the auditory domain, thus with respect to the spoken letter.
+
+Soundscape perception. Te participant’s perception of the soundscapes was assessed using a one item ques-
+tionnaire per dimension (diversity/monotony, pleasantness, and beauty). Participants were asked to report on
+
+a 0 to 100 visual scale how diverse/monotone, beautiful, and pleasant they had perceived the soundscape they
+had listened to during the experiment. Te items have been formulated by the authors themselves while the
+use of an aesthetic rating of the soundscapes per se was a replication from the van Hedger et al.16 study where
+we exchanged the “like–dislike” afective response with a more detailed aesthetic rating splitting the response
+up into a pleasantness and a beauty dimension. Te dimension of diversity/monotony has been to perform a
+manipulation check on diversity for the soundscapes used in the present study.
+
+Stimuli. Te soundscapes for all four categories have been generated in the same way. Single sound snip-
+pets were gathered and then adapted and merged within the audio sofware Steinberg Cubase10. An exemplary
+
+visualization of the resulting soundscape can be seen in the Supplementary Material (see Supplementary Fig. 1).
+For the nature category a database of birdsong recordings (https://www.xeno-canto.org/explore/region) from
+a central European origin was used. For the low diversity birdsong condition, eight recordings from the same
+two species were used (common chifchaf & wood warbler). For the high diversity birdsong condition, the
+same approach was chosen, but recordings from eight diferent bird species were used to create the soundscape
+(garden warbler, honey buzzard, woodlark, Eurasian sparrow hawk, coal tit, greenshank, common crane, and
+black woodpecker). In both birdsong conditions, additionally subtle water and wind sounds were played in the
+background, to create a constant auditory experience. For the trafc noise conditions, sound snippets from
+eight car recoding’s (https://freesound.org/search/?q=city) were used for the low diversity trafc noise condition
+while audio-snippets from eight diverse sources of noise pollution associated with the city were used for the
+high diversity trafc noise condition (ambulance siren, construction, trucks, train, motorcycle, airplane, bus and
+fre-fghter siren). In both trafc noise soundscapes, a constant subtle trafc fow was audible in the background.
+To ensure that all soundscapes were perceived with a similar loudness level, all soundscapes were engineered
+to have a similar loudness value. Te loudness values from all four conditions range between 19.4 and 27.8
+loudness units relative to full scale (LUFS). All soundscapes had a duration of 6 min. Prior to the experiment
+the soundscapes have been presented to a small set of pilot participants rating the similarity of the audio level
+
+9
+Vol.:(0123456789)
+
+Scientifc Reports | (2022) 12:16414 | https://doi.org/10.1038/s41598-022-20841-0
+www.nature.com/scientificreports/
+
+ensuring a comfortable audio level across all conditions. As a result, at the beginning of the experiment, par-
+ticipants were instructed to set their headphone loudness level to 80%. Soundscapes can be accessed openly via
+
+this link https://osf.io/4y3vh/.
+
+Statistical analyses. Analyses were run in SPSS 27 (IBM Corp., 2020). To test the diferences of all meas-
+ures at baseline, several univariate analyses of variance (ANOVA) were run. In order to test the efects of high vs.
+
+low diverse trafc noise vs. birdsong soundscapes on mood, paranoia, and cognition, repeated measures analyses
+of variance (ANOVA) were run testing for a 2 (timepoint: pre vs. post)×2 (soundscape type: birdsong vs. trafc
+noise)×2 (diversity: low vs. high) interaction efect. Te analyses were once run with all participants, and then
+
+only with those who entered at least one of the digits (control of compliance of listening to audio, see “Study pro-
+cedure” section) correctly, to check for the robustness of fndings. In order to further check for the robustness of
+
+efects on mood and cognition repeated measures ANOVAs were run controlling for baseline sample diferences
+on sample characteristics or outcomes (i.e., state paranoia, age and positive symptoms) as covariates. To check
+the robustness of efects on paranoia a univariate analysis of covariance (ANCOVA) with paranoia at baseline as
+covariate and post-test paranoia as outcome, predicted by type and diversity as factors, was computed. Signifcant
+interactions (i.e., of interest were the type×time and type×diversity×time) interactions identifed for any of the
+outcomes were followed up by subsequent detailed post-hoc-tests. To explore mean diferences between the
+qualitative ratings of soundscapes (i.e., beauty, pleasantness, and monotony vs. diversity), a one-way multivariate
+
+analysis of variance (MANOVA) was conducted. In case of signifcant omnibus tests indicating global difer-
+ences across the qualitative sound rating dimensions, follow-up between group t-tests were conducted. Due to
+
+the exploratory nature of the study, no p-level correction was applied.
+Te partial eta squared efect size was used to interpret the ANOVA based analyses, with the corresponding
+rule of thumb defning η2=0.01 as a small efect size, η2=0.06 as a medium efect size and η2=0.14 as a large
+efect size30. Cohen’s d efect size was used to interpret post-hoc test efect sizes, with the corresponding rule of
+thumb defning a value of≥0.2 as a small efect size, a value of≥0.5 as a medium efect size and a value of≥0.8
+as a large efect size. Te criteria for interpreting the efect size for Hedge’s g stem from the corresponding rule
+of thumb with the same defnition30.
+Ethics statement. All procedures performed in studies involving human participants were in accordance
+with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki
+Declaration and its later amendments or comparable ethical standards. Informed consent was obtained from all
+participating subjects. Te experimental protocol was approved by the ethical committee from the University
+Clinic Hamburg Eppendorf.

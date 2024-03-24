@@ -1,0 +1,1558 @@
+Abstract
+Rationale Although psilocybin has been used for centuries
+for religious purposes, little is known scientifically about its
+acute and persisting effects.
+Objectives This double-blind study evaluated the acute and
+
+longer-term psychological effects of a high dose of psilocy-
+bin relative to a comparison compound administered under
+
+comfortable, supportive conditions.
+
+Materials and methods The participants were hallucinogen-
+naïve adults reporting regular participation in religious or
+
+spiritual activities. Two or three sessions were conducted at
+
+2-month intervals. Thirty volunteers received orally admin-
+istered psilocybin (30 mg/70 kg) and methylphenidate
+
+hydrochloride (40 mg/70 kg) in counterbalanced order. To
+
+obscure the study design, six additional volunteers received
+methylphenidate in the first two sessions and unblinded
+
+psilocybin in a third session. The 8-h sessions were con-
+ducted individually. Volunteers were encouraged to close
+
+their eyes and direct their attention inward. Study monitors
+rated volunteers’ behavior during sessions. Volunteers
+
+completed questionnaires assessing drug effects and mys-
+tical experience immediately after and 2 months after
+
+sessions. Community observers rated changes in the
+volunteer’s attitudes and behavior.
+Results Psilocybin produced a range of acute perceptual
+changes, subjective experiences, and labile moods including
+anxiety. Psilocybin also increased measures of mystical
+experience. At 2 months, the volunteers rated the psilocybin
+experience as having substantial personal meaning and
+
+spiritual significance and attributed to the experience sus-
+tained positive changes in attitudes and behavior consistent
+
+with changes rated by community observers.
+
+Conclusions When administered under supportive condi-
+tions, psilocybin occasioned experiences similar to sponta-
+neously occurring mystical experiences. The ability to
+
+occasion such experiences prospectively will allow rigorous
+scientific investigations of their causes and consequences.
+Keywords Psilocybin . Methylphenidate . Hallucinogen .
+Entheogen . Mystical experience . Spiritual . Religion .
+Anxiety . Humans
+
+Introduction
+Psilocybin, a naturally occurring tryptamine alkaloid with
+actions mediated primarily at serotonin 5-HT2A/C receptor
+sites, is the principal psychoactive component of a genus of
+
+Psychopharmacology (2006) 187:268–283
+DOI 10.1007/s00213-006-0457-5
+
+Electronic Supplementary Material Supplementary material is
+available for this article at http://dx.doi.org/10.1007/s00213-
+006-0457-5 and is accessible for authorized users.
+R. R. Griffiths (*) : U. McCann
+Department of Psychiatry and Behavioral Sciences,
+Johns Hopkins University School of Medicine,
+5510 Nathan Shock Drive,
+Baltimore, MD 21224-6823, USA
+e-mail: rgriff@jhmi.edu
+R. R. Griffiths
+Department of Neuroscience,
+Johns Hopkins University School of Medicine,
+5510 Nathan Shock Drive,
+Baltimore, MD 21224-6823, USA
+W. A. Richards
+Johns Hopkins Bayview Medical Center,
+2516 Talbot Road,
+Baltimore, MD 21216-2032, USA
+W. A. Richards: R. Jesse
+Council on Spiritual Practices,
+Box 460220, San Francisco, CA 94146-0220, USA
+
+mushrooms (Psilocybe) (Presti and Nichols 2004). Psilocy-
+bin, in the form of these mushrooms, has been used for
+
+centuries, possibly millennia, within some cultures in
+structured manners for divinatory or religious purposes
+
+(Wasson 1980; Stamets 1996; Metzner 2004). The psycho-
+logical effects of psilocybin, which are similar to other
+
+classical serotonergically mediated hallucinogens [lysergic
+
+acid diethylamide (LSD), mescaline, and N,N-dimethyl-
+tryptamine (DMT)], include significant alterations in
+
+perceptual, cognitive, affective, volitional, and somates-
+thetic functions, including visual and auditory sensory
+
+changes, difficulty in thinking, mood fluctuations, and
+dissociative phenomena (Isbell 1959; Wolbach et al. 1962;
+Rosenberg et al. 1964).
+Early clinical research with psilocybin in the 1950s and
+early 1960s attempted to study the effects of psilocybin
+without recognition of the powerful influences of set and
+setting (e.g., Isbell 1959; Hollister 1961; Malitz et al. 1960;
+Rinkel et al. 1960). Subsequent research, which included
+more preparation and interpersonal support during the period
+of drug action, found fewer adverse psychological effects,
+such as panic reactions and paranoid episodes, and increased
+reports of positively valued experiences (Leary et al. 1963;
+Metzner et al. 1965; Pahnke 1969). In response to the
+epidemic of hallucinogen abuse that occurred in the 1960s,
+clinical research with psilocybin and other hallucinogens
+largely ceased and has resumed only recently. Notably,
+
+Vollenweider and colleagues from Switzerland and Gouzoulis-
+Mayfrank from Germany have reported a series of studies
+
+that have characterized the acute subjective, physiological,
+and perceptual effects of psilocybin (e.g., Vollenweider et al.
+1998; Gouzoulis-Mayfrank et al. 1999; Hasler et al. 2004;
+Carter et al. 2005).
+
+In the present study, we sought to use rigorous double-
+blind clinical pharmacology methods to evaluate both the
+
+acute (7 h) and longer-term (2 months) mood-altering and
+psychological effects of psilocybin (30 mg/70 kg) relative to
+
+an active comparison compound (40 mg/70 kg methylphe-
+nidate). The study was conducted with 36 well-educated,
+
+hallucinogen-naïve volunteers.
+
+Materials and methods
+Participants
+The participants were recruited from the local community
+
+through flyers announcing a “study of states of conscious-
+ness brought about by a naturally occurring psychoactive
+
+substance used sacramentally in some cultures.” There were
+135 individuals screened over the telephone and 54 were
+further screened in person. The 36 study participants (14
+males) were medically and psychiatrically healthy, without
+
+histories of hallucinogen use, and without family histories of
+schizophrenia or other psychotic disorders or bipolar I or II
+disorder. The participants had an average age of 46 years
+
+(range 24 to 64) and were well educated; 97% (35 volun-
+teers) were college graduates and 56% (20 volunteers) had
+
+post-graduate degrees. Eighty-three percent (30 volunteers)
+were employed full time, with the remainder employed part
+time. Fifty-three percent (19 volunteers) indicated affiliation
+with a religious or spiritual community, such as a church,
+synagogue, or meditation group. All 36 volunteers indicated
+at least intermittent participation in religious or spiritual
+activities such as religious services, prayer, meditation,
+church choir, or educational or discussion groups, with
+56% (20 volunteers) reporting daily activities and an
+additional 39% (14 volunteers) reporting at least monthly
+
+activities. The volunteers did not receive monetary compen-
+sation for participation. Although most volunteers had very
+
+busy personal and professional schedules, they were inter-
+ested in the study and made participation a priority. Based on
+
+interviews, their motivation for participation was curiosity
+about the effects of psilocybin and the opportunity for
+extensive self-reflection in the context of both the day-long
+drug sessions and the meetings with the monitors that
+occurred between sessions. The Institutional Review Board
+of the Johns Hopkins University School of Medicine
+approved the study, and all volunteers gave their informed
+consent before participation.
+Study design
+The study compared psilocybin (30 mg/70 kg) and
+methylphenidate hydrochloride (40 mg/70 kg) using a
+
+double-blind between-group, crossover design that in-
+volved two or three 8-h drug sessions conducted at 2-
+
+month intervals. Thirty-six volunteers were randomly
+assigned to receive either two sessions (N=30) or three
+sessions (N=6). The group of 30 volunteers were then
+
+randomly assigned to receive psilocybin or methylpheni-
+date on the first session (15 per group), with the alternative
+
+drug administered on the second session. The other six
+volunteers received methylphenidate on the first two
+sessions and unblinded psilocybin on the third session.
+The purpose of this condition was primarily to obscure
+the study design to the participants and monitors (see
+“Expectancy” section), and data from the six participants
+were not used in the statistical analyses; however, those
+data were generally consistent with the results described in
+this report. Outcome measures obtained throughout the
+drug sessions included blood pressure and monitor ratings
+of participant mood and behavior. At about 7 h after drug
+ingestion (when the primary drug effects had subsided),
+the participants completed several questionnaires designed
+to assess various aspects of hallucinogen experience
+Psychopharmacology (2006) 187:268–283 269
+
+(described below). The longitudinal measures assessed
+before and 2 months after each drug session included
+measures of psychiatric symptoms, personality measures,
+quality of life, and lifetime mystical experiences. A 1-year
+follow-up assessment is still underway.
+Drug conditions
+
+Psilocybin and methylphenidate were administered in iden-
+tically appearing opaque, size 0 gelatin capsules with
+
+approximately 180 ml water. The dose of psilocybin
+(30 mg/70 kg) was selected as a high safe dose based on
+non-blind (Malitz et al. 1960; Metzner et al. 1965; Leuner
+1981) and blind (Pahnke 1963, 1969) studies conducted with
+hallucinogen-naïve individuals in the 1950s–1960s. The
+methylphenidate dose (40 mg/70 kg) was selected for the
+comparison condition because it is a high, discriminable but
+safe dose, it has an onset and duration of subjective effects
+similar to psilocybin, and it produces some subjective effects
+(e.g., excitability, nervousness, and/or increased positive
+mood) overlapping with those of psilocybin (Chait 1994;
+Rush et al. 1998; Kollins et al. 1998).
+Meetings with monitor before and after sessions
+The primary monitor met with each participant on four
+occasions before his or her first session (for 8 h total) and on
+four occasions (for 4 h total) after each session. A major
+purpose of the participant-monitor meetings was to develop
+and maintain rapport and trust, which is believed to
+minimize the risk of adverse reactions to psilocybin
+
+(Metzner et al. 1965). During these meetings, the partici-
+pant’s life history and current life circumstances were
+
+reviewed. The preparation of participants by the monitors
+explicitly included the monitor’s expectation that the drug
+session experiences could increase personal awareness and
+insight, however, avoided even mention of the criteria used
+to assess mystical experiences. A male clinical psychologist
+
+(W.R.) with extensive prior experience monitoring halluci-
+nogen sessions and a female clinically trained social worker
+
+(M.C.) served as primary and assistant monitors, respectively,
+for all study participants.
+Drug sessions
+The participants were instructed to consume a low-fat
+breakfast before reporting to the research unit at 0800 hours,
+about 1 h before drug administration. A urine sample was
+taken to verify drug-free status, and the participants were
+encouraged to relax and reflect before drug administration.
+
+The 8-h drug sessions were conducted in an aesthetic living-
+room-like environment designed specifically for the study.
+
+Two monitors were present with a single participant through-
+out the session. For most of the time during the session, the
+
+participant was encouraged to lie down on the couch, use an
+eye mask to block external visual distraction, and use
+headphones through which a classical music program was
+played. The same music program was played for all
+participants in all sessions. The participants were encouraged
+to focus their attention on their inner experiences throughout
+the session. If a participant reported significant fear or
+
+anxiety, the monitors provided reassurance verbally or phys-
+ically (e.g., with a supportive touch to the hand or shoulder).
+
+The sessions were videotaped and about 25% were reviewed
+by the first author to verify session procedures.
+Expectancy
+It is widely believed that expectancy plays a large role in
+the qualitative effects of hallucinogens (Metzner et al.
+1965). Some expectancy effects are unavoidable because it
+would be unethical not to inform both the participants and
+the session monitors about the range of possible effects
+with hallucinogens. In addition, it is believed by many that
+ethical hallucinogen administration requires that sessions be
+monitored by individuals who are familiar with such altered
+states of consciousness (Masters and Houston 1966;
+Roberts 2001; Stolaroff 2001). Thus, the beliefs of the
+session monitors introduce another source of expectancy.
+While it was not possible to completely eliminate such
+expectancy effects, it was possible to significantly reduce
+such effects by studying participants without personal
+histories of hallucinogen use, by studying only a single
+participant at a time, and by using an experimental design
+and instructional sets that provided the expectation that
+sessions could involve not only the administration of a wide
+range of psilocybin doses but also a range of novel drugs,
+some of which could produce effects that overlap with
+those produced by psilocybin. Expectancy effects were also
+reduced because the experimental design was further
+obscured from both participants and monitors, who were
+not aware of which or how many participants would have a
+final unblinded psilocybin session (see “Instructions to
+participants and monitors”).
+Instructions to participants and monitors
+The participants and monitors were informed that the
+participants would have either two or three sessions and
+that, in at least one session, they would receive a moderate
+or high dose of psilocybin. They were informed that an
+inactive placebo, a low dose of psilocybin or various doses
+of 11 other drugs that could produce various effects
+(dextromethorphan, nicotine, diphenhydramine, caffeine,
+
+methylphenidate, amphetamine, codeine, alprazolam, diaz-
+epam, triazolam, or secobarbital), could be administered in
+
+270 Psychopharmacology (2006) 187:268–283
+
+sessions in which a moderate or high dose of psilocybin
+was not administered. After data collection 2 months after
+the second session, the six participants who received
+methylphenidate on the first and second session were
+informed that they would have a third session that would
+involve administration of a moderate or high dose of
+psilocybin. These six sessions were the only unblinded
+sessions. To help focus the participants on their experiences
+during the sessions, they were not asked to guess whether
+or not they received psilocybin. However, the monitors
+completed a rating form which recorded their guesses about
+the contents of capsules approximately 7 h after capsule
+administration but before the participant completed detailed
+questionnaires describing his or her experiences. The
+participants were given no information about these or any
+other monitor ratings.
+Measures assessed throughout the session
+Ten minutes before and 30, 60, 90, 120, 180, 240, 300, and
+360 min after capsule administration, monitor ratings, blood
+pressure, and heart rate were obtained.
+Blood pressure and heart rate Blood pressure (systolic,
+diastolic, and mean arterial pressure using oscillometric method
+with the blood pressure cuff placed on the arm) and heart rate
+were monitored using a Non-Invasive Patient Monitor Model
+507E (Criticare Systems, Waukesha, WI, USA).
+Monitor rating questionnaire At the same time-points at
+which the physiological measures were taken, the two
+
+session monitors completed the Monitor Rating Question-
+naire, which involved rating or scoring 20 dimensions of
+
+the participant’s behavior or mood (Table 1). The dimen-
+sions expressed as peak scores in Table 1 were rated on
+
+a five-point scale from 0 to 4. The dimensions expressed
+as total duration in Table 1 were rated as the estimated
+number of minutes since the last rating. The data were
+the mean of the two monitor ratings at each time-point.
+
+Measures assessed 7 h after drug administration
+At about 7 h after capsule administration, when the major
+drug effects had subsided, the participants completed three
+empirically derived (i.e., via factor analysis) questionnaires
+assessing subjective drug effects and two questionnaires
+assessing mystical experience, as described below. The
+participants typically completed these questionnaires in
+about 40 min.
+Hallucinogen rating scale This 99-item questionnaire,
+
+which was designed to show sensitivity to the hallucino-
+gen N,N-dimethyltryptamine (Strassman et al. 1994; Riba
+
+et al. 2001), consists of six subscales assessing various
+aspects of hallucinogen effects (intensity, somaesthesia,
+affect, perception, cognition, and volition).
+APZ The APZ is a 72-item yes/no questionnaire designed
+to assess altered states of consciousness induced by drug
+(e.g., DMT or psilocybin) or non-drug (e.g., perceptual
+deprivation, hypnosis, and sensory overload) manipulations
+(Dittrich 1998). The three major scales on the APZ are the
+OSE (oceanic boundlessness, a state common to classic
+
+mystical experiences including feelings of unity and tran-
+scendence of time and space), the AIA (dread of ego dis-
+solution, dysphoric feelings similar to those of some “bad
+
+trips” described by hallucinogen users), and the VUS
+(visionary restructuralization, which includes items on
+visual pseudo-hallucinations, illusions, and synesthesias).
+The data on each scale were expressed as a proportion of
+the maximum possible score.
+Addiction research center inventory (ARCI) The ARCI was
+developed to differentiate subjective effects among several
+classes of psychoactive drugs including hallucinogens
+(Haertzen 1966). The short form of the ARCI consists of
+49 true/false questions and contains five major scales:
+lysergic acid diethylamide (LSD, a hallucinogen-sensitive
+scale that is often interpreted as providing a measure of
+dysphoric changes); pentobarbital, chlorpromazine, and
+alcohol group (PCAG, a sedative sensitive scale); benzedrine
+
+group (BG); amphetamine (A) scales (amphetamine-
+sensitive scales); and morphine-benzedrine group (MBG,
+
+often interpreted as a measure of euphoria) (Martin et al.
+1971; Jasinski 1977). The participants were instructed to
+answer the questions on the ARCI with reference to the
+effects they experienced after they received the capsules that
+morning.
+
+States of consciousness questionnaire This 100-item ques-
+tionnaire is rated on a six-point scale [0=none, not at all;
+
+1=so slight, cannot decide; 2=slight; 3=moderate; 4=strong
+(equivalent in degree to any previous strong experience or
+expectation of this description); and 5=extreme (more than
+ever before in my life and stronger than 4)]. Forty-three
+items on this questionnaire comprised the current version of
+the Pahnke–Richards Mystical Experience Questionnaire
+(Pahnke 1969; Richards 1975), which was designed to
+assess mystical experiences, used as a primary outcome
+measure in the Good Friday Experiment (Pahnke 1963;
+Doblin 1991), and has been shown to be sensitive to other
+hallucinogens (Turek et al. 1974; Richards et al. 1977). This
+questionnaire is based on the classic descriptive work on
+mystical experiences and the psychology of religion by Stace
+(1960), and it provides scale scores for each of seven
+Psychopharmacology (2006) 187:268–283 271
+
+domains of mystical experiences: internal unity (pure
+awareness; a merging with ultimate reality); external unity
+
+(unity of all things; all things are alive; all is one); tran-
+scendence of time and space; ineffability and paradoxicality
+
+(claim of difficulty in describing the experience in words);
+sense of sacredness (awe); noetic quality (claim of intuitive
+knowledge of ultimate reality); and deeply felt positive mood
+(joy, peace, and love). The specific items in each of the
+
+scales of the Pahnke–Richards Mystical Experience Ques-
+tionnaire are available online as Electronic Supplementary
+
+Material, Table 1. The data on each scale were expressed as
+a proportion of the maximum possible score. Based on prior
+research (Pahnke 1969), the criteria for designating a
+volunteer as having had a “complete” mystical experience
+were that the scores on each of the following scales had to be
+at least 0.6: unity (either internal or external, whichever was
+greater), transcendence of time and space, ineffability, sense
+of sacredness, noetic quality, and positive mood. The
+remaining 57 items in the questionnaire served as distracter
+items.
+Mysticism scale This 32-item questionnaire was developed
+to assess primary mystical experiences (Hood et al. 2001;
+
+Spilka et al. 2005). The Mysticism Scale has been exten-
+sively studied, demonstrates cross-cultural generalizability,
+
+and is well regarded in the field of the psychology of
+religion (Hood et al. 2001; Spilka et al. 2005) but has not
+
+previously been used to assess changes after a drug experi-
+ence. A total score and three empirically derived factors are
+
+measured: interpretation (corresponding to three mystical
+dimensions described by Stace (1960): noetic quality,
+deeply felt positive mood, and sacredness); introvertive
+mysticism (corresponding to the Stace dimensions of
+internal unity, transcendence of time and space, and
+ineffability); and extrovertive mysticism (corresponding to
+the dimension of the unity of all things/all things are alive).
+The items were rated on a nine-point scale (−4=this
+description is extremely not true of my own experience or
+experiences; 0=I cannot decide; and +4=this description is
+extremely true of my own experience or experiences). For
+the version of the questionnaire used 7 h after drug
+administration, the participants were instructed to complete
+the questionnaire with reference to their experiences after
+they received the capsules that morning.
+
+Measures assessed 2 months post-session
+At 7 to 8 weeks after each session and before any additional
+session, the participants returned to the research facility and
+completed a series of questionnaires to assess possible
+persisting changes in attitudes, mood, or behavior as well as
+possible changes in standardized measures of personality,
+
+mood, and spirituality. The participants typically completed
+these questionnaires in about 75 min.
+At about this same time, community observer ratings of
+participants’ attitudes and behavior were obtained by
+telephone. The outcome measures at this time-point are
+described below.
+
+Persisting Effects Questionnaire This 89-item question-
+naire sought information about changes in attitudes, moods,
+
+behavior, and spiritual experience that, on the basis of prior
+research (Pahnke 1963, 1969; Doblin 1991; Richards et al.
+1977), would possibly be sensitive to the effects of
+psilocybin 2 months after the session. Eighty-six of the
+items were rated on a six-point scale (0=none, not at all;
+1=so slight, cannot decide; 2=slight; 3=moderate; 4=strong;
+and 5=extreme, more than ever before in your life and
+stronger than 4). Sixty-six of the items were from Pahnke
+(1963, 1969) and 20 items were new. For purposes of
+summarizing the results before data analysis, 61 of the 86
+items were judged as likely to be unambiguously divided
+into six categories: positive attitudes about life and/or self,
+negative attitudes about life and/or self, positive mood
+changes, negative mood changes, altruistic/positive social
+effects, and antisocial/negative social effects. Six raters
+independently sorted the 61 items into the six categories.
+Three items were excluded because fewer than five of the
+six raters agreed on the categories. For the remaining 58
+items, at least five of the six raters agreed with the
+assignment of each item to each category, suggesting the
+appropriateness of the category descriptors. The category
+descriptors and the number of items associated with each
+category were: positive attitudes about life and/or self (17
+items), negative attitudes about life and/or self (17 items),
+positive mood changes (four items), negative mood changes
+(four items), altruistic/positive social effects (eight items),
+and antisocial/negative social effects (eight items). Two
+additional categories were comprised of one item each:
+positive behavior change and negative behavior change.
+For scoring purposes, the eight category scores based on
+a total of 60 items were expressed as the percentage of
+the maximum possible score. The items in each of the
+categories of the Persisting Effects Questionnaire are
+available online as electronic supplementary material,
+Table 2. The remaining 23 items in the questionnaire
+that did not readily fit into the categories predominately
+reflected aspects of spirituality and mystical experience;
+these domains were characterized by other outcome
+measures.
+The questionnaire also included these three questions:
+(1) How personally meaningful was the experience (rated
+1= no more than routine, everyday experiences; 2= similar
+to meaningful experiences that occur on average once or
+more a week; 3=similar to meaningful experiences that
+272 Psychopharmacology (2006) 187:268–283
+
+occur on average once a month; 4=similar to meaningful
+experiences that occur on average once a year; 5=similar
+to meaningful experiences that occur on average once
+
+every 5 years; 6=among the 10 most meaningful experi-
+ences of my life; 7=among the 5 most meaningful
+
+experiences of my life; and 8=the single most meaningful
+experience of my life)? (2) Indicate the degree to which
+the experience was spiritually significant to you (rated
+1=not at all, 2=slightly, 3=moderately, 4=very much,
+5=among the 5 most spiritually significant experiences
+of my life, and 6=the single most spiritually significant
+experience of my life). (3) Do you believe that the
+experience and your contemplation of that experience
+
+have led to change in your current sense of personal well-
+being or life satisfaction (rated +3=increased very much,
+
++2=increased moderately, +1=increased slightly, 0=no
+change, −1=decreased slightly, −2=decreased moderately,
+and −3=decreased very much)?
+This questionnaire was developed after the initiation of
+the study and was completed by all 24 of the 30 participants
+who thereafter received psilocybin and methylphenidate in
+
+counterbalanced order in the first two sessions (12 partici-
+pants in each of the two drug orders).
+
+Mysticism Scale-Lifetime The Lifetime version of this
+
+previously described questionnaire instructed the partici-
+pants to answer questions with reference to their total life
+
+experiences. This questionnaire was completed at screening
+and at 2 months after each session.
+Spiritual Transcendence Scale This 24-item questionnaire
+assesses a construct that reflects an individual’s effort to
+create a broad sense of personal meaning in his or her life
+
+and has been shown to demonstrate cross-cultural general-
+ity (Piedmont 1999, 2005, 2006; Piedmont and Leach
+
+2002). A total score and three empirically derived factors
+
+are scored: prayer fulfillment, universality, and connected-
+ness. This questionnaire was completed at screening and at
+
+2 months after each session.
+NEO Personality Inventory (NEO PI-R) This 241-item
+
+questionnaire, which was completed on a computer, per-
+mits the assessment of five major personality factors:
+
+neuroticism, extraversion, openness, agreeableness, and
+
+conscientiousness (Costa and McCrae 1992). This ques-
+tionnaire was completed at screening and at 2 months after
+
+each session.
+PANAS-X (Positive and Negative Affect Schedule Expanded
+Form) This 60-item questionnaire permits the assessment
+of two broad general factors (positive affect and negative
+affect) accounting for most of the variance in self-rated
+affect (Watson and Clark 1994, 1997). The version of
+
+the questionnaire used instructed the participants to
+answer questions based on how they feel on the
+average. This questionnaire was completed at screening
+and at 2 months after each session.
+Community observer ratings of changes in participants’
+behavior and attitudes After acceptance into the study,
+each participant designated three adults who were
+expected to have continuing contact with the participant
+(e.g., family members, friends, or coworkers/colleagues at
+work) such that they would be likely to observe changes
+in the participants’ behavior and attitudes that might occur
+during the study. Ratings by the designated individuals
+were conducted via a structured telephone interview
+
+approximately 1 week after the participant had been ac-
+cepted into the study and 7 to 8 weeks after each of the
+
+drug sessions. The interviewer provided no information
+
+to the community volunteer about the participant. Fur-
+thermore, most of the interviews (60%) were conducted
+
+by a research assistant who had never met the participant
+and had no knowledge about the participant’s experiences
+during drug sessions. The structured interview consisted
+of asking the rater to rate the volunteer’s behavior and
+attitudes using a ten-point scale (from 1=not at all to
+10=extremely) on 11 dimensions that were identified from
+prior research (Pahnke 1963; Richards et al. 1977; Doblin
+1991) as possibly sensitive to the effects of psilocybin.
+
+The rated dimensions were: inner peace, patience, good-
+natured humor/playfulness, mental flexibility, optimism,
+
+anxiety, interpersonal perceptiveness and caring, negative
+expression of anger, compassion/social concern, expression
+of positive emotions (e.g., joy, love, appreciation), and
+self-confidence. On the first rating occasion, which
+occurred soon after acceptance into the study, the raters
+were instructed to base their ratings on observations of and
+conversations with the participant over the past 3 months.
+On subsequent ratings, which occurred 7 to 8 weeks after
+each session, the raters were told their previous ratings and
+were instructed to rate the participant based on interactions
+over the last several weeks. The data from each interview
+with each rater were calculated as a total score, with
+anxiety and anger scored negatively. The changes in
+participants’ behavior and attitudes after drug sessions
+were expressed as a mean change score from the preceding
+rating across the raters.
+A failure to interview all three of the raters after one of
+the drug sessions resulted in elimination of 4 of the 30
+participants who received psilocybin and methylphenidate
+in counterbalanced order on the first two sessions. Of the
+52 rating occasions in the 26 participants, the majority
+(83%) involved interviews with all three raters on each
+
+rating occasion, with all of the remaining interviews con-
+ducted with two raters.
+
+Psychopharmacology (2006) 187:268–283 273
+
+Data analyses
+The data were statistically analyzed for the 30 participants
+
+who received psilocybin and methylphenidate in counter-
+balanced order on the first two sessions.
+
+Physiological and monitor rating questionnaire assessed
+
+throughout the session Two sets of analyses were con-
+ducted. For the first, a two-factor analysis of variance was
+
+used with drug (psilocybin and methylphenidate) and time
+(10 min before and 0.5, 1, 1.5, 2, 3, 4, 5, and 6 h after
+capsule administration) as within-subject factors. The mean
+square error term for the drug × time interaction was then
+used to conduct Tukey’s honestly significant differences
+
+(HSD) post hoc tests comparing psilocybin and methylphe-
+nidate at each post-drug-administration time point. For the
+
+second set of analyses, the peak scores during the time-
+course were defined as the maximum value from 0.5 to 6 h
+
+after capsule administration, and temporally based mea-
+sures (i.e., minutes sleeping and minutes speaking) were
+
+summed across the eight post-capsule time-points. Paired t
+tests were used to compare psilocybin and methylphenidate
+conditions.
+Measures assessed 7 h after drug administration Paired t
+tests were used to compare psilocybin and methylphenidate
+conditions on the three measures of subjective drug effect
+(Hallucinogen Rating Scale, APZ, and Addiction Research
+Center Inventory) and the two questionnaires assessing
+mystical experience (States of Consciousness Questionnaire
+and Mysticism Scale).
+Measures assessed 2 months post-session Paired t tests
+
+were used to compare psilocybin and methylphenidate con-
+ditions for the 24 participants who completed the Persisting
+
+Effects Questionnaire and the 26 participants for whom
+complete data were obtained for the community observer
+ratings of changes in participants’ attitudes and behavior.
+The remaining four questionnaires completed 2 months
+post-session (NEO, PANAS-X, Mysticism Scale-Lifetime,
+
+and Spiritual Transcendence Scale) provide general mea-
+sures of personality, affect, and spirituality that could result
+
+in carry-over effects from post-session 1 to post-session 2.
+Accordingly, these data were analyzed using the following
+planned comparisons: (1) comparison (t test) of data
+obtained at screening for the group of participants that
+received psilocybin in session 1 (N=15) with that for the
+group that received methylphenidate in session 1 (N=15),
+(2) comparison (t test) of post-session 1 data for the group
+of participants that received psilocybin in session 1 (N=15)
+with the group that received methylphenidate in session 1
+
+(N=15), and (3) comparison (paired t test) of data post-
+session 1 with data post-session 2 for the group of
+
+participants that received methylphenidate on session 1
+and psilocybin on session 2 (N=15).
+
+Results
+Integrity of blinding procedures
+The integrity of the blinding procedures was assessed by
+having the monitors complete a questionnaire after each
+session on which they guessed the capsule content and a
+questionnaire at the end of the study on which they
+provided their guesses about the study design. Overall,
+23% of sessions were misclassified (methylphenidate
+
+identified as psilocybin or psilocybin identified as some-
+thing other than psilocybin) by one or both of the monitors.
+
+The primary and most experienced monitor had an overall
+misclassification rate of 17%. Most misclassification errors
+involved rating a methylphenidate session as psilocybin. It
+is interesting to note that even the primary monitor,
+however, sometimes rated the psilocybin condition, which
+was a high dose, as being something other than psilocybin.
+On two of the three occasions on which this occurred, the
+participants subsequently rated their experiences as among
+
+the five most meaningful and spiritually significant expe-
+riences of their lives. These observations suggest that the
+
+experiences reported during psilocybin sessions were not
+merely artifacts of monitor expectation or suggestion.
+At the conclusion of the study, the primary monitor and
+
+the assistant monitor completed a debriefing question-
+naire in which they provided their guesses about the study
+
+design. Both monitors believed that a range of psilocybin
+doses had been administered as well as other active drugs
+
+and placebo. Caffeine, dextromethorphan, and diphenhy-
+dramine were thought likely to be the other drugs ad-
+ministered, and the primary monitor specifically guessed,
+
+based on his previous clinical experience, that methylphe-
+nidate had not been administered. Thus, we conclude that
+
+the blinding procedures overall were adequately maintained
+despite the differences in the pharmacological profiles of
+psilocybin and methylphenidate.
+Blood pressure, heart rate, and monitor ratings throughout
+the session
+Both psilocybin and methylphenidate produced significant
+and orderly time-related effects. For both drugs, the onset
+of significant blood pressure and monitor-rated effects
+occurred either at the 30- or 60-min assessment, with the
+effects generally peaking from 90 to 180 min and
+decreasing toward pre-drug-administration levels over the
+remainder of the session (Fig. 1). Heart rate increased by
+274 Psychopharmacology (2006) 187:268–283
+
+about 10 bpm for both drugs and remained significantly
+elevated over the pre-drug value throughout the session.
+The volunteers were rated as showing very low sleepiness/
+
+sedation and restlessness during sessions, with no differ-
+ences between the psilocybin and methylphenidate con-
+ditions (Table 1). The volunteers had a significantly greater
+
+number of minutes talking with the monitors after methyl-
+phenidate than psilocybin (72 vs 51 min, during the 6 h
+
+after capsule ingestion), although after psilocybin they had
+more physical contact (e.g., handholding) with the monitor
+(24 vs 58 min) and higher peak ratings of stimulation/
+arousal and spontaneous motor activity (Fig. 2; Table 1). It
+
+is noteworthy that, during psilocybin sessions, the partic-
+ipants were rated as being less responsive to questions,
+
+further from ordinary reality, and showing greater emotion-
+ality as reflected in peak ratings of tearing/crying, anxiety/
+
+fearfulness, joy/intense happiness, and peace/harmony
+(Fig. 2; Table 1).
+Drug effect and mysticism measures assessed 7 h after drug
+administration
+
+Hallucinogen-sensitive questionnaires The three question-
+naires developed for sensitivity to hallucinogenic drugs
+
+showed differences between psilocybin and methylpheni-
+date (Table 2). All six scales of the Hallucinogen Rating
+
+Scale, all three scales on the APZ Questionnaire, and the
+LSD scale of the ARCI were significantly higher after
+psilocybin than after methylphenidate. These differences
+reflect the fact that, after psilocybin, the participants
+experienced alterations in mood, affect, and cognition
+typical of hallucinogenic drugs. These included perceptual
+changes (e.g., visual pseudo-hallucinations, illusions, and
+synesthesias), labile moods (e.g., feelings of transcendence,
+grief, joy, and/or anxiety), and cognitive changes (e.g.,
+sense of meaning and/or ideas of reference).
+A mixed pattern of results occurred on the other scales of
+the ARCI. The PCAG subscale, which is sensitive to
+sedative drugs, was higher after psilocybin. It is interesting
+to note that the two stimulant scales showed opposite
+effects. The amphetamine scale (A), which was designed to
+
+show dose-related sensitivity to amphetamine, was signif-
+icantly higher after psilocybin than after methylphenidate.
+
+However, the benzedrine group scale (BG), which measures
+amphetamine-induced increases in self-control, efficiency,
+
+and concentration, was significantly higher after methyl-
+phenidate than after psilocybin. Finally, the morphine-
+benzedrine group (MBG) scale, which is considered a
+
+Table 1 Monitor ratings of volunteer behavior and mood throughout the session
+Rated description Methylphenidate Psilocybin P value
+Peak effects (maximum score=4)
+Overall drug effect 1.10 (0.15) 3.13 (0.16) <0.001
+Sleepiness/sedation 0.17 (0.07) 0.10 (0.05) N.S.
+Unresponsive to questions 0.07 (0.05) 0.58 (0.20) <0.05
+Anxiety or fearfulness 0.42 (0.09) 1.05 (0.17) <0.01
+Stimulation/arousal 0.68 (0.12) 1.42 (0.26) <0.001
+Distance from ordinary reality 1.12 (0.16) 3.12 (0.14) <0.001
+Ideas of reference/paranoid thinking 0 (0) 0.17 (0.09) N.S.
+Yawning 0.05 (0.03) 1.18 (0.23) <0.001
+Tearing/crying 0.77 (0.13) 1.38 (0.21) <0.001
+Nausea 0.12 (0.06) 0.42 (0.11) <0.01
+Spontaneous motor activity 0.53 (0.17) 1.02 (0.23) <0.05
+Restless/fidgety 0.18 (0.07) 0.27 (0.08) N.S.
+Joy/intense happiness 0.63 (0.15) 2.03 (0.22) <0.001
+Peace/harmony 0.92 (0.15) 1.90 (0.20) <0.001
+Total duration in minutes (maximum score=360)
+Talking with monitor 72.0 (4.8) 50.9 (2.2) <0.001
+Total speech 122.2 (10.7) 106.0 (10.7) N.S.
+Non-speech vocalizationa 2.2 (1.3) 16.1 (4.5) <0.01
+Physical contact with monitorb 23.7 (4.7) 57.6 (8.0) <0.001
+Sleep 0.5 (0.3) 0.2 (0.2) N.S.
+Strong anxiety 0.7 (0.3) 5.6 (2.7) N.S.
+Data are mean scores with one SEM shown in parentheses (N=30)
+N.S. not significant a
+For example, humming, sighs, laughter
+b
+For example, reassuring touch
+Psychopharmacology (2006) 187:268–283 275
+
+measure of drug-induced euphoria, did not differ signifi-
+cantly between the drug conditions.
+
+Measures of mystical experience At 7 h after capsule
+
+administration, the volunteers also completed two ques-
+tionnaires designed to assess primary mystical experiences
+
+based on classic phenomenological descriptions from the
+psychology of religion (Table 3). The total score and all
+three empirically derived factors of the Mysticism Scale
+
+and all seven scales on States of Consciousness Question-
+naire were significantly higher after psilocybin than after
+
+methylphenidate. Based on a priori criteria, 22 of the total
+
+group of 36 volunteers had a “complete” mystical experi-
+ence after psilocybin (ten, nine, and three participants in the
+
+first, second, and third session, respectively) while only 4
+of 36 did so after methylphenidate (two participants each in
+the first and second sessions).
+
+Measures assessed 2 months post-sessions
+Persisting Effects Questionnaire As shown in Table 4,
+
+compared to methylphenidate, psilocybin produced signif-
+icantly greater elevations in ratings of positive attitudes,
+
+mood, social effects, and behavior; the negative ratings of
+these same dimensions were very low and did not differ
+across the drug conditions. This questionnaire also included
+ratings of the personal meaningfulness and spiritual
+significance of the experience and whether the experience
+changed their sense of well being or life satisfaction.
+Table 4 shows that these ratings were significantly higher
+after psilocybin than after methylphenidate. It is remarkable
+that 67% of the volunteers rated the experience with
+psilocybin to be either the single most meaningful
+experience of his or her life or among the top five most
+meaningful experiences of his or her life (Fig. 3). In written
+
+Table 2 Volunteer ratings on three drug-sensitive questionnaires completed 7 h after drug administration
+Questionnaire Subscale description Methylphenidate Psilocybin P value
+Hallucinogen Rating Scale (4=maximum) Intensity 1.38 (0.14) 2.79 (0.12) <0.001
+Somaesthesia 0.91 (0.10) 1.92 (0.11) <0.001
+Affect 1.16 (0.10) 2.16 (0.10) <0.001
+Perception 0.54 (0.11) 2.07 (0.14) <0.001
+Cognition 1.03 (0.14) 2.54 (0.15) <0.001
+Volition 1.39 (0.06) 1.77 (0.07) <0.001
+APZ Questionnaire OSE (oceanic boundlessness) 3.30 (0.50) 8.00 (0.45) <0.001
+AIA (dread of ego dissolution) 1.03 (0.21) 5.03 (0.74) <0.001
+VUS (visionary restructuralization) 3.70 (0.59) 8.87 (0.47) <0.001
+Addiction Research Center Inventory (ARCI) PCAG (sedative) 4.83 (0.41) 7.27 (0.58) <0.001
+BG (amphetamine/self-control) 5.83 (0.38) 4.57 (0.32) <0.05
+A (amphetamine) 3.80 (0.44) 5.13 (0.41) <0.05
+MBG (euphoria) 6.77 (0.73) 8.60 (0.67) N.S.
+LSD (hallucinogen/dysphoria) 4.33 (0.37) 7.33 (0.40) <0.001
+
+Data are mean ratings with one SEM shown in parentheses (N=30)
+N.S. not significant
+
+0
+1
+2
+3
+
+0 60 120 180 240 300 360
+Methylphenidate
+Psilocybin
+
+30 90
+
+115
+120
+125
+130
+135
+140
+145
+
+0 60 120 180 240 300 360 30 90
+60
+65
+70
+75
+80
+85
+90
+
+0 60 120 180 240 300 360 30 90
+Minutes
+Methylphenidate
+Psilocybin
+
+Methylphenidate
+Psilocybin
+Minutes Minutes
+
+Fig. 1 Within-session time-course of psilocybin and methylphenidate
+effects. Blood pressure (systolic and diastolic) and monitor ratings
+(mean of overall drug effect) as a function of time since capsule
+ingestion (time 0=before drug administration). Data points are means
+with brackets showing ±1 SEM (N=30) Filled data points indicate a
+
+significant difference (Tukey HSD) from pre-administration of the
+drug (time 0). The figure shows that, compared to methylphenidate,
+psilocybin produced modestly higher elevations in blood pressure but
+substantially higher monitor rating of overall drug effect
+276 Psychopharmacology (2006) 187:268–283
+
+comments, the volunteers judged the meaningfulness of the
+experience to be similar, for example, to the birth of a first
+child or death of a parent. Thirty-three percent of the
+volunteers rated the psilocybin experience as being the
+single most spiritually significant experience of his or her
+life, with an additional 38% rating it to be among the top
+
+five most spiritually significant experiences. In written com-
+ments about their answers, the volunteers often described
+
+aspects of the experience related to a sense of unity without
+content (pure consciousness) and/or unity of all things.
+
+After methylphenidate, in contrast, 8% of volunteers rated
+the experience to be among the top five (but not the
+
+single most) spiritually significant experiences. Seventy-
+nine percent of the volunteers rated that the psilocybin
+
+experience increased their current sense of personal well
+being or life satisfaction “moderately” (50%) or “very
+much” (29%), in contrast to 17 and 4%, respectively,
+after methylphenidate. No volunteer rated either the
+psilocybin or methylphenidate experience as having
+decreased their sense of well being or life satisfaction.
+
+Table 3 Volunteer ratings on two mystical experience questionnaires completed 7 h after drug administration
+Questionnaire Subscale description Methylphenidate Psilocybin P value
+Mysticism Scale Interpretation 70.6 (4.5) 96.1 (3.3) <0.001
+Introvertive 66.9 (4.4) 96.3 (2.8) <0.001
+Extrovertive 37.2 (3.2) 59.7 (2.9) <0.001
+Total 174.7 (11.3) 252.1 (8.5) <0.001
+States of Consciousness Questionnairea Internal unity 0.25 (0.05) 0.73 (0.05) <0.001
+External unity 0.21 (0.05) 0.66 (0.06) <0.001
+Sacredness 0.36 (0.05) 0.80 (0.04) <0.001
+Intuitive knowledge 0.30 (0.05) 0.72 (0.05) <0.001
+Transcendence of time and space 0.27 (0.05) 0.76 (0.04) <0.001
+Deeply felt positive mood 0.38 (0.04) 0.77 (0.05) <0.001
+Ineffability 0.29 (0.05) 0.81 (0.05) <0.001
+
+Data are mean scores with one SEM shown in parentheses (N=30)
+N.S. not significant a
+For States of Consciousness Questionnaire, data are expressed as a proportion of the maximum possible score
+
+*
+Talking with Monitor
+MINUTES (TOTAL)
+
+Methp Psilocybin
+
+0
+1
+2
+3
+
+*
+Stimulation/Arousal
+
+PEAK SCORE
+
+40
+50
+60
+70
+80
+
+Methp Psilocybin
+
+PEAK SCORE
+
+*
+Anxiety/Fearfulness
+
+0
+1
+2
+3
+
+*
+Joy/Intense Happiness
+
+0
+1
+2
+3
+
+*
+Peace/Harmony
+
+0
+1
+2
+3
+PEAK SCORE
+
+PEAK SCORE
+
+Tearing/Crying
+
+*
+
+Methp Psilocybin
+PEAK SCORE
+0
+1
+2
+3
+
+Fig. 2 Monitor ratings during sessions. Bars are mean ratings with 1 SEM shown in brackets (N=30). Asterisks indicate a significant difference
+between the methylphenidate (Methp) and psilocybin conditions. Maximum possible rating=4
+Psychopharmacology (2006) 187:268–283 277
+
+Personality and affect None of the factors on the two
+widely used questionnaires assessing five factors of
+personality (NEO and PI-R) and measures of general
+positive and negative affect (PANAS-X) was differentially
+affected by psilocybin. At screening and at 2 months after
+session 1, there were no significant differences between the
+group that received psilocybin on the first session (N=15)
+and the group that received methylphenidate on the first
+session (N=15). Furthermore, within the latter group, there
+
+were no significant changes from post-session 1 to post-
+session 2.
+
+Lifetime assessment of mystical experience and spirituali-
+ty Two additional questionnaires completed 2 months after
+
+each session provided lifetime measures of mystical
+experiences (Mysticism Scale) and spirituality (Spiritual
+Transcendence Scale). As with the measures of personality
+and affect, there were no significant differences at screening
+between the group that received psilocybin on the first
+
+session (N=15) and the group that received methylpheni-
+date on the first session (N=15). As shown in Fig. 4, at
+
+2 months after the first session, lifetime mystical experience
+and spiritual transcendence scores were significantly higher
+in the group that received psilocybin on the first session
+than the group that received methylphenidate on the first
+session. At 2 months after the second session, the scores in
+the group that received psilocybin on the second session
+increased significantly on both measures. As expected,
+because these scores reflect lifetime measures, these scores
+
+did not decrease after the second session in the group that
+received psilocybin on the first session.
+Community observer ratings of changes in participants’
+and behavior and attitudes Table 4 shows that, compared
+to methylphenidate, psilocybin sessions were associated
+
+with small but significant positive changes in the par-
+ticipants’ behavior and attitudes.
+
+Fear, anxiety/dysphoria, and ideas of reference/paranoia
+According to monitor ratings, post-session ratings and
+written comments by the monitors and the participants,
+and post-session interviews with the participants, many
+participants reported mild or moderate anticipatory anxiety
+at the beginning of sessions. In post-session ratings, 11 of
+the 36 total volunteers after psilocybin and none after
+methylphenidate rated on the States of Consciousness
+Questionnaire their “experience of fear” sometime during
+the session to be “strong” or “extreme.” Four volunteers (all
+of whom had high post-session fear ratings) reported that
+their entire session was dominated by anxiety or unpleasant
+psychological struggle (i.e., dysphoria). Four others (again,
+all of whom had high post-session fear ratings) reported
+that a significant portion of their session was characterized
+by anxiety/dysphoria. Although the onset of episodes of
+notable anxiety/dysphoria was most likely to occur shortly
+after onset of drug effect, there were occasions on which
+onset occurred later in the session when drug effects were
+
+Table 4 Volunteer ratings and community observer ratings completed 2 months after sessions
+Outcome measures Description Methylphenidate Psilocybin P value
+Persisting Effects Questionnaire Positive attitudes about life and/or self and/or self 22.8 (4.5) 55.0 (5.0) <0.001
+(volunteer ratings)a Negative attitudes about life and/or self 0.3 (0.1) 0.5 (0.3) N.S.
+Positive mood changes 16.0 (3.5) 39.2 (5.3) <0.001
+Negative mood changes 0.6 (0.5) 1.5 (0.7) N.S.
+Altruistic/positive social effects 17.3 (4.4) 46.6 (5.5) <0.001
+Antisocial/negative social effects 0.3 (0.2) 0.7 (0.5) N.S.
+Positive behavior changes 29.2 (6.5) 60.0 (4.8) <0.001
+Negative behavior changes 1.7 (1.2) 0 (0) N.S.
+How personally meaningful was the experience? 3.42 (0.35) 6.54 (0.22) <0.001
+How spiritually significant was the experience? 2.63 (0.22) 4.79 (0.26) <0.001
+Did the experience change your sense of well
+being or life satisfaction?
+
++0.79 (0.18) +2.04 (0.17) <0.001
+
+Community observer ratings of changes in
+participants’ behavior and attitudesb
+
+Positive change score −0.03 (0.68) 2.42 (0.70) <0.01
+
+Data are mean ratings with one SEM shown in parentheses
+N.S. Not significant a
+For Persisting Effects Questionnaire, data on attitude, mood, social, and behavior changes are expressed as percentage of maximum possible
+score, and data for the last three questions are raw scores; for volunteer ratings, N=24 (cf., “Materials and methods”) b
+For ratings by community observers, data are mean positive change scores; for observer ratings, N=26 (cf., “Materials and methods”)
+278 Psychopharmacology (2006) 187:268–283
+
+subsiding. Anxiety/dysphoria occurred when psilocybin
+was administered on the first (two participants), second
+(four participants), and third (two participants) sessions,
+
+suggesting that longer preparation time and being unblind-
+ed to psilocybin administration were not protective. Six of
+
+the eight volunteers with a notable anxiety/dysphoria
+response had mild, transient ideas of reference/paranoid
+
+thinking sometime during the 6 h after psilocybin admin-
+istration. These effects were readily managed with reassur-
+ance and did not persist beyond the session. Two of the
+
+eight volunteers compared the experience to being in a war
+and three indicated that they would never wish to repeat an
+experience like that again. Despite these psychological
+struggles, most of these participants rated the overall
+experience as having personal meaning and spiritual
+significance and no volunteer rated the experience as
+having decreased their sense of well being or life
+satisfaction.
+
+Discussion
+The present double-blind study shows that psilocybin,
+
+when administered under comfortable, structured, interper-
+sonally supported conditions to volunteers who reported
+
+regular participation in religious or spiritual activities,
+occasioned experiences which had marked similarities to
+classic mystical experiences and which were rated by
+volunteers as having substantial personal meaning and
+spiritual significance. Furthermore, the volunteers attributed
+to the experience sustained positive changes in attitudes and
+behavior that were consistent with changes rated by friends
+and family.
+The present study advances the empirical analysis of
+mystical experience. From a scientific perspective, most of
+what is known about mystical or religious experience is
+based on descriptive characterization of spontaneously
+occurring experience (Stace 1960; Spilka et al. 2005).
+Psilocybin
+Methylphenidate
+How Personally Meaningful Was the Experience?
+
+(Rated 2 months after session, N=24)
+
+0 10 20 30 40 50 60
+
+Once a Week
+Once a Month
+Once a Year
+Once Every 5 Years
+Among Top Ten
+Among Top Five
+Single Most (Lifetime)
+
+Percentage of Volunteers
+
+Everyday Experience
+
+Fig. 3 Percentage of volunteers
+who endorsed each of eight
+possible answers to the question
+“how personally meaningful
+was the experience?” on a
+questionnaire completed
+2 months after the session
+(N=24)
+Psychopharmacology (2006) 187:268–283 279
+
+Rigorous attempts to prospectively experimentally manip-
+ulate such experiences have generally been associated with
+
+only modest effects (e.g., Hood et al. 1990; Spilka et al.
+2005). Although there are anecdotal reports from the
+clinical research in the 1960s of hallucinogens occasioning
+religious experiences, even when administered in a secular
+setting (Smith 1964; Masters and Houston 1966; Dobkin de
+Rios and Janiger 2003), a systematic study of such effects
+has been almost nonexistent. The most relevant study was
+one in which theological seminary students received either
+
+30 mg psilocybin (ten participants) or 200 mg nicotinic acid
+(ten participants) in a group setting during a religious
+service (the Good Friday Experiment, Pahnke 1963; 1967;
+Doblin 1991). The participants who received psilocybin
+showed significant elevations on the Pahnke Mystical
+Experience Questionnaire and reported positive changes in
+
+attitudes and behavior at 6 months and at 25-year follow-
+up. Those results are consistent with the present study,
+
+which also demonstrated sustained increases on two closely
+related outcome measures (Pahnke–Richards Mystical
+
+190
+200
+210
+220
+230
+240
+250
+260
+270
+
+MYSTICISM SCALE
+*
+
+*
+
+2 Months after 1st Session 2 Months after 2nd Session
+
+Methp 1st
+Psil 2nd
+
+Psil 1st
+Methp 2nd
+
+90
+95
+100
+105
+110
+
+2 Months after 1st Session
+
+SPIRITUAL TRANSCENDENCE SCALE
+
+2 Months after 2nd Session
+
+*
+
+*
+Methp 1st
+Psil 2nd
+
+Psil 1st
+Methp 2nd
+
+Methp 1st
+Psil 2nd
+
+Psil 1st
+Methp 2nd
+
+Methp 1st
+Psil 2nd
+
+Psil 1st
+Methp 2nd
+
+Fig. 4 Lifetime mystical expe-
+rience (Mysticism Scale) and
+
+spirituality (Spiritual Transcen-
+dence Scale) scores 2 months
+
+after the first session (left two
+columns) and 2 months after the
+
+second session (right two col-
+umns) in two groups of partic-
+ipants. One group (N=15)
+
+received methylphenidate on the
+first session and psilocybin on
+the second session (Methp 1st,
+Psil 2nd) and the other group
+
+(N=15) received the reverse or-
+der (Psil 1st, Methp 2nd). Bars
+
+are means with brackets show-
+ing one SEM. Asterisks indicate
+
+a significant difference
+between the conditions
+280 Psychopharmacology (2006) 187:268–283
+
+Experience Questionnaire and Persisting Effects Question-
+naire). Significant limitations of the Pahnke study were that
+
+the participants were explicitly told that some would
+receive psilocybin and some would be controls, and that it
+was conducted in a group setting. These features resulted in
+the double-blind being quickly broken during the session,
+which presumably contributed to the assessed differences
+between the groups (Doblin 1991; Wulff 1991; Smith
+2000). The present study represents an important extension of
+the Pahnke study using better blinding and comparison
+control procedures, assessment of effects in individual
+participants unconfounded by group interactions, empirically
+validated measures of mystical experience (the Mysticism
+Scale and the Spiritual Transcendence Scale), and assessment
+of effects by community observers. The credibility of the
+blinding procedure is reflected in the facts that the debriefing
+interviews with the monitors at the end of the study indicated
+that they remained unaware of the study design and that some
+volunteers rated their experience during the methylphenidate
+session as being among the most personally meaningful
+experiences of their lives (Fig. 3).
+The proportion of volunteers who fulfilled Pahnke’s criteria
+for having a “complete” mystical experience (61%, 22 of 36)
+is somewhat higher than the 30–40% reported by Pahnke in
+the Good Friday Experiment (cf. Pahnke 1967, p 67). It seems
+likely that the greater preparation time (at least 8 versus 3 h in
+the Pahnke study) and the differences in context (individual
+sessions with an eye mask and music in an aesthetic room
+verses the Pahnke study conducted in a group setting with 30
+individuals, some of whom were acting bizarrely) likely
+contributed to this difference. The present study provides no
+evidence that preparation beyond that given before the first
+session produced an increase in the incidence of a mystical
+experience (i.e., on the first, second, and third session,
+respectively, 67, 60, and 50% of participants who received
+
+psilocybin met the criteria for a complete mystical experi-
+ence) or a decrease in the incidence of anxiety/dysphoria.
+
+The extent to which the study population limits the
+generalizability of the results is unknown. The participants in
+
+this study were hallucinogen-naïve, well educated, psycho-
+logically stable, and middle-aged adults, who reported
+
+regular participation in religious or spiritual activities. In
+particular, it seems plausible that the religious or spiritual
+interest of the participants may have increased the likelihood
+that the psilocybin experience would be interpreted as
+
+having substantial spiritual significance and personal mean-
+ing. It is also unknown how the hallucinogen-naïve status of
+
+the participants affected either the intensity or qualitative
+interpretation of the experience. Recruiting volunteers
+without histories of use avoided the problem of participant
+selection bias in which individuals who had previously had
+positive experiences with hallucinogens would have been
+most likely to participate. However, it is also possible that
+
+the novelty of the experience in hallucinogen-naïve individ-
+uals enhanced both the intensity and the personal and
+
+spiritual significance of the experience.
+An important finding of the present study is that, with
+careful volunteer screening and preparation and when
+sessions are conducted in a comfortable, well-supervised
+setting, a high dose of 30 mg/70 kg psilocybin can be
+administered safely. It is also noteworthy that, despite
+meetings and prior sessions with monitors ranging from
+8 h (when psilocybin was administered on the first session)
+up to 24 h (when psilocybin was administered on the third
+session) of contact time, 22% (8 of 36) of the volunteers
+experienced a period of notable anxiety/dysphoria during the
+session, sometimes including transient ideas of reference/
+
+paranoia. No volunteer required pharmacological interven-
+tion and the psychological effects were readily managed with
+
+reassurance. The primary monitor remained accessible via
+beeper/phone to each volunteer for 24 h after each session,
+but no volunteer called before the scheduled follow-up
+meeting on the next day. The 1-year follow-up is ongoing
+but has been completed by most volunteers (30 of 36). In
+that follow-up, an open-ended clinical interview reflecting
+on the study experiences and current life situation provides a
+clinical context conducive to the spontaneous reporting of
+study-associated adverse events. To date, there have been no
+reports of persisting perceptional phenomena sometimes
+attributed to hallucinogen use or of recreational abuse of
+hallucinogens, and all participants appear to continue to be
+high-functioning, productive members of society.
+The results of the present study have implications for
+
+understanding the abuse of hallucinogens. Although psilo-
+cybin is regulated by the federal government under the
+
+most restrictive category (Schedule I) of the Controlled
+Substances Act, the National Institute on Drug Abuse
+(2001, 2005) does not consider psilocybin and the other
+classical hallucinogens to be drugs of “addiction” because
+they do not produce compulsive drug-seeking behavior as
+do classic addicting drugs such as cocaine, amphetamine,
+heroin, and alcohol. This conclusion is consistent with
+observations that psilocybin and other classic hallucinogens
+do not maintain reliable drug self-administration in animal
+laboratory models of drug abuse (Griffiths et al. 1980;
+Fantegrossi et al. 2004) and that most recreational users of
+classical hallucinogens decrease or stop their use over time
+(National Institute on Drug Abuse 2001). In the present
+study, psilocybin did not produce a classic euphorigenic
+profile of effects: measures of anxiety and dysphoria
+(monitor ratings of anxiety: AIA scale on the APZ
+Questionnaire, LSD scale on the ARCI) were significantly
+
+greater after psilocybin than after methylphenidate. How-
+ever, the present study also shows that, in some people
+
+under some conditions, psilocybin can occasion experien-
+ces that are rated as highly valued. This seems a likely
+
+Psychopharmacology (2006) 187:268–283 281
+
+mechanism underlying the long-term historical use of
+psilocybin and other hallucinogens such as DMT within
+some cultures for divinatory or religious purposes.
+While there is no indication that carefully monitored
+clinical exposure of psilocybin to hallucinogen-naïve
+volunteers results in subsequent abuse (present study;
+Gouzoulis-Mayfrank, personal communication; Yensen
+and Dryer, (1992)1
+
+; Leuner 1981), the epidemic of
+hallucinogen abuse in the 1960s raises an important
+cautionary note. Abuse of hallucinogens can be exacerbated
+under conditions in which hallucinogens are readily
+available illicitly and the potential harms to both the
+individual and society are misrepresented or understated.
+It is important that the risks of hallucinogen use not be
+underestimated. Even in the present study in which the
+
+conditions of volunteer preparation and psilocybin admin-
+istration were carefully designed to minimize adverse
+
+effects, with a high dose of psilocybin 31% of the group
+of carefully screened volunteers experienced significant
+fear and 17% had transient ideas of reference/paranoia.
+Under unmonitored conditions, it is not difficult to imagine
+such effects escalating to panic and dangerous behavior.
+
+Also, the role of hallucinogens in precipitating or exacer-
+bating enduring psychiatric conditions and long-lasting
+
+visual perceptual disturbances should remain a topic of
+research (Abraham et al. 1996; Halpern and Pope 1999).
+In conclusion, the present study showed that, when
+administered to volunteers under supportive conditions,
+
+psilocybin occasioned experiences similar to spontaneous-
+ly occurring mystical experiences and which were
+
+evaluated by volunteers as having substantial and sus-
+tained personal meaning and spiritual significance. The
+
+ability to prospectively occasion mystical experiences
+should permit rigorous scientific investigations about their
+
+causes and consequences, providing insights into under-
+lying pharmacological and brain mechanisms, nonmedical
+
+use and abuse of psilocybin and similar compounds, as
+well as the short-term and persisting effects of such
+experiences.

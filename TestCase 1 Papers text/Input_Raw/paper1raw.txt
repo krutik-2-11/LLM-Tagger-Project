@@ -1,0 +1,793 @@
+ABSTRACT
+The alignment between the brightest cluster galaxies (BCGs) and host clusters can reveal the mystery of the formation and
+evolution of galaxy clusters. We measure cluster orientations in optical based on the projected distribution of member galaxies
+and in X-ray by fitting the morphology of intracluster medium (ICM). Cluster orientations determined in the two wavelengths
+are generally consistent. The orientation alignment between BCGs and host clusters is confirmed and more significant than in
+previous works. We find that BCGs are more aligned with cluster orientations measured in X-ray than those from optical data.
+Clusters with a brighter BCG generally show a stronger alignment. We argue that the detected redshift evolution of the alignment
+is probably caused by observational bias rather than intrinsic evolution. The alignment is not related to the ellipticity of BCGs,
+and the richness, ellipticity, and dynamical state of host clusters. The strong alignment between BCGs and the morphology of
+ICMs may be the consequence of the co-evolution between the central massive galaxy and host clusters.
+Key words: galaxies: clusters: general – galaxies: clusters: intracluster medium.
+1 INTRODUCTION
+Galaxy clusters are the largest gravitationally bound systems in the
+Universe ,formed by accreting materials along filaments and merging
+smaller groups or subclusters (e.g. Press & Schechter 1974; Bower
+1991; Springel et al. 2005; McGee et al. 2009). The anisotropic
+processes for mass assembly lead clusters and their member galaxies
+orient non-randomly (e.g. Dubinski 1998; Altay, Colberg & Croft
+2006; Faltenbacher et al. 2008; Knebe et al. 2008). Satellite galaxies
+in groups or clusters tend to point to the central massive galaxies
+(e.g. Thompson 1976; Pereira & Kuhn 2005; Yang et al. 2006;
+Faltenbacher et al. 2007; Huang et al. 2018). BCGs are observed
+to align with their host clusters (hereafter ‘BCG alignment’ or ‘the
+alignment’ for short, e.g. Sastry 1968; Niederste-Ostholt et al. 2010;
+Hao et al. 2011; Huang et al. 2016; West et al. 2017; Wittman,
+Foote & Golovich 2019). On larger scales, galaxy groups or clusters
+also orient toward their neighbours statistically (e.g. Binggeli 1982;
+Rhee & Katgert 1987; West 1989; Wang et al. 2009; Smargon et al.
+2012). Investigations on the orientation alignment of galaxies, groups
+and clusters provide a unique way to understand their formation and
+evolution histories (see reviews: Kiessling et al. 2015; Kirk et al.
+2015; Joachimi et al. 2015)
+BCGs are the most massive galaxies in clusters, generally inhabit
+the dense environment of cluster centres. They gain masses through
+accreting materials from the ICM or cannibalizing satellite galaxies
+(e.g. Ostriker & Hausman 1977; Fabian 1994; Dubinski 1998; Nipoti,
+Giocoli & Despali 2018), and show peculiar properties in many
+aspects when compared to normal elliptical galaxies (e.g. Burns,
+White & Hough 1981; Best et al. 2007; Lin, Ostriker & Miller 2010;
+Shen et al. 2014; Wen & Han 2015a). On the one hand, the properties
+ E-mail: zsyuan@nao.cas.cn
+of BCGs are affected by the ambient environment (e.g. Mittal et al.
+2009; Kale et al. 2015; Yuan, Han & Wen 2016); on the other hand,
+BCGs can regulate the distribution of surrounding gases and heat
+them significantly through AGN feedback (e.g. Cattaneo et al. 2009;
+Ma, McNamara & Nulsen 2013). The orientation alignment indicates
+the tight links between BCGs and host clusters.
+The formation of the BCG alignment isstill controversial: whether
+the alignment is created primordially and maintained to now, or it
+appears gradually during the process of mass assembly of BCGs.
+This could be partly answered by comparing the alignment signal in
+different redshifts. Niederste-Ostholt et al. (2010) and Hao et al.
+(2011) found stronger alignment for lower redshift clusters, but
+Huang et al. (2016) claimed that no clear redshift evolution is
+detected. By using the Hubble Space Telescope (HST), West et al.
+(2017) found that the BCG alignment has been clearly set ten billion
+years ago (see also Chu et al. 2021).
+Generally, the mass distribution of galaxy clusters can be well
+traced by the distribution of their member galaxies (e.g. Broadhurst
+et al. 2005; Zitrin et al. 2009, 2011). The overall orientation of
+clusters thus can be measured with the positions of member galaxies
+(e.g. Sastry 1968; Carter & Metcalfe 1980). Clear BCG alignment
+has been detected for large cluster samples (e.g. Niederste-Ostholt
+et al. 2010; Hao et al. 2011; Huang et al. 2016). Relations between
+the alignment strength and cluster properties are also discussed. For
+example, clusters with a more luminous or more dominant BCG
+usually show more remarkable alignments (e.g. Niederste-Ostholt
+et al. 2010; Hao et al. 2011; Huang et al. 2016). While marginal or
+no dependence is found on the richness of clusters (e.g. Hao et al.
+2011; Huang et al. 2016).
+The cluster mass can also be reflected by the distribution of ICM
+(e.g. Fabricant,Rybicki & Gorenstein 1984; Allen, Schmidt & Fabian
+2002), thus the global orientation of galaxy clusters can be determined from their X-ray morphologies. Based on Einstein images,
+© 2022 The Author(s)
+Published by Oxford University Press on behalf of Royal Astronomical Society
+Downloaded from https://academic.oup.com/mnras/article/516/3/3159/6692871 by guest on 03 February 2024
+3160 Z. S. Yuan and Z. L. Wen
+MNRAS 516, 3159–3166 (2022)
+Porter, Schneider & Hoessel (1991) found clear BCG alignments
+with 41 clusters, and Rhee & Latour (1991) got consistent results for
+26 clusters. Allen et al. (1995) detected the BCG alignment in five
+clusters observed by the ROSAT. Hashimoto, Henry & Boehringer
+(2008) studied the alignment for 30 clusters with Chandra images,
+in much higher angular resolution than the Einstein and ROSAT
+images. Donahue et al. (2016) confirmed the BCG alignment for 25
+clusters, no matter the cluster orientation is measured from X-ray
+(Chandra), Sunyaev–Zel’dovich effect (Bolocam) or lensing (HST)
+data. All the above X-ray samples are very limited, insufficient to
+further investigate the influence of cluster properties on the BCG
+alignment.
+The Chandra and XMM–Newton satellites have accumulated
+massive data for galaxy clusters. Recently, we processed the archival
+Chandra (Yuan & Han 2020) and XMM–Newton (Yuan, Han & Wen
+2022) data homogeneously, and obtained X-ray images for 1844
+clusters in total. It is feasible now to measure the orientation of
+clusters in both optical and X-ray wavelengths for a large sample of
+clusters. In Section 2, we describe the cluster samples and derive the
+shape parameters. Results on the BCG alignment are presented in
+Section 3. A summary is given in Section 4. Throughout this paper,
+we assume a flat CDM cosmology with H0 = 70 km s−1 Mpc−1,
+m = 0.3 and  = 0.7.
+2 DATA
+2.1 Cluster samples
+The cluster sample in X-ray is derived from the archival data of
+the Chandra and XMM–Newton (Yuan & Han 2020; Yuan et al.
+2022). Galaxy clusters are collected in two independent approaches:
+(1) clusters from targeted observations, and (2) those serendipitously
+detected. The X-ray images of clusters are processed homogeneously,
+and smoothed to a certain physical scale of 30 kpc (refer Yuan &
+Han 2020; Yuan et al. 2022, for details on the sample collection
+and image procssing). Finally, 964 clusters are obtained from
+Chandra images (Yuan & Han 2020), 1308 clusters are from XMM–
+Newton images, and a joint sample with 1844 clusters is derived
+by combining the Chandra and XMM–Newton samples (Yuan et al.
+2022).
+In optical, the large cluster catalogue derived by Wen & Han
+(2015b) is used. Wen, Han & Liu (2012) identified 132 684 clusters
+from the photometric data of Sloan Digital Sky Survey (SDSS).
+Wen & Han (2015b) updated this catalogue based on the SDSS
+spectroscopic data (Alam et al. 2015), and identified 25 419 new
+clusters. In total, the sample in Wen & Han (2015b) contains 158 103
+clusters.
+We cross-match the X-ray joint sample in Yuan et al. (2022) with
+the optical catalogue in Wen & Han (2015b) within the cluster radius
+r500, the radius of a cluster within which the mean matter density
+is 500 times of the local critical density. Preliminarily, we get 755
+clusters overlapped in the X-ray and optical samples.
+2.2 Parameters of galaxy clusters
+2.2.1 Orientation and ellipticity of BCGs
+Based on the BCG coordinates in the catalogue of Wen & Han
+(2015b), we directly get the position angle φbcg (deVPhi r) and the
+axial ratio b/a (deVAB r) of BCGs, fitted with the de Vancouleurs
+ 0
+ 2
+ 4
+ 6
+ 8
+ 10
+ 0 30 60 90 120 150 180
+ 0
+ 20
+ 40
+ 60
+ 80
+ 100
+pks, bcg=0.54
+pks, clstr, o=0.84
+pks, clstr, x=0.49
+fraction (%)
+cumulative fraction (%)
+φ (°)
+φbcg
+φclstr, o
+φclstr, x
+Figure 1. Upper panel: the observational image for the BCG of Abell 68
+obtained by the SDSS (contrast enhanced). The coordinate and redshift of the
+BCG are written on the top left-hand corner. The modelled position angle φbcg
+is labelled, from the north through the east. Lower panel: distributions of φbcg
+(dashed), φclstr, o (dash–dotted) and φclstr, x (dotted) for the 755 overlapped
+clusters. Histograms (x and y1 axes) indicate the fraction of position angles
+in each bin, oblique curves (x and y2 axes) mean the cumulative fractions.
+The straight-solid line is the theoretical line for random distribution. The
+probability of KS-test between the curve of φbcg (φclstr, o or φclstr, x) and the
+solid line is written in the bottom right-hand corner.
+model, from the SDSS database (Stoughton et al. 2002).1 The BCG
+ellipticity εbcg is defined as
+εbcg = 1 − b/a
+1 + b/a . (1)
+The φbcg is measured from the north through the east within 0◦
+≤ φbcg < 180◦. As an example, the upper panel of Fig. 1 shows
+the SDSS image for the BCG of Abell 68 and the fitted position
+angle. In the lower panel of Fig. 1, we present the distribution of
+φbcg (dashed) for the 755 overlapped clusters, and find it follows the
+random distribution quite well.
+2.2.2 Orientation and ellipticity of clusters estimated from member
+galaxies
+The orientation of clusters can be derived from the distribution of
+member galaxies (e.g. Kim et al. 2002; Niederste-Ostholt et al. 2010;
+1http://skyserver.sdss.org/dr15/en/tools/crossid/crossid.aspx
+Downloaded from https://academic.oup.com/mnras/article/516/3/3159/6692871 by guest on 03 February 2024
+The BCG alignment 3161
+MNRAS 516, 3159–3166 (2022)
+9.10
+9.15
+9.20
+9.35 9.30 9.25 9.20
+φ=0°
+φ=90°
+φclstr, o=123.6°
+DEC (°)
+RA (°)
+satellite
+BCG
+Figure 2. The distribution of member galaxies for the Abell 68 and the
+derived position angle φclstr, o. The member galaxies are taken from Wen &
+Han (2015b) and selected with Mr ≤ −20.5 and r < r500.
+Huang et al. 2016). First, we calculate the three moments:
+Mxx = 1
+Nsat
+
+i
+x2
+i
+r2
+i
+,
+Mxy = 1
+Nsat
+
+i
+xiyi
+r2
+i
+,
+Myy = 1
+Nsat
+
+i
+y2
+i
+r2
+i
+,
+(2)
+where xi, yi are the relative angular distances in the right ascension
+and declination directions, respectively, of the ith satellite galaxy
+to the BCG, ri is equal to x2
+i + y2
+i , and Nsat is the number of
+satellite galaxies in the cluster. Here, we only adopt satellite galaxies
+satisfying: (1) the r-band absolute magnitude is brighter than −20.5
+mag, and (2) the projected distance to the BCG is less than r500. The
+two parameters Q and U are defined as
+Q = Mxx − Myy ,
+U = 2Mxy . (3)
+Then the position angle and the ellipticity of clusters can be computed
+through
+φclstr, o = 1
+2
+arctan U
+Q
+
+, (4)
+εclstr, o = Q2 + U2. (5)
+The φclstr, o is measured from the north through the east within 0◦
+≤ φclstr, o < 180◦. In Fig. 2, the distribution of member galaxies
+for the Abell 68 and the corresponding position angle φclstr, o are
+presented as an example. In the lower panel of Fig. 1, we present
+the distribution of φclstr, o for 755 clusters and find that the cluster
+orientations (dash–dotted) are randomly distributed in the projected
+plane.
+The deviation angle between the BCG and host cluster thus can
+be calculated through
+
+o = |φbcg − φclstr, o| (|φbcg − φclstr, o| ≤ 90◦),
+o = 180◦ − |φbcg − φclstr, o| (|φbcg − φclstr, o| > 90◦). (6)
+Here, the o is in 0◦ ≤ o ≤ 90◦.
+Figure 3. Upper panel: the observational X-ray image of Abell 68 obtained
+by the XMM–Newton. The scale of 500 kpc is labelled on the bottom righthand corner. Lower panel: the best-fitted β-model for the X-ray image with
+the position angle φclstr, x marked.
+2.2.3 Orientation and ellipticity of clusters estimated from X-ray
+images
+The orientation and ellipticity of host clusters can also be measured
+by fitting the cluster X-ray images with a two-dimensional β-model
+as (see Yuan & Han 2020, for details)
+f (x, y) = f (r) = A(1 + (r/r0)
+2
+)
+−β + C, (7)
+where
+r(x, y) =
+x2(1 − εclstr, x)2 + y2
+1 − εclstr, x
+, (8)
+and
+x = (x − x0) cos φclstr, x + (y − y0)sin φclstr, x,
+y = (y − y0) cos φclstr, x − (x − x0)sin φclstr, x. (9)
+Here, εclstr, x is the cluster ellipticity, φclstr, x is the position angle from
+the north through the east within 0◦ ≤ φclstr, x < 180◦. The upper
+panel of Fig. 3 shows the X-ray image of Abell 68 observed by the
+XMM–Newton, refer Yuan et al. (2022) for details. In the lower panel,
+the corresponding β-model and the fitted cluster orientation φclstr, x
+are presented. The distribution of φclstr, x (dotted) for 755 clusters is
+shown in the lower panel of Fig. 1, follows the random distribution
+perfectly.
+Downloaded from https://academic.oup.com/mnras/article/516/3/3159/6692871 by guest on 03 February 2024
+3162 Z. S. Yuan and Z. L. Wen
+MNRAS 516, 3159–3166 (2022)
+Table 1. Parameters for 411 clusters (the full table can be found on the webpage: http://zmtt.bao.ac.cn/galaxy clusters/dyXimages/).
+Name RA Dec. z Mbcg εbcg φbcg Nsat Rclstr δ εclstr, o φclstr, o εclstr, x φclstr, x o x
+(J2000) (J2000) (
+◦) (
+◦) (
+◦) (
+◦) (
+◦)
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13) (14) (15) (16)
+A2697 0.798 26 − 6.091 69 0.2335 − 23.70 0.14 163.2 65 105.76 − 0.27 ± 0.01 0.13 147.6 0.21 157.0 15.6 6.2
+A2700 0.956 98 2.066 47 0.0976 − 23.68 0.24 158.7 36 71.82 − 0.33 ± 0.01 0.13 41.7 0.26 157.6 63.0 1.1
+WHLJ000524 + 161309 1.349 84 16.219 26 0.1156 − 23.40 0.18 25.8 34 63.76 0.76 ± 0.01 0.13 80.6 0.30 32.1 54.8 6.3
+Z15 1.584 53 10.864 29 0.1663 − 24.19 0.11 112.5 36 63.25 − 0.15 ± 0.01 0.26 97.7 0.11 109.4 14.8 3.1
+ACTCLJ0008.1 + 0201 2.043 32 2.020 09 0.3665 − 23.87 0.32 56.3 37 72.60 1.07 ± 0.01 0.44 61.9 0.20 129.3 5.6 73.0
+ACTLJ0014-0056 3.725 44 − 0.952 36 0.5368 − 24.31 0.24 58.3 34 101.23 0.35 ± 0.01 0.16 52.1 0.31 65.5 6.2 7.2
+CL0016 + 1626 4.639 93 16.437 79 0.5551 − 23.66 0.42 61.6 24 80.06 0.48 ± 0.01 0.17 56.9 0.20 48.0 4.7 13.6
+CL0019.6 + 0336 4.911 07 3.599 26 0.2668 − 23.99 0.25 147.9 72 140.53 0.49 ± 0.01 0.35 166.5 0.15 171.4 18.6 23.5
+PSZ2G114.79-33.71 5.154 80 28.659 49 0.0949 − 23.55 0.19 153.8 46 76.91 0.29 ± 0.01 0.29 154.4 0.29 154.7 0.6 0.9
+WHYJ003410-021039 8.561 22 − 2.084 59 0.0793 − 23.33 0.23 19.9 27 39.00 1.24 ± 0.01 0.29 13.5 0.10 0.7 6.4 19.2
+Note. Columns: (1) cluster name; (2)–(3) right ascension and declination in J2000; (4) the BCG redshift; (5)–(7) the r-band absolute magnitude, ellipticity, and position angle of the
+BCG; (8) number of selected satellite galaxies in the cluster; (9)–(10) the richness and dynamical paramter – the morphology index of the cluster; (11)–(12) the ellipticity and position
+angle of the cluster measured from member galaxies; (13)–(14) the cluster ellipticity and position angle determined from the X-ray image; (15) the acute angle between φbcg and
+φclstr, o; (16) the acute angle between φbcg and φclstr, x.
+ 0
+ 50
+ 100
+ 150
+ 0 50 100 150
+φclstr, x
+φclstr, o
+ 0
+ 10
+ 20
+ 30
+ 40
+ 0 30 60
+A=27.48±1.36 σ=22.95±1.43
+C=4.90±0.59
+fraction (%)
+Δφclstr
+ 0
+ 30
+ 60
+ 90
+ 0 30 60 90 120
+ps=0.00
+Δφclstr
+Nsat
+ 0
+ 30
+ 60
+ 90
+ 0 0.2 0.4 0.6
+ps=0.33
+Δφclstr
+z
+Figure 4. Upper left-hand panel: comparison of cluster orientations estimated from optical (φclstr, o) and X-ray (φclstr, x) data. The dotted line indicates the
+equivalence. Upper right-hand panel: the distribution for differences between φclstr, o and φclstr, x. The solid curve is the fitted Gaussian model for the distribution.
+Parameters of the fitted model are written on the top right-hand corner. Lower left-hand panel: the relation between the position angle difference 
+φclstr and the
+number of satellite galaxies in clusters Nsat. The dotted line means 
+φclstr = 0. The value of the significance of Spearman rank-order correlation ps is labelled
+on the top right-hand corner. Lower right-hand panel: similar to the bottom left-hand panel but for the relation between 
+φclstr and redshift z.
+The deviation angle between orientations of the BCG and host
+cluster thus can be calculated with
+
+x = |φbcg − φclstr, x| (|φbcg − φclstr, x| ≤ 90◦),
+x = 180◦ − |φbcg − φclstr, x| (|φbcg − φclstr, x| > 90◦), (10)
+where the x is in the range of 0◦ ≤ x ≤ 90◦.
+Since the uncertainty of measured orientationsislarger for rounder
+sources (e.g. see Refregier et al. 2012), previous works usually set
+a threshold for the ellipticity (e.g. Yang et al. 2006; NiedersteOstholt et al. 2010). In this paper, we limit ellipticities, including
+the εbcg, εclstr, o and εclstr, x, larger than 0.1. Meanwhile, because the
+measurement of the orientation φclstr, o is inaccurate for clusters with
+few members, we only use φclstr, o that estimated from clusters with
+Downloaded from https://academic.oup.com/mnras/article/516/3/3159/6692871 by guest on 03 February 2024
+The BCG alignment 3163
+MNRAS 516, 3159–3166 (2022)
+ 0
+ 10
+ 20
+ 30
+ 40
+ 0 30 60 90
+fraction (%)
+Φ (°)
+Φx Φo
+ 0
+ 10
+ 20
+ 30
+ 40
+ 0 30 60
+A=33.71±0.76
+σ=19.67±0.55
+fraction (%)
+Φx
+ 0 30 60
+A=26.02±0.37
+σ=28.10±0.53
+Φo
+Figure 5. Upper panel: distributions of the deviation angles between orientations of BCGs and host clusters. Lower panels: modelling the distributions
+of deviation angles with a Gaussian model. Values of fitted parameters are
+written on each panel.
+10 or more satellites, i.e. Nsat ≥ 10. Finally, we obtain 411 clusters
+satisfying the above selection criteria.
+2.2.4 Other parameters
+To study the relation between BCG alignment and properties of
+BCGs or host clusters, we get the BCG redshift z, the r-band
+absolute magnitude of BCGs Mbcg, the number of satellite galaxies
+Nsat, and the cluster richness Rclstr from the catalogue in Wen &
+Han (2015b). About 90 per cent of the BCG redshifts are estimated from spectroscopic data. The absolute magnitude Mbcg is
+evolution-corrected with Mbcg = Mobs
+bcg + 1.16z. The cluster richness
+Rclstr is estimated by the total luminosity of member galaxies and
+can be taken as a good mass proxy of clusters (Wen & Han
+2015b).
+In Yuan et al. (2022), we calculated four kinds of dynamical
+parameters with X-ray images, i.e. the concentration index c, the
+centroid shift ω, the power ratio P3/P0, and the morphology index
+δ. Since these parameters are tightly correlated with each other
+(Yuan & Han 2020), we only take the adaptive morphology index
+δ as the dynamical parameter for clusters in following discussions.
+The morphology index δ is defined as the best combination of the
+profile parameter κ and the asymmetry factor α estimated from the
+maps of surface brightness. It is calibrated by using a complete
+sample of clusters with known relaxed and disturbed state. Clusters
+with δ < 0 are relaxed, while those with δ > 0 are regarded as
+disturbed clusters. All the parametersfor the 411 clusters are listed in
+Table 1.
+3 RESULTS
+3.1 Comparing cluster orientations estimated from optical and
+X-ray data
+Under the assumption of hydrostatic equilibrium in the gravitational
+potential well of clusters, the distributions of member galaxies and
+ICM are both regulated by the mass distribution of galaxy clusters.
+Thus, it is natural to expect a general agreement between cluster
+orientations determined from member galaxies and those from the
+ICM. In the upper left-hand panel of Fig. 4, a good consistency
+is presented between cluster orientations estimated from optical
+(φclstr, o) and X-ray (φclstr, x) data, though few clusters present large
+deviations. In the upper right-hand panel of Fig. 4, we show the
+distribution of the differences between cluster orientations measured
+in optical and X-ray wavelengths, 
+φclstr, and fit the distribution with
+a Gaussian model as
+fraction = A × exp 
+−
+ − 0
+σ
+2
+
++ C. (11)
+Here, A is the model amplitude, 0 is the model centre and set to
+0, σ is the model width, and C is a constant. The typical scatter
+of the φclstr, o−φclstr, x relation is indicated by the σ of the Gaussian
+model, which is equal to 22.
+◦95 ± 1.
+◦43. The lower left-hand panel of
+Fig. 4 shows the correlation between the 
+φclstr and the number of
+satellite galaxiesin clusters Nsat. We assessthe degree of Nsat−
+φclstr
+correlation with the significance of Spearman rank-order correlation
+ps (defined in Press et al. 1992, p. 640), which is a very sensitive
+indicator for weak but intrinsic tendency, with the zero value for
+a significant dependence while non-zero values for independence.
+We find that clusters host more satellite galaxies tend to show better
+agreement between the φclstr, o and φclstr, x. In the lower right-hand
+panel of Fig. 4, we find that the 
+φclstr is independent of the cluster
+redshift z.
+3.2 The BCG alignment
+In the upper panel of Fig. 5, we show the distributions of the deviation
+angles  between orientations of BCGs and host clusters. A clear
+signal of alignment is shown – the fraction of clusters with  <
+30◦ is significantly larger than those with a larger . We find that
+the x (solid) shows stronger alignment than the o (shaded). The
+distributions of x and o are fitted with a Gaussian model, as stated
+in equation (11) and presented in the lower panels of Fig. 5. The bestfitted parameters for each samples are listed in Table 2. It is clear that
+the fitted model for x has a significantly larger amplitude A and a
+smaller width σ than those of the o. This suggests that the BCG
+morphology is more aligned with the distribution of ICM than that
+of satellite galaxies.
+In Table 2, the mean deviation angles and fitting parameters for
+the results obtained by Niederste-Ostholt et al. (2010) and Huang
+et al. (2016) are also presented. The alignments we obtained are
+significantly stronger, i.e. larger A and smaller σ and . This is
+probably because our sample is derived from the common sample
+in X-ray and optical and under stricter selection criteria, e.g. Nsat ≥
+10, which leads our sample has a smaller uncertainty than that of
+previous works.
+3.3 Correlations to properties of BCGs or clusters
+Correlations between the alignment strength and various properties
+of BCGs or clusters have been studied, see Table 3 as a summary.
+Downloaded from https://academic.oup.com/mnras/article/516/3/3159/6692871 by guest on 03 February 2024
+3164 Z. S. Yuan and Z. L. Wen
+MNRAS 516, 3159–3166 (2022)
+Table 2. The mean departure angle and fitting parameters.
+Sample Nsat  A σ C
+This work, x ≥10 24.34 33.71 ± 0.76 19.67 ± 0.55 4.58 ± 0.29
+This work, o ≥10 26.15 26.02 ± 0.37 28.10 ± 0.53 3.91 ± 0.20
+N10 >4 ∼38a 7.86 ± 0.20 41.12 ± 1.54 7.93 ± 0.17
+H16 – 35.07 11.41 ± 0.27 33.42 ± 1.08 6.26 ± 0.17
+aestimated by us from the solid curve in the fig. 5 of Niederste-Ostholt et al. (2010).
+Notes. N10 = Niederste-Ostholt et al. (2010), H16 = Huang et al. (2016).
+Table 3. A summary on the relation between BCG alignment and BCG or cluster properties.
+Reference Cluster number z-evolution BCG luminosity BCG ellipticity Cluster richness Cluster dynamic
+(1) (2) (3) (4) (5) (6) (7)
+Hashimoto et al. (2008) 30 – – Yes – No
+Niederste-Ostholt et al. (2010) 7031 Yes – – Marginal –
+Hao et al. (2011) ∼11¯I000 Yes Yes – No –
+Huang et al. (2016) 8237 No Yes No Marginal –
+this work 411 No Yes No No No
+Note. ‘–’ means the parameter is not discussed.
+ 0.2
+ 0.4
+ 0.6
+ 0 30 60
+ps=0.20
+εclstr, o
+Φx
+0.2
+0.4
+0.6 ps=0.73
+εclstr, x 0.0
+1.0
+2.0 ps=0.00
+δ 1.5
+2.0
+ps=0.54
+log10
+Rclstr 0.2
+ 0.4
+ 0.6 ps=0.01
+εbcg −25
+−24
+−23
+−22 ps=0.00
+Mbcg 0.3
+0.6 ps=0.00
+z
+ 0 30 60
+ps=0.02
+Φo
+ps=0.09
+ps=0.53
+ps=0.03
+ps=0.19
+ps=0.00
+ps=0.06
+ 0.3 0.6
+ps=0.06
+z
+ps=0.24
+ps=0.00
+ps=0.00
+ps=0.00
+ps=0.03
+−25 −24 −23 −22
+ps=0.05
+Mbcg
+ps=0.02
+ps=0.00
+ps=0.00
+ps=0.00
+ 0.2 0.4 0.6
+ps=0.59
+εbcg
+ps=0.01
+ps=0.30
+ps=0.00
+1.5 2.0
+ps=0.00
+log10Rclstr
+ps=0.70
+ps=0.70
+0.0 1.0 2.0
+ps=0.74
+δ
+ps=0.00
+Figure 6. Parameter correlations for 411 clusters. The significance of Spearman rank-order correlation ps is labelled in each panel, the zero value in red indicates
+a significant correlation between the two parameters, while a non-zero value in blue means no clear correlation is found.
+Downloaded from https://academic.oup.com/mnras/article/516/3/3159/6692871 by guest on 03 February 2024
+The BCG alignment 3165
+MNRAS 516, 3159–3166 (2022)
+ 0
+ 20
+ 40
+ 60
+ 80
+ 100
+ 0 30 60
+pks=0.00
+cumulative fraction (%)
+Φx
+Mbcg>−23.5
+Mbcg≤−23.5
+ 0 30 60 90
+pks=0.01
+Φo
+Figure 7. Left-hand panel: the cumulative distribution of the deviation angle x for subsamples with different ranges of BCG luminosity. The probability of
+KS-test pks between the two subsamples is written on the bottom-right corner. The dotted line is the theoretical line for non-alignment. Right-hand panel: similar
+to the left-hand panel but for o.
+ 0
+ 20
+ 40
+ 60
+ 80
+ 100
+ 0 30 60
+cumulative fraction (%)
+Φx
+z≤0.15
+0.15<z≤0.30
+0.30<z≤0.45
+z>0.45
+Figure 8. The cumulative distribution of the deviation angle x for clusters
+with different ranges of redshift. The dotted straight line is the theoretical line
+for non-alignment.
+However, many inconsistencies are obtained by different authors.
+For example, Niederste-Ostholt et al. (2010) and Hao et al. (2011)
+found that the BCG alignment is more prominent at lower redshifts,
+while Huang et al. (2016) did not find this trend. Hashimoto et al.
+(2008) found that clusters with a more elongated BCG generally
+show stronger BCG alignment, but Huang et al. (2016) argued that
+the dependence on the BCG ellipticity is probably due to selection
+effects.
+Here, we search the relation between the BCG alignment and the
+redshift z, the BCG absolute magnitude Mbcg and ellipticity εbcg,
+and the richness Rclstr and dynamical parameter δ of host clusters.
+As shown in the left-most two columns of Fig. 6, only the BCG
+absolute magnitude Mbcg shows significant dependence, i.e. ps = 0,
+for x and o simultaneously. In Fig. 7, we divide the 411 clusters
+into two subsamples with the boundary of Mbcg = −23.5 mag,
+and compare the cumulative fraction of the two subsamples for x
+(left-hand panel) and o (right-hand panel), respectively. It is clear
+that the subsample with more luminous BCGs (dashed) presents
+stronger alignment signal than the fainter subsample (solid). The
+corresponding probability of the Kolmogorov–Smirnov (KS) test,
+pks, between the two subsamples is equal 0.00 for the x and equal
+to 0.01 for the o, indicating a significantly different distribution
+between the two subsamples.
+The redshift evolution of the BCG alignment has been discussed
+(e.g. Niederste-Ostholt et al. 2010; Hao et al. 2011; Huang et al.
+2016). In Fig. 6, we find a clear dependence of x on the cluster
+redshift z, though the dependence vanishes for the o. Fig. 8
+shows the cumulative fraction of x for subsamples with different
+ranges of redshift. We find that the distributions are similar between
+subsamples for z ≤ 0.15 (solid) and 0.15 < z ≤ 0.30 (dashed), but it
+changessignificantly forthe subsample with 0.30<z ≤0.45 (dotted),
+and then keeps stable for z > 0.45 (dash–dotted). Considering the
+discontinuous changes among subsamples with different redshifts,
+we argue that the changes are not originated from intrinsic evolution,
+but probably a consequence of observational selection effect, i.e. the
+uncertainty of BCG orientations measured from the SDSS images
+becomes larger at z > 0.3.
+Fig. 6 shows the significance ps of the x−δ correlation is equal
+to 0, but it changes to 0.53 for the o−δ correlation. Considering the
+inconsistency between the x and o, we conclude that no intrinsic
+relation is found between the BCG alignment and the dynamical
+state of host clusters. For other parameters, i.e. the BCG ellipticity
+εbcg, the cluster richness Rclstr and ellipticity εclstr, x and εclstr, o, the
+Fig. 6 presents no dependence to both x and o. The results from
+literature and that obtained by us are summarized in Table 3.
+4 SUMMARY
+Investigations on the BCG alignment and the correlations with
+properties of BCGs and clusters are helpful to understand the coevolution of clusters and their central massive galaxies. In this work,
+we combine the large X-ray sample derived by Yuan et al. (2022)
+and the huge optical catalogue from Wen & Han (2015b). The
+position angle of BCGs φbcg is directly taken from the SDSS database.
+The orientations of host clusters are calculated in two independent
+approaches: (1) the φclstr, o is computed with the distribution of
+member galaxies, and (2) the φclstr, x is obtained by fitting the X-ray
+image of clusters with an elliptical β-model. By setting thresholds
+on ellipticities and number of satellite galaxies, finally a sample of
+411 clusters are obtained.
+We find that cluster orientations measured from X-ray images
+are generally consistent with that determined from optical data. We
+confirm the BCG alignment and find BCGs are more aligned with
+the distribution of ICM compared to that of member galaxies. The
+alignment signal obtained by us is much stronger than that from
+Downloaded from https://academic.oup.com/mnras/article/516/3/3159/6692871 by guest on 03 February 2024
+3166 Z. S. Yuan and Z. L. Wen
+MNRAS 516, 3159–3166 (2022)
+literature. We find that clusters with more luminous BCGs show
+stronger BCG alignment statistically. We argue that the detected
+changes of the BCG alignment related to the redshift is mainly caused
+by selection effectsrather than intrinsic physical evolution. The BCG
+alignment is independent of the BCG ellipticity, and the richness,
+ellipticty and dynamical state of host clusters.
+ACKNOWLEDGEMENTS
+We thank the referee, Dr. Michael West, for instructive comments
+which improved the paper. We thank J. L. Han for constructive
+suggestions and also Hu Zou for helpful discussions. YZS are
+supported by the science research grants from the China Manned
+Space Project (No. CMS-CSST-2021-A01, CMS-CSST-2021-B01).
+WZL acknowledges the support by the National Natural Science
+Foundation of China (12073036). This research has made use of data
+obtained from the Chandra Data Archive and software provided by
+the Chandra X-ray Center (CXC) in the application packages CIAO,
+ChIPS, and Sherpa. This work is based on observations obtained with
+XMM–Newton, an ESA science mission with instruments and contributions directly funded by ESA Member States and NASA. Funding
+forthe Sloan Digital Sky Survey IV has been provided by the Alfred P.
+Sloan Foundation, the U.S. Department of Energy Office of Science,
+and the Participating Institutions. SDSS acknowledges support and
+resources from the Center for High-Performance Computing at the
+University of Utah. The SDSS website is www.sdss.org.
+DATA AVA IL AB IL IT Y
+The data underlying this article, including the full version of Table 1
+and the X-ray images for all clusters, are available at the webpage:
+http://zmtt.bao.ac.cn/galaxy clusters/dyXimages/.
+REFERENCES
+Alam S. et al., 2015, ApJS, 219, 12
+Allen S. W., Fabian A. C., Edge A. C., Bohringer H., White D. A., 1995,
+MNRAS, 275, 741
+Allen S. W., Schmidt R. W., Fabian A. C., 2002, MNRAS, 335, 256
+Altay G., Colberg J. M., Croft R. A. C., 2006, MNRAS, 370, 1422
+Best P. N., von der Linden A., Kauffmann G., Heckman T. M., Kaiser C. R.,
+2007, MNRAS, 379, 894
+Binggeli B., 1982, A&A, 107, 338
+Bower R. G., 1991, MNRAS, 248, 332
+Broadhurst T. et al., 2005, ApJ, 621, 53
+Burns J. O., White R. A., Hough D. H., 1981, AJ, 86, 1
+Carter D., Metcalfe N., 1980, MNRAS, 191, 325
+Cattaneo A. et al., 2009, Nature, 460, 213
+Chu, A., Durret, F., Marquez, ´ I., 2021, A&A, 649, A42
+Donahue M. et al., 2016, ApJ, 819, 36
+Dubinski J., 1998, ApJ, 502, 141
+Fabian A. C., 1994, ARA&A, 32, 277
+Fabricant D., Rybicki G., Gorenstein P., 1984, ApJ, 286, 186
+Faltenbacher A., Li C., Mao S., van den Bosch F. C., Yang X., Jing Y. P.,
+Pasquali A., Mo H. J., 2007, ApJ, 662, L71
+Faltenbacher A., Jing Y. P., Li C., Mao S., Mo H. J., Pasquali A., van den
+Bosch F. C., 2008, ApJ, 675, 146
+Hao J., Kubo J. M., Feldmann R., Annis J., Johnston D. E., Lin H., McKay
+T. A., 2011, ApJ, 740, 39
+Hashimoto Y., Henry J. P., Boehringer H., 2008, MNRAS, 390, 1562
+Huang H.-J., Mandelbaum R., Freeman P. E., Chen Y.-C., Rozo E., Rykoff
+E., Baxter E. J., 2016, MNRAS, 463, 222
+Huang H.-J., Mandelbaum R., Freeman P. E., Chen Y.-C., Rozo E., Rykoff
+E., 2018, MNRAS, 474, 4772
+Joachimi B. et al., 2015, Space Sci. Rev., 193, 1
+Kale R., Venturi T., Cassano R., Giacintucci S., Bardelli S., Dallacasa D.,
+Zucca E., 2015, A&A, 581, A23
+Kiessling A. et al., 2015, Space Sci. Rev., 193, 67
+Kim R. S. J., Annis J., Strauss M. A., Lupton R. H., 2002, in Borgani S.,
+Mezzetti M., Valdarnini R., eds, ASP Conf. Ser. Vol. 268, Tracing Cosmic
+Evolution with Galaxy Clusters. Astron. Soc. Pac., San Francisco, p. 395
+Kirk D. et al., 2015, Space Sci. Rev., 193, 139
+Knebe A., Yahagi H., Kase H., Lewis G., Gibson B. K., 2008, MNRAS, 388,
+L34
+Lin Y.-T., Ostriker J. P., Miller C. J., 2010, ApJ, 715, 1486
+Ma C. J., McNamara B. R., Nulsen P. E. J., 2013, ApJ, 763, 63
+McGee S. L., Balogh M. L., Bower R. G., Font A. S., McCarthy I. G., 2009,
+MNRAS, 400, 937
+Mittal R., Hudson D. S., Reiprich T. H., Clarke T., 2009, A&A, 501, 835
+Niederste-Ostholt M., Strauss M. A., Dong F., Koester B. P., McKay T. A.,
+2010, MNRAS, 405, 2023
+Nipoti C., Giocoli C., Despali G., 2018, MNRAS, 476, 705
+Ostriker J. P., Hausman M. A., 1977, ApJ, 217, L125
+Pereira M. J., Kuhn J. R., 2005, ApJ, 627, L21
+Porter A. C., Schneider D. P., Hoessel J. G., 1991, AJ, 101, 1561
+Press W. H., Schechter P., 1974, ApJ, 187, 425
+Press W. H., Teukolsky S. A., Vetterling W. T., Flannery B. P., 1992,
+Numerical Recipes in FORTRAN: The Art of Scientific Computing.
+Cambridge Univ. Press, Cambridge
+Refregier A., Kacprzak T., Amara A., Bridle S., Rowe B., 2012, MNRAS,
+425, 1951
+Rhee G. F. R. N., Katgert P., 1987, A&A, 183, 217
+Rhee G. F. R. N., Latour H. J., 1991, A&A, 243, 38
+Sastry G. N., 1968, Publ. Astron. Soc. Pac., 80, 252
+Shen S., Yang X., Mo H., van den Bosch F., More S., 2014, ApJ, 782, 23
+Smargon A., Mandelbaum R., Bahcall N., Niederste-Ostholt M., 2012,
+MNRAS, 423, 856
+Springel V. et al., 2005, Nature, 435, 629
+Stoughton C. et al., 2002, AJ, 123, 485
+Thompson L. A., 1976, ApJ, 209, 22
+Wang Y., Park C., Yang X., Choi Y.-Y., Chen X., 2009, ApJ, 703, 951
+Wen Z. L., Han J. L., 2015a, MNRAS, 448, 2
+Wen Z. L., Han J. L., 2015b, ApJ, 807, 178
+Wen Z. L., Han J. L., Liu F. S., 2012, ApJS, 199, 34
+West M. J., 1989, ApJ, 344, 535
+West M. J., de Propris R., Bremer M. N., Phillipps S., 2017, Nat. Astron., 1,
+0157
+Wittman D., Foote D., Golovich N., 2019, ApJ, 874, 84
+Yang X., van den Bosch F. C., Mo H. J., Mao S., Kang X., Weinmann S. M.,
+Guo Y., Jing Y. P., 2006, MNRAS, 369, 1293
+Yuan Z. S., Han J. L., 2020, MNRAS, 497, 5485
+Yuan Z. S., Han J. L., Wen Z. L., 2016, MNRAS, 460, 3669
+Yuan Z. S., Han J. L., Wen Z. L., 2022, MNRAS, 513, 3013
+Zitrin A. et al., 2009, MNRAS, 396, 1985
+Zitrin A., Broadhurst T., Barkana R., Rephaeli Y., Ben´ıtez N., 2011, MNRAS,
+410, 1939
+SUPPORTING INFORMATION
+Supplementary data are available at MNRAS online.
+Table 1. Parameters for 411 clusters.
+Tab1.dat
+Please note: Oxford University Pressis notresponsible forthe content
+or functionality of any supporting materials supplied by the authors.
+Any queries (other than missing material) should be directed to the
+corresponding author for the article.
+This paper has been typeset from a TEX/LATEX file prepared by the author.
+Downloaded from https://academic.oup.com/mnras/article/516/3/3159/6692871 by guest on 03 February 2024

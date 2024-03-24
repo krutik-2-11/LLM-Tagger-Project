@@ -1,0 +1,444 @@
+Abstract
+Understanding and characterizing the discussions around key events in news streams is important for analyzing political discourse. In this
+work, we study the problem of identification of
+such key events and the news articles associated
+with those events from news streams. We propose a generic framework for news stream clustering that analyzes the temporal trend of news
+articles to automatically extract the underlying
+key news events that draw significant media
+attention. We characterize such key events by
+generating event summaries, based on which
+we form document clusters in an unsupervised
+fashion. We evaluate our simple yet effective
+framework, and show that it produces more coherent event-focused clusters. To demonstrate
+the utility of our approach, and facilitate future
+research along the line, we use our framework
+to construct KEYEVENTS1
+, a dataset of 40k
+articles with 611 key events from 11 topics.
+1 Introduction
+Analyzing the dynamics of discussions within the
+stream of news coverage has been an important
+tool for researchers to visualize and characterize
+media discourse around a topic (Field et al., 2018;
+Liu et al., 2019; Li and Goldwasser, 2019; Roy
+and Goldwasser, 2020; Luo et al., 2020; Liu et al.,
+2021; Lei et al., 2022; Dutta et al., 2022). News
+media discourse is typically centered around
+real-world events that catch media attention and
+gives rise to news reports streams. With the
+vast, ever-growing amount of news information
+available, we need automatic ways for identifying
+such key events.
+In this paper, we study the problem of identifying and characterizing key events from a large
+collection of news articles. Since the number of
+1
+https://github.com/nnakshat/KeyEvents
+news events is usually not known in advance, past
+works have typically formulated the problem as
+a form of non-parametric clustering of news articles, using Hierarchical Dirichlet Processes (Zhou
+et al., 2015; Beykikhoshk et al., 2018) or Stream
+Clustering (Laban and Hearst, 2017; Miranda et al.,
+2018; Staykovski et al., 2019; Saravanakumar et al.,
+2021). Rather than relying on the output of such
+clustering algorithms directly, we view the discovered clusters as event candidates, and leverage recent advances in Large Language Modeling
+(LLM) (Brown et al., 2020) to characterize these
+candidates and reason about their validity. From a
+bird’s eye view, the process is related to past work
+on interactive clustering (Hu et al., 2014; Pacheco
+et al., 2022, 2023), but instead of using human
+feedback to shape the emergent clusters, we rely
+on LLM inference.
+We propose a framework for clustering an
+archive of news articles into temporally motivated
+news events. A high-level overview of our approach is shown in Figure 1. We first retrieve relevant issue-specific articles (details about the document retrieval module are in App A) and perform
+temporal analysis to identify “peaks”, in which
+the number of articles is significantly higher. We
+then use HDBSCAN (Campello et al., 2013) a nonparametric clustering algorithm to generate candidate event clusters. We then characterize the
+candidate clusters by performing few-shot multidocument summarization of the top-K articles assigned to each cluster, identify inconsistent clusters
+by assessing the (dis)agreement between the summary and each article individually, and redundant
+clusters by assessing the similarity between cluster
+pairs’ summaries (details in Sec. 2.1). These lowquality candidates are removed, resulting in higher
+quality event clusters. We demonstrate this property over the NELA dataset (Horne et al., 2022)
+and show the improvement both in terms of event
+coherence and document mapping quality.
+List of Issues
+Issue 1
+Issue n
+GPT-3.5
+Keywords
+Issue 1 keywords
+Issue n keywords
+NELA Data Data Retriever
+Peak
+Detection
+Peak 1 Peak n
+Peak Specific
+Clustering
+Peak Specific
+Events
+GPT-3.5
+Event
+Characterization
+Merge / Remove
+Events
+Cluster
+Membership
+Document Retrieval Module
+User
+Temporal Filtering Module
+Event Discovery Inference
+Issue
+Specific
+Articles
+Figure 1: High-level overview of our framework for KEYEVENTS identification.
+2 Event Discovery and Article Inference
+2.1 Event Discovery
+Temporal Filtering. The first step towards generating event candidates is to identify temporal landmarks or peaks, where the media coverage surges
+with respect to one or more real-world events.
+We represent the news articles as a time-series
+data, where T = {t1, t2, · · · , tn} denote time, and
+C = {ct1
+, ct2
+, · · · , ctn } denote the number of articles published at each time step. The task is to
+identify a set of peaks, P = {p1, p2, · · · , pm} at
+different points in time. With this formulation, we
+hypothesize that the resulting clusters from our
+framework would be able to segregate discussions
+at various time steps and form coherent events compared to other approaches. We use an existing
+outlier detection algorithm (Palshikar et al., 2009)
+towards this task. More details in Appendix B.
+Peak-Specific Clustering. Within each peak, the
+increased media coverage can be attributed to multiple relevant events. We categorize the documents in each peak pi
+into a set of events, Ei =
+{e1, e2, · · · , eq}, and form an overall event set,
+E = {E1, E2, · · · , Em}, pertaining to the issue. We
+embed the title and first 4 lines of a news article
+instance using a dense retriever (Ni et al., 2021)
+model. The embedded documents are clustered using HDBSCAN to identify key news events. Prior
+to clustering, we reduce the dimensions of document embedding using UMAP (McInnes et al.,
+2018). Details are in Appendix C.
+Event Characterization. The event set obtained
+at each peak (Ei), is still prone to noise and is not
+easily interpretable without significant effort. Characterizing the news events makes the clusters interpretable and helps remove inconsistencies. The
+candidate events are characterized by generating
+Incoherent Cluster (Top-3 documents shown)
+Event Title: Climate Justice and African Activists
+Event Description: This is about the challenges faced
+by African climate activists in bringing attention to the
+climate crisis and the need for climate justice.
+Doc. 1: There Will Never Be Climate Justice If African
+Activists Keep Being Ignored
+We go to Kampala, Uganda, to speak to climate activist
+Vanessa Nakate on the occasion of her first book being
+published, A Bigger Picture. ...
+Doc. 2: The Looking Glass World Of ’Climate Injustice’
+In our wacky world where almost nothing makes sense
+anymore, there is no shortage of examples of politicians,
+let alone self-important academics, journalists, and
+wealthy elites, looking foolish with self-contradictory
+policy demands. ...
+Doc. 3: New Miss Universe Urges Action on Climate
+Change: Choice to Kill or Save Nature
+A new Miss Universe has been crowned and she is a
+climate alarmist. ...
+Table 1: Incoherent cluster removal. The cluster summary aligns with the 1st and the 2nd article, while the
+3
+rd article is off-topic compared to the other two.
+a multi-document summary using GPT-3.5. The
+prompts are engineered to generate short eventspecific summaries in a two-shot setting. The two
+closest documents to each centroid are used in the
+prompt to generate event summaries.
+Post summary generation, we perform a cluster
+inconsistency check. A cluster is deemed to be
+incoherent if the top-K closest documents to the
+centroid do not align with the summary embedding.
+We embed the event summaries using the same
+dense retriever model, and compute the cosine similarity score between the summary embedding and
+the top-K documents for the cluster (k = 5). Based
+on a threshold value, we treat the incoherent clusters as noise and discard them. Note that we only
+discard clusters but not documents associated with
+them. They are still used for cluster membership assignment in the next stage of our framework. Tab. 1
+Summary of Article 1 Summary of Article 2
+Event Title: President Biden’s Climate Plan Event Title: Biden’s Climate Change Actions
+Event Description: This is about President Joe Biden’s executive orders aimed at tackling climate change by reducing
+the U.S. carbon footprint and emissions, stopping oil and gas
+leases on public lands, and prioritizing climate change as a
+national security concern.
+Event Description: This is about President Joe Biden’s executive actions to combat climate change by prioritizing science
+and evidence-based policy across federal agencies, pausing
+oil drilling on public lands, and aiming to cut oil, gas, and
+coal emissions.
+Event Title: Texas Abortion Ban Event Title: Texas Abortion Law
+Event Description: This is about a new Texas law that bans
+abortions after 6 weeks and empowers regular citizens to bring
+civil lawsuits against anyone who aids a woman looking to
+terminate a pregnancy.
+Event Description: This is about the controversial Texas
+abortion law that bans abortions after six weeks and has been
+condemned by President Joe Biden as an unprecedented assault on women’s rights.
+Table 2: Illustrates two cases of cluster merge from issue Climate Change, and Abortion respectively.
+shows an example of the discarded cluster.
+We do an additional cleaning step by merging
+the clusters that share a similar event summary.
+We devise a simple greedy algorithm which utilizes GPT-3.5 for inference. In the first iteration
+of the algorithm, we start by constructing a set,
+S = {(s1, s2), · · · ,(sn−1, sn)}, that contains every pairwise combination of event summaries. For
+each element in S, we prompt LLM to infer if the
+pair of summaries are discussing about the same
+event. If the event summaries, say (s1, s2), are
+equivalent, then we merge these summaries, and
+update the set S by removing every element in the
+set that contains s1 or s2. In the second iteration,
+we construct a new set, S
+′
+, that holds every combination of updated event summaries, and repeat
+the previous step. We run the algorithm for two
+iterations or halt if there are no merges after the
+first iteration. Tab. 2 shows an example where the
+event summaries clearly indicate that the clusters
+need to merged. Details about the hyperparameter
+selections, and prompts are in Appendix C, B.
+2.2 Inference: Map Articles to Events
+In this stage of our framework, we decide the cluster membership using a similarity module. We embed the updated event summaries using the same
+encoder, and compute the cosine similarity score
+between the summary and the document of interest.
+By thresholding, we determine if the article can
+be mapped to an event. For cluster membership,
+we extend the temporal window by d days before
+and after the peak (d = 1), and consider all the
+documents published in that timeframe.
+3 Experiments and Results
+We conduct experiments on the NELA-dataset,
+which is a large collection of news articles (see Appendix A). Using our document retrieval module,
+we collect a total of 335k relevant news articles on
+11 contemporary issues2
+. The application of temporal filters reduces the article count to 90k, which
+is the basis for our analysis. The retrieved articles
+are mapped to a four-way {left, right, center, and
+conspiracy-pseudoscience} political rating. Details
+about the dataset, document retrieval module, and
+four-way political rating can found in Appendix A.
+Evaluation Metrics. We evaluate our framework’s ability to create coherent event clusters at
+the desired granularity with three automatic metrics
+inspired by Mimno et al. (2011). Given an event ei
+and the top-10 relevant entities V
+ei = {v
+ei
+l
+}l∈[1..10]
+to ei by TF-IDF, entity purity measures the percentage of the documents that mention at least one of
+the top-10 entities; coverage counts the percentage
+of documents accounted for in the cluster assignments. In addition, entity coherence considers cooccurrences of central entity pairs in the clustered
+documents to measure coherency for an event.
+C(ei
+, V ei
+) = X
+M
+m=2
+mX−1
+l=1
+log F(v
+ei m, v
+ei
+l
+) + ϵ
+F(v
+ei
+l
+)
+where F(v
+ei m, v
+ei
+l
+) indicates the co-occurrence frequency of two entities in documents. An entity
+coherence value closer to zero indicates a highly
+coherent news event cluster. We offer a more detailed explanation of the metrics in Appendix D.
+Baselines. We compare our method’s performance against various competitive topic model as
+baselines. We consider LDA (Blei et al., 2003;
+Hoffman et al., 2010) in two different settings -
+LDA, and LDA (Temporal). The topics are estimated individually at each temporal peak for LDA
+(Temporal), whereas the topics are estimated across
+2
+https://www.allsides.com/topics-issues
+Model Coverage ↓ Entity Purity ↑ Entity Coherence ↑ Event Count
+LDA (baseline) 99.69 31.52 -1008.42 60.0
+Temporal filtering - 28.15 -1061.60 18.7
+LDA (Temporal) 89.02 38.62 -1005.37 65.7
+HDBSCAN 81.78 62.55 -776.80 58.4
+BERTopic 84.04 66.00 -726.11 62.3
+Our Method 44.29 82.69 -477.89 55.5
+Our Method (iter 2) 56.83 77.49 -579.48 55.5
+Table 3: Evaluation results averaged for all issues. Last column shows the average of the total event count from each
+peak and for each issue. For LDA(Temporal), we assigned the document to its most probable topic if the probability
+was ≥ 0.5.
+all peaks at once for LDA. We include three additional baselines - Temporal Filtering, HDBSCAN,
+and BERTopic (Grootendorst, 2022). Note that
+BERTopic3
+is an off-the-shelf neural baseline for
+clustering documents. For methods other than ours,
+we do not incorporate a cluster membership module
+as we directly estimate the topics for all the documents in an extended temporal window of d days
+before and after the peak (d = 1). Preprocessing
+and hyperparameter details are in Appendix C.
+Results. Tab. 3 shows the aggregated results obtained for various methods across all the issues.
+For LDA (baseline), the events are estimated over a
+union of all the documents from every peak for an
+issue. We study the impact of event estimation with
+the temporal component by comparing LDA (baseline) and Temporal Filtering methods. We observe
+only a slight drop in average purity (−3 points)
+for the Temporal Filtering method. Further, Tab. 8
+shows that in case of Free Speech, Abortion, Immigration issues, the purity scores are higher than
+LDA (baseline), which validates our hypothesis
+that adding a temporal dimension to event identification can help form coherent events.
+4 Analysis and Discussion
+4.1 Coverage vs Purity Trade off
+We evaluate the trade-off between coverage and entity purity among the methods that take event temporality into account. We observe that LDA (Temporal) has a very high coverage with the least purity,
+which can be attributed to noise associated with
+the topic distributions. BERTopic improves over
+this method in both coverage, and purity measures
+across 11 issues. It even outperforms HDBSCAN
+in both the metrics. However, while BERTopic has
+increased coverage, it still fails to outperform our
+3
+https://maartengr.github.io/BERTopic
+method in terms of purity, and this can be primarily
+attributed to our inference mechanism that is based
+on generated event summaries.
+To address low coverage issue from our method,
+we propose to run our framework for the second
+iteration by updating event summary embedding
+with the mean value of top-10 most representative
+document embeddings in the cluster (from the first
+iteration). In doing so, average coverage increased
+by +12.5 points across all issues, with minimal
+decrease of < 5 points in purity. Tab. 6 shows the
+results for each issue after the second iteration.
+4.2 Impact of Merge/Remove Operations
+We investigate the impact of removing cluster inconsistencies over the generated candidate events.
+For this analysis, we compare HDBSCAN with
+the same hyperparameters and input data as our
+method. We observe that average of the inter-event
+cosine similarity score between event-pairs, and
+across all issues is lesser by 0.14 for our method.
+This indicates that our method achieves improved
+cluster separability after eliminating inconsistencies. Tab. 5 shows the report for each issue. Overall, the score is reduced, with one exception for the
+issue of Corruption. Manual inspection suggest
+that the increase can be due to removal of "good"
+clusters. An example is shown in Fig. 7.
+4.3 KEYEVENTS ⇒ More Event Coherence
+To better understand the advantages and disadvantages of our method, the authors manually annotate
+a small set of data samples for Climate Change.
+We test for event coherence, and mapping quality
+over this dataset. We define an event to be coherent
+if the top-K most representative documents of that
+event are in agreement with each other (k = 3).
+We also annotate to verify the validity of documentto-event assignments (mapping quality), where we
+check for agreement between the document and its
+Model Event Coherence ↑
+Mapping Quality
+(Precision) ↑
+HDBSCAN 84.90 62.27
+BERTopic 85.48 69.87
+Our Method 91.07 72.19
+Table 4: Human evaluation results of our method.
+respective event summary. The details about the
+experimental setup can be found in Appendix E.
+The test is conducted across all events for our
+method, HDBSCAN, and BERTopic. To measure coherence, we first identify the top-K documents for an event based on their cosine similarity
+scores with the event centroid. In addition, we estimate mapping quality by judging if document pairs
+should be clustered together or not.
+Results. The results of the human evaluation are
+shown in Tab. 4. Our method failed to generate
+coherent events for 5 out of the 56 cases for Climate Change, while BERTopic failed in 9 out of
+62 cases (ignoring 3 cases where the annotator provided a label of −1). HDBSCAN failed in 8 out
+of 53 cases. Overall, the event coherence scores
+from BERTopic and HDBSCAN closely trail our
+method by a margin of approximately −6 points,
+implying that the generated events from these methods are coherent. However, considering the event
+purity scores, we conclude that these two methods
+are more noisy. In terms of mapping quality, our
+method outperforms HDBSCAN by a large margin. The precision score from BERTopic is better
+than HDBSCAN, indicating the effectiveness of
+BERTopic in grouping ’good’ item pairs together
+over a small sample of randomly selected datapoints for the issue - Climate Change. More details
+in Appendix E.
+4.4 LLM Usage and Efficiency
+As temporal filtering results in an average of 55
+event clusters per issue, we observe that using LLM
+for event summarization and cluster-merging incurs
+reasonable cost, as we discuss in Limitations.
+5 Broader Impact
+Our method and the resulting KEYEVENTS dataset
+could be useful for analyzing political discourse
+across different ideologies. As a simple case study,
+we illustrate how the portrayal of events varies for
+different political ideologies. We take an entitybased approach (Rashkin et al., 2016; Field and
+Figure 2: Frequency of the entity Joe Manchin (y-axis:
+#entity mentions per article within each event) in Climate Change events (x-axis: event indices across time).
+Tsvetkov, 2019; Roy et al., 2021) and analyze mentions of Joe Manchin, a democratic senator and
+the chair of Senate Energy Committee, in Climate
+Change articles. Fig. 2 shows that left-leaning articles mention him significantly more than the other
+two ideologies in some of the events (e.g. the 5th
+,
+9
+th, and 14th). Analyzing these events’ articles
+show that left leaning articles criticize his ties to
+the coal industry and opposition to climate change
+legislation, while fewer (or no) mentions in articles
+with other ideology leanings under the same events.
+Different ideologies also persist different sentiments when mentioning the same entity. In Biden’s
+Executive Actions on Climate Change (16th event
+in Fig. 2), articles from different ideologies have
+comparable mention frequencies of Joe Manchin.
+We prompt GPT-3.5 to classify the sentiment expressed towards him (positive, neutral, negative).
+Interestingly, none of the articles from any ideology
+expresses a positive sentiment; 86% of the articles
+from the left endure a negative attitude towards
+him, whereas only 38% and 0% of the articles from
+the center and the right have negative sentiments.
+This distinction shows that even the same entities
+could be portrayed differently within each event to
+strengthen the beliefs along their political lines.
+6 Conclusion
+We present a framework for key events identification and showed that events generated from our
+approach were coherent through quantitative measures, and human evaluation. We also presented a
+simple qualitative study to showcase the potential
+of KEY EVENTS, for investigating various political
+perspectives under nuanced settings.
+Limitations
+As the temporal filtering step of our framework
+relies on the publicaiton date of documents as input, we work with the assumption that the documents have a timestamp attached to them. However, the main idea of event characterization using
+LLM, and associating the documents to their closest event summary is applicable to other cases with
+no changes.
+Our approach relies on GPT-3.5 for generating a multi-document event summary and clustermerging. We choose to use GPT-3.5 instead of the
+open-source counterparts mostly due to computational resource constraints. Since all GPT calls are
+made on the cluster-level, we are able to maintain
+the total experimental cost of the paper under $5
+with respect to the OpenAI API. To minimize the
+reliance and cost associated with LLM usage, we
+are using only pairs of documents with most similar
+vector representation to generate event summary.
+We opt for more an efficient approach here, and
+leave the exploration of efficiency vs. performance
+trade-off for future work.
+Acknowledgements
+We thank the anonymous reviewers of this paper
+for all of their vital feedback. The project was partially funded by NSF award IIS-2135573, and in
+part by the Office of the Director of National Intelligence (ODNI), Intelligence Advanced Research
+Projects Activity (IARPA), via 2022-22072200003.
+The views and conclusions contained herein are
+those of the authors and should not be interpreted
+as necessarily representing the official policies, either expressed or implied, of ODNI, IARPA, or
+the U.S. Government. The U.S. Government is
+authorized to reproduce and distribute reprints for
+governmental purposes notwithstanding any copyright annotation therein.
+Ethics Statement
+To the best of our knowledge, we did not violate any
+ethical code while conducting the research work
+described in this paper. We report the technical
+details needed for reproducing the results and will
+release the code and data collected. We make it
+clear that the KEY EVENTS dataset is the result
+of an automated algorithm not human annotation
+(though human evaluation was used in assessing its
+performance over a subset of the data).

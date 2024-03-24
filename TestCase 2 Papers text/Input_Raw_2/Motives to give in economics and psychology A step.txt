@@ -1,0 +1,668 @@
+ABSTRACT
+Parallel literatures in economics and psychology investigate why people voluntarily help others in
+need. Economics has investigated an other-regarding motive (altruism) and a self-regarding
+motive (warm-glow) and has used choice-based observations for inference. Psychology has
+
+similarly examined other- and self-regarding motives and has developed survey-based measure-
+ments to assess corresponding measures of empathic concern and a moral principle of care. This
+
+paper explores whether and how elicitation of charitable motives from economics relate to
+
+measurements from psychology. We find that when making donations to others in need, in-
+dividuals with stronger empathic concern dispositions are more altruistic/other-regarding. Also,
+
+those who more strongly endorse a moral principle of care are more motivated by warm-glow/
+
+self-regard. The results connect two literatures, offer novel evidence from economics about the-
+ories developed in psychology, and demonstrate that well-developed survey questions from
+
+psychology can be predictive of the choice-based inference on altruistic and warm-glow moti-
+vations from economics.
+
+1. Introduction
+
+Parallel literatures in economics and psychology investigate why people voluntarily help others in need. The literature in eco-
+nomics has investigated an other-regarding motive (altruism; Becker, 1974) and a self-regarding motive (warm-glow; Andreoni, 1989;
+
+1990) and has used choice-based observations to infer both (Ottoni-Wilhelm et al., 2017). The literature in psychology similarly has
+investigated other- and self-regarding motives (Hoffman, 1975; Batson et al., 1978) and has developed survey-based measurements to
+assess both (Davis, 1994; Bekkers and Ottoni-Wilhelm, 2016). It is not known, however, whether and how the motives elicited in the
+two literatures relate to one another.
+This paper provides the first evidence that, when making donations to others in need, elicitation of motives from economics
+(altruism and warm-glow) are related to measurements from psychology (empathic concern and the principle of care). First, we find
+
+that individuals who self-report stronger empathic concern dispositions are more altruistically motivated (more focused on an other-
+regarding motive). Second, individuals who more strongly endorse a moral principle of care are found to be more warm-glow
+
+motivated (more focused on a self-regarding motive).
+* Corresponding author.
+E-mail address: vester@pitt.edu (L. Vesterlund).
+
+Contents lists available at ScienceDirect
+
+Journal of Economic Behavior and Organization
+
+journal homepage: www.elsevier.com/locate/jebo
+
+https://doi.org/10.1016/j.jebo.2023.09.018
+Received 21 February 2021; Received in revised form 9 September 2023; Accepted 14 September 2023
+
+Journal of Economic Behavior and Organization 216 (2023) 354–365
+
+355
+
+The results are significant for three reasons. First, they suggest a direct connection between motives as understood in the two
+literatures. This connection implies that progress in one field can be used to advance research in the other, and it can improve our
+ability to communicate with each other to build interdisciplinary collaborations to investigate prosocial behavior. Nobel Laureate
+Elinor Ostrom’s observation is relevant: the way economists and psychologists talk about motives is very different and we should seek
+to understand how the definitions are related.1 The connection between the two ways of talking about motives also helps reduce the
+considered motives to a set of primitives in the spirit of Fudenberg (2006), and can help limit the proliferation of models as discussed
+by Chapman et al. (2020).
+2
+
+Second, the results offer novel evidence from economics about theories developed in psychology, specifically the empathy–altruism
+hypothesis (e.g., Batson, 2011) and principlism (Batson, 1994; Hoffman, 2000). Third, the results suggest an approach to an important
+practical problem, namely that scientific knowledge about altruistic and warm-glow motivations is rarely applied when designing
+fundraising campaigns (Vesterlund, 2017).3 In part this is because there has not been a feasible, low-cost way to find out whether a
+donor to a charitable organization is motivated by mostly altruism, mostly warm-glow, or a combination of the two. Our finding that
+survey questions developed in psychology can predict choice-based inference of altruistic and warm-glow motives suggests a solution
+to that problem and can help charities tailor their solicitation efforts to the motives of their donors.
+2. Background
+The economics literature has investigated the extent to which giving to others in need results from two motives: an other-regarding
+motive (altruism) and a self-regarding motive (warm-glow). Throughout the paper we use these terms, altruism and warm-glow, as
+they are defined in economics. In economics, giving motivated by altruism is defined to be the result of a donor’s objective to increase
+the recipient’s well-being or the charity’s output, e.g., an objective to increase aid received by children in need (Becker, 1974). An
+altruistically-motivated donor benefits from the charity’s increased output even when their objective (the charity’s increased output) is
+accomplished by the giving done by other donors. Hence, economists model giving motivated by altruism as voluntary contributions to
+a public good.
+Giving motivated by warm-glow, in contrast, is defined in economics to be the result of a donor’s objective to increase a benefit from
+the act of giving that is private to themselves. According to this definition the warm-glow benefit is enjoyed exclusively by the donor
+(Andreoni, 1989; 1990). That private benefit motive could be to increase one’s own satisfaction, pride or status that comes from having
+been the one who made the donation, and/or it could be the donor’s private benefit motive to alleviate their feelings of personal
+
+distress or guilt that may be experienced when seeing another person in need (Ottoni-Wilhelm, 2017). Hence, as defined by econo-
+mists, warm-glow is any self-regarding, private benefit motive. A donor motivated only by warm-glow does not benefit from, nor
+
+respond to, increases in charity output from the giving done by other donors. Accordingly, economists model warm-glow giving as
+acquiring a private good whose magnitude equals the amount of the gift (Andreoni, 1989; 1990).4
+In economics, inference about altruism and warm-glow motives is based solely on the donation choices an individual makes. There
+are no self-reported survey measurements involved. Instead, inference about (identification of) the two motives is obtained by
+examining how much an individual’s actual donations change in response to changes in giving by others (Ottoni-Wilhelm et al., 2017).
+The psychology literature has investigated empathic concern and moral principles as important motivators of help given to others
+in need (e.g., Batson and Coke, 1981; Davis, 1994; Dovidio et al., 2006; Eisenberg, 1986; Schwartz, 2010). Empathic concern is a
+sympathetic, compassionate emotional reaction to another’s need (Davis, 1994). There is extensive evidence of an association between
+
+empathic concern and prosocial behavior, including giving to others in need (e.g., Davis, 1983a,b; Eisenberg and Miller, 1987). In-
+dividual differences in the tendency to react with empathic concern have been elicited through self-reports to survey questions. Our
+
+paper uses the common empathic concern scale developed by Davis, which is a sub-scale of the Inter-personal Reactivity Index (IRI;
+Davis, 1994).
+Moral principles of care are internalized values that one should help a person in need. Theory suggests that such principles motivate
+prosocial behavior (Oliner and Oliner, 1988; Hoffman, 2000; Batson, 1994). The principle of care scale measures individual differences
+in the endorsement of this principle and is associated with a wide-range of prosocial behaviors, including giving (Wilhelm and
+1 Remarks made at the meeting of the working group on Testing Theoretical Models of Individual Behavior in Dynamic Social Dilemmas, Florida
+State University, 2008. 2 Fudenberg (2006, p. 689) notes, “[B]efore behavioral theory can be integrated into mainstream economics, the many assumptions that underlie
+its various models should eventually be reduced to the implications of a smaller set of more primitive assumptions.” 3 For example, how well matching donations or lotteries work as fundraising tools depend upon the relative strengths of altruism and warm-glow
+motivations (Vesterlund, 2017; Hungerman & Ottoni-Wilhelm, 2021). 4 To be clear: it is a donor whose only motive is warm-glow who would not respond to increases in charity output made by others. In contrast,
+economists think both altruism and warm-glow can motivate giving at the same time. Andreoni’s (1989, 1990) seminal contribution included
+developing the mathematical structure to analyze this kind of dual–motive, altruism plus warm-glow model. Also see Ribar and Wilhelm (2002)
+Ottoni-Wilhelm et al. (2017).
+M. Ottoni-Wilhelm and L. Vesterlund
+
+Journal of Economic Behavior and Organization 216 (2023) 354–365
+
+356
+
+Bekkers, 2010; Bekkers and Ottoni-Wilhelm, 2016).5
+The purpose of the present study is to examine whether choice-based inferences from economics about altruism and warm-glow,
+correlate with survey-based measures from psychology of empathic concern and moral principles of care. Research in economics finds
+greater giving by individuals who have strong altruistic motives, strong warm-glow motives, or both (Ottoni-Wilhelm et al., 2017).
+Research in psychology finds greater giving by individuals who have greater empathic concern and/or stronger principles of care
+(Davis, 1983b; Eisenberg and Miller, 1987; Bekkers and Ottoni-Wilhelm, 2016). What is not clear is whether altruism and warm-glow
+motives investigated by economists are related to the psychological constructs of empathic concern and principle of care.
+For example, psychologists think that empathy causes giving, but they disagree on the mechanism through which empathy works.
+On the one hand, Batson (2011) argues that the mechanism is that empathic concern increases the salience to us of the other person’s
+
+well-being: the empathy–altruism hypothesis. That would suggest a relationship between empathic concern as measured by psy-
+chologists and altruism as inferred by economists. On the other hand, Cialdini and co-authors argue that empathy increases the
+
+salience of a self-regarding motive to reduce one’s own negative feelings.6 That would suggest (because giving to reduce one’s own
+negative feelings is a private benefit) a relationship between empathic concern as measured by psychologists and warm-glow as
+inferred by economists.7,8
+A similar situation surrounds the principle of care. Batson (1994, 2010) presents both sides of the argument. It could be that
+stronger endorsement of the principle of care is a “special feeling for another individual . . . then [the principle of] care would seem to
+be a form of altruism” (Batson, 1994). Or it could be that acting in accordance with one’s principles is “only an instrumental goal
+pursued as a means to reach the social and self-rewards associated with being—or appearing—moral” (Batson, 2010); hence in the
+language of economists, a private benefit (warm-glow motive). Batson (1994) concluded: “To date, I do not think anyone knows
+whether principlism is a distinct motivation or only a subtle and sophisticated form of egoism [self-regarding motive]” (square
+brackets are our addition).
+We will be able to shed light on these questions by determining how altruism and warm-glow motives investigated by economists
+relate to empathic concern and principle of care. We focus on empathic concern and the principle of care for reasons drawn from the
+above discussion of the psychology literature. First, theory predicts, and extensive evidence demonstrates, that empathic concern is
+associated with prosocial behavior. Second, a central theory—the empathy–altruism hypothesis—predicts that empathic concern is
+associated with altruistic motivation (to do prosocial behaviors). Third, theory predicts, and evidence demonstrates, that the principle
+of care is associated with prosocial behavior. And there is a robustness reason: the empirical empathic concern–prosocial behavior
+association often is very much weaker when the principle of care is included in the analysis (Wilhelm and Bekkers, 2010; Bekkers and
+Ottoni-Wilhelm, 2016). Therefore, in an investigation of empathic concern, for robustness it is important to include the principle of
+care.
+While our main investigation centers on empathic concern and the principle of care, for robustness we will also examine the
+potential impact of two other concepts commonly studied in the psychology literature: perspective taking and personal distress.
+Perspective taking has been used to intensify empathic concern (Batson, 2011), and personal distress captures the potential private
+benefit of reducing one’s own negative feelings (Piliavin et al., 1982). The IRI discussed above includes sub-scales for perspective
+taking and personal distress (Davis, 1994).9
+3. Methods
+3.1. Experimental design
+We use donation-decision data from the individualized-charity crowd-out experiment described in Ottoni-Wilhelm, Vesterlund,
+
+5 Research in economics has recently begun to explore the concept of moral universalism (Enke et al., 2020; 2021) defined as “the extent to which
+people exhibit the same level of altruism and trust towards strangers as towards in-group members”. While the concept seems closely related to the
+moral principle of care (the “principle of care embodies universalism—care is to be extended to all people in need, both in-group and out-group
+members”; Bekkers & Ottoni-Wilhelm, 2016), we are not aware of research that relates the two. It will be of interest to explore this connection
+
+in future work. 6 Three types of negative feelings have been considered: sadness (the negative-state relief hypothesis; Cialdini et al., 1987); guilt (the empathy-
+specific punishment hypothesis; Schaller and Cialdini, 1988); personal distress (the aversive-arousal reduction hypothesis; Piliavin, Dovidio,
+
+Gaertner, and Clark, 1982). 7 Whether empathy causes giving as a result of altruism or warm-glow also has been discussed in the economics literature. For instance, Konow
+(2010) argues that warm-glow, though not altruism, is emotionally-based. Andreoni and Rao (2011) argue that their results—getting dictators to put
+themselves in the position of the recipients increases the generosity of the dictators—are consistent with either empathy evoking warm-glow
+
+motives (e.g., making it harder to avoid feeling guilt), or with empathy evoking altruism (p. 519). Andreoni et al. (2017) interpret their evi-
+dence of people avoiding Salvation Army bell-ringers who make eye-contact and verbally ask for a donation as attempting to regulate their empathy
+
+which, left unregulated, would lead them to donate or suffer increased guilt, i.e., a private motive. An alternative explanation of their result is that
+people seek to avoid social pressure (a different kind of private benefit); Spurlino (2022) finds evidence favoring a social pressure explanation. 8 As a first study exploring connections between motives to give as presented in the economics and psychology literatures, we are endeavoring to
+keep simple our discussion of the psychology literature about the variety of self-regarding motives; see Ottoni-Wilhelm (2017) for a more detailed
+discussion of altruism and private benefit/egoism/warm-glow motives to give as presented in economics and psychology. 9 The definitions of “empathic concern” and “personal distress” we use are in line with Batson (2009) and Singer and Klimecki (2014).
+M. Ottoni-Wilhelm and L. Vesterlund
+
+Journal of Economic Behavior and Organization 216 (2023) 354–365
+
+357
+
+and Xie (2017) to structurally estimate individual-specific altruism and warm-glow preference parameters. The design is a within-
+subject lab experiment where undergraduates at the University of Pittsburgh are matched with a (future) child whose family has
+
+just suffered the loss of their home in a fire. Participants are asked to make six donation decisions to buy books for a child (with one
+decision being implemented). The books are distributed by the American Red Cross of Southwestern Pennsylvania. Participants are
+informed that Red Cross trauma recovery experts will use the books to build a bridge to connect with the child to get them talking about
+the situation they experienced. For each decision participants are given a budget and must decide how much to give to the child. Each
+budget specifies the income the participant has, and the amount of money a research foundation already has given toward books for the
+child. The participant’s income varies between $40 and $46, and how much a research foundation exogenously has contributed to the
+Red Cross to buy books for the very same child varies between $4, $10, $28, and $34. Any amount donated by the participant will be
+added to the funds donated by the research foundation to the child they are matched with. The six budgets each participant faced are:
+
+($4, $46), ($10, $40), ($4, $40), ($28, $46), ($34, $40), and ($28, $40). For each individual, the response to variation in the foun-
+dation’s exogenous gift and the participant’s endowed income is used to infer the individual-specific altruism and warm-glow pref-
+erence parameters.10
+
+There were N = 85 participants across six sessions. The experiment was double-blind and we selected at random in each session one
+participant to monitor the experiment. After all participants in a session made their six decisions, one decision was selected randomly
+
+for payout. Participants received their incomes ($40 or $46) minus how much they chose to give for the child’s books, plus a $5 show-
+up fee. Funds donated to the child were used to purchase books and were packaged in individual bags and given to the affected child by
+
+the Red Cross at the scene of the fire.
+While the participants waited for the experimenters to calculate each participant’s payment, and how much to send to the Red
+Cross, they completed a post-decision survey. The first questions were the 21 items from the IRI (Davis, 1994). Of primary interest was
+the seven-item subscale measuring dispositional empathic concern: sample items are “I often have tender, concerned feelings for
+people less fortunate than me” and “I don’t feel very sorry for other people when they are having problems” (reverse-coded). Responses
+to the items (1-to-5 Likert scale from “Does describe me very well” to “Does not describe me very well”) are averaged to measure
+empathic concern. The remaining IRI items form two additional sub-scales: perspective taking (sample item: “I sometimes try to
+understand my friends better by imagining how things look from their perspective”) and personal distress (“In emergency situations, I
+feel apprehensive and ill-at-ease”). As with the measure of empathic concern, both the perspective taking and person distress sub-scales
+are dispositional measures.
+Next were eight items that measure endorsement of a moral principle to help those in need (Bekkers and Ottoni-Wilhelm, 2016).
+Sample items are “People should be willing to help others who are less fortunate” and “These days people need to look after themselves
+and not overly worry about others” (reverse-coded). The principle of care captures normative thinking, whereas empathic concern
+captures feelings, toward those in need. Keeping that difference in mind, the two constructs are otherwise similar, as the sample items
+make clear. Following these dispositional measures were questions about demographics and religion. The complete survey is available
+in Appendix A.
+3.2. Inferring choice-based motives
+To infer choice-based motives from economics, for each participant i we use variation in i’s decisions about how much to give to the
+child across the six budgets they faced: b1 = ($4, $46), b2 = ($10, $40), b3 = ($4, $40), b4 = ($28, $46), b5 = ($34, $40), and b6 = ($28,
+$40). For example, in budget b1 the participant knew the research foundation would give $4 for books for the child and that they (the
+participant) had $46 income. Our notation to describe budget b1 is (G-i,b=1, wi,b=1) where G-i,b=1 = $4 is the foundation’s donation
+toward the child’s books (and does not include the amount donated by participant i) and wi,b=1 = $46 is participant i’s income. Faced
+with this budget, participant i chooses how much to give to the child (gi,b=1) and how much to keep for themselves (xi,b=1). The total
+amount donated toward books for the child is G-i,b=1 + gi,b=1, which we denote Gb=1. And i’s giving plus amount kept for themselves
+equals their income: gi,b=1 + xi,b=1 = wi,b=1.
+All together each participant i faced six budgets (G-i,b, wi,b), b = 1, 2, . . ., 6, and made six decisions (gi,b, xi,b), which produced six
+total amounts donated toward books for the child (Gb). Recall that the participant knew that one of these six decisions would be
+randomly selected and implemented. To infer each participant i’s choice-based motives we use these data (G-i,b, wi,b, gi,b, xi,b; b = 1, 2, . .
+., 6) to estimate i’s altruism (αi) and warm-glow (βi) preference parameters in a dual–motive, impure altruism model (Andreoni, 1989;
+1990). Specifically, for each participant i we estimate αi and βi in the Cobb-Douglas utility function:
+U
+(
+xi,b, Gb, gi,b
+)
+= αiln(Gb) + βiln(
+gi,b
+)
++ (1 − αi − βi)ln(
+xi,b
+)
+, b = 1, 2, ⋯, 6 (1)
+The first term in (1), αi ln(Gb), models participant i’s utility from the total amount donated toward books for the child, intended to
+improve the child’s well-being; therefore, αi captures participant i’s altruistic motivation. The second term, βi ln(gi,b), models
+participant i’s utility from the amount they themselves give, regardless of the total amount donated toward books for the child. Because
+
+the second term models utility i gets from giving, but not from the child’s receiving, βi captures participant i’s private benefit warm-
+glow motivation.
+
+10 The altruism and warm-glow parameters are respectively αi and βi in equation (1) below. The complete set of experiment instructions is in on-
+line Appendix A.
+
+M. Ottoni-Wilhelm and L. Vesterlund
+
+Journal of Economic Behavior and Organization 216 (2023) 354–365
+
+358
+
+The utility function (1) and the budget constraint gi,b + xi,b = wi,b lead to a first-order condition that when solved for gi, b yields:
+gi,b = 1
+2
+[
+(1 − βi)G− i,b + (αi + βi)Zi,b + {[(1 − βi)G− i,b + (αi + βi)Zi,b
+
+]2 − 4αiG− i,bZi,b
+}1/2
+]
+− G− i,b + vi,b (2)
+where Zi,b ≡ Wi,b + G− i,b is social income (the sum of exogenously provided funds for participant i and the child in the social situation
+established by budget b), and vib is random error. Eq. (2) is a regression of participant i’s choice gi,b on the exogenous variables G-i,b and
+Zi,b, with αi and βi as the coefficients to be estimated. We use nonlinear Tobit to handle the nonlinearity in αi and βi, as well as the fact
+that choices of gi,b are constrained by the budgets to be between $0 and $40 (b = 2, 3, 5, 6) or $46 (b = 1, 4). Eq. (2) is estimated
+separately for each participant, yielding inference of αi and βi, again separately for each individual i.
+11
+
+From the individual-specific measures of αi and βi we form an altruism index:
+τi ≡ αi
+αi + βi
+
+(3)
+
+τi is a structural counterpart to Andreoni’s (1990) “altruism coefficient” used to rank the altruism of individuals.12 The αi +βi de-
+nominator of (3) is a measure of i’s generosity; it captures, roughly speaking, the share of an individual’s income that is donated. Hence
+
+the interpretation of τi is that it measures the strength of i’s altruism, holding i’s generosity constant.
+Note the difference between the level of generosity and the motives causing that generosity. Consider an individual who is very
+generous—by which we mean they donate a large share of their income: αi + βi is large. That large level of donation could be consistent
+with strong altruistic motivation (that is τi ≈ 1), but it also could be consistent with very little altruistic motivation; that is, their large
+generosity may instead be mostly due to warm-glow (τi ≈ 0). Now consider an individual who is not very generous: αi +βi small. That
+small level of donation could be consistent with strong altruistic motivation (that is τi ≈ 1), but it also could be consistent with mostly
+warm-glow, and very little altruistic, motivation (τi ≈ 0).
+With the altruism index measuring the share of individual i’s generosity due to altruism, the rest is due to warm-glow: hence, γi ≡ 1
+− τi is an index of the strength of i’s warm-glow, holding i’s donation, and thus generosity, constant.
+3.3. Estimating the association between choice-based motives and survey measures of psychological dispositions
+Because τi ∈ [0, 1] we estimate the association between the choice-based altruism index τi and the survey-based psychological
+measures using Bernoulli quasi-maximum likelihood fractional logit (Wooldridge, 2010). The mean of τi conditional on the measures xi
+is assumed to be:
+E[ τi | xi] = exp(xi θ)
+
+1 + exp(xi θ) (4)
+where xi is a row vector of the psychological measures (and any other independent variables included in the analysis): xi = (empathic
+concerni, principle of carei, . . .) and θ is the corresponding column vector of coefficients to be estimated. The logit right-hand-side of
+(4) ensures that predicted τi conditional on xi will lie between 0 and 1.
+The coefficients θ are estimated by maximizing the Bernoulli quasi-maximum likelihood function:
+maxθ
+∑N
+i=1
+{(1 − τi)ln[1 − E[τi|xi]] + τiln[E[τi|xi]]} (5)
+where N is the number of participants in the experiment. The estimates ̂θ from (5) reveal the direction and statistical significance of the
+association between the independent variables in xi and the altruism coefficient τi, but not the average partial effect. The average
+partial effect is the partial derivative of E[τi | xi] in (4) with respect to each independent variable (evaluated at the estimates ̂θ). Using
+empathic concern to illustrate:
+∂ E[τi | xi]
+∂ EC = exp(xi ̂θ)
+[1 + exp(xi ̂θ)]2 ̂θEC (6)
+where ̂θEC is the estimate on empathic concern from (5). Because the warm-glow index γi ≡ 1 − τi, the average partial effect on γ of the
+11 Recall from Section 2 that according to the economics definition, giving motivated by warm-glow captures a wide set of private benefit motives
+only enjoyed by the individual making the gift, such as self-satisfaction, pride, status, and/or the alleviation of negative feelings. A reviewer suggests
+some people could get a general satisfaction just from giving books to another person regardless of the recipient’s situation; that private benefit to
+the donor would be another type of warm-glow. Also notice that the choice-based inference of altruism and warm-glow (i.e., estimation of αi and βi
+using (2)) hinges entirely on a participant’s donation decisions gi,b; inference of altruism and warm-glow is not based in any way on responses to
+survey questions. 12 Andreoni’s (1990) altruism coefficient is a ratio of income effects that, under the fairly weak conditions described in Ribar and Wilhelm (2002),
+converges to i’s own income effect as the exogenous giving by others to the public good increases.
+M. Ottoni-Wilhelm and L. Vesterlund
+
+Journal of Economic Behavior and Organization 216 (2023) 354–365
+
+359
+
+independent variables is just the negative of (6). Note that because the conditional mean function (4) is nonlinear in xi, the average
+partial effects on τi in (6), and likewise on γi, are nonlinear in xi.
+3.4. Theoretical predictions of the associations between choice-based motives and survey measures of dispositions
+Section 2 described the different theoretical hypotheses put forward in the psychology literature about the relationship between
+empathic concern (and the principle of care) and altruism (and private benefit/egoism/warm-glow). Table 1 summarizes the Section 2
+discussion by presenting the predictions from the different theoretical hypotheses for the partial derivatives of the choice-based
+altruism and warm-glow indices with respect to the psychological measures of dispositions.
+Looking first at empathic concern, we see the prediction from the empathy–altruism hypothesis (Batson, 2011) in column 1 row 1.
+
+Recall, the hypothesis is that empathic concern increases the salience of the other person’s well-being. Therefore, the empathy-
+–altruism hypothesis predicts a positive association between empathic concern and the altruism index τ. The alternative hypothesis put
+
+forward by Cialdini and co-authors (Cialdini et al., 1987; Schaller and Cialdini, 1988) that empathic concern increases the salience of a
+self-regarding motive to reduce one’s own negative feelings is in column 2 row 2. This “empathic concern–private benefit/warm-glow
+hypothesis” predicts a positive association between empathic concern and the warm-glow index.
+Turning to the principle of care, recall from Section 2 that Batson developed two hypotheses. One is that the principle may be a form
+of altruism (Batson, 1994); this would predict a positive association between the principle of care and the altruism index (column 1 row
+3). The alternative hypothesis is that the principle of care is a “subtle . . . form of egoism” (Batson, 2010); this would predict a positive
+association between the principle of care and the warm-glow index (column 2 row 4).
+4. Results
+Fig. 1 shows first for the choice-inferred motives from economics the histogram of the economics altruism index, τi. Among the
+participants in the experiment, 37 were pure altruists (αi > 0, βi = 0; τi = 1), 32 were impure altruists (αi > 0, βi > 0; 0 < τi < 1), and
+nine were pure warm-glow (αi = 0, βi > 0; τi = 0). For seven participants αi and βi could not be inferred.13 Table 2 presents descriptive
+statistics. The average (median) τi is 0.79 (0.97). The average (median) for the 41 who were not pure altruists is 0.60 (0.85). The degree
+of altruistic motivation in the donation setting examined in our experiment was strong, as is apparent from Fig. 1.
+Looking next at the survey-based measurements from psychology, we form a single-factor scale from the seven empathic concern items
+and find average empathic concern of 3.83 (SD = 0.71), and Cronbach’s α = 0.84.14 For the scale built from the eight principle of care
+items (also a single-factor solution) the average is 4.02 (SD = 0.55) and Cronbach’s α = 0.82. The correlation between the empathic
+concern and the principle of care is substantial: r = 0.66 (not shown in the table). Perspective taking (seven items) and personal distress
+(seven items) each form single-factor scales with Cronbach’s αs = 0.79 and 0.78, respectively. Each of the four dispositional scales have
+descriptive statistics similar to previous measurements (e.g., Batson et al., 1986; Bekkers and Ottoni-Wilhelm, 2016), and are internally
+reliable. We standardize each scale for use in the models below to explore the extent to which measures from psychology are predictive
+of the altruism index from economics.
+Table 3 presents our main specifications – predictive models of the altruism index τi. The reported coefficients are point estimates
+from fractional logit specifications (̂θ from (5)). Column 1 indicates that the altruism index, τi, is positively associated with empathic
+concern (B = 1.11, SE = 0.37, p = .003). In sharp contrast, the association of τi with the principle of care is negative (B = − .89, SE =
+0.37, p = .016), implying a positive association of the warm-glow index γi with the principle of care. Column 1 indicates that stronger
+
+empathic concern is associated with altruistic motivation, and stronger endorsement of the principle of care is associated with warm-
+glow motivation.
+
+Fig. 2 shows the marginal effects based on the column 1 model; the slopes in the figure are average partial effects, as in (6). The
+empathic concern–altruism relationship is in blue; the principle of care–warm-glow relationship is in red. The results indicate that a
+one standard deviation increase in empathic concern around its mean level (− 0.5 to +0.5) is associated with a 0.17 higher altruism
+index, about one-half of a standard deviation in τi. A one standard deviation increase in the principle of care around the mean level is
+associated with a 0.13 higher warm-glow index, 37 percent of a γi standard deviation.15
+Column 2 adds the perspective taking and personal distress dispositions to the model, and shows that neither are associated with
+13 Six of these participants always made corner choices: one gave $0 in each of their six decisions, and five gave their entire endowment in each
+decision. We can say that the one participant was minimally generous, and the five were maximally generous, in this experimental environment, but
+we cannot say what motivated the generosity of the latter five. A seventh “almost maximally” generous participant gave their entire endowment in
+four decisions and almost their entire endowment in two decisions; Tobit estimation of (1) did not converge for this participant. 14 That the seven items coalesce onto a single factor indicates that the seven items are consistent with each other, and therefore are measuring a
+single underlying construct. Cronbach’s α then measures the correlation among the seven items. As long as the items form a single factor, it is
+reasonable to use Cronbach’s α to assess the items’ internal reliability; see Cortina (1993) and Streiner (2003).
+15 We examined the sensitivity of these results using an altruism index redefined to be αi/
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+α2
+i + β2
+i
+√
+(hence the denominator is a “distance-based”,
+
+rather than linear, measurement of generosity); the results are nearly identical.
+M. Ottoni-Wilhelm and L. Vesterlund
+
+Journal of Economic Behavior and Organization 216 (2023) 354–365
+
+360
+
+Table 1
+Theoretical predictions from the psychology literature of the associations between choice-based motives and survey
+measures of dispositions.
+
+Altruism index (τ) Warm-glow index (γ)
+
+Psychological dispositions (1) (2)
+Empathic concern ∂ E[τ | x]/ ∂ EC ∂ E[γ | x]/ ∂ EC
+1. Batson (2011) þ 0c
+2. Cialdini and co-authorsa 0b þ
+Principle of care ∂ E[τ | x]/ ∂ PoC ∂ E[γ | x]/ ∂ PoC
+3. Batson (1994) þ 0d
+4. Batson (2010) 0d þ
+Notes: Column 1 rows 1 and 2 present predictions from the psychology literature about how empathic concern is
+associated with altruistic motivation. Row 1 is the empathy–altruism hypothesis (Batson, 2011) that predicts a positive
+association between empathic concern and the altruism index τ. Row 2 is the alternative put forward by Cialdini and
+co-authors that increased empathic concern does not evoke altruistic motivation (hence the “0′′ in column 1 row 2).
+Instead, Cialdini and co-authors propose that increased empathic concern evokes a motivation to reduce one’s own
+negative-feelings; hence the prediction is a positive association between empathic concern and the warm-glow index γ
+as indicated in column 2 row 2.b,c.
+Column 1 rows 3 and 4 present predictions from the psychology literature about how the principle of care is associated
+with altruistic motivation. Row 3 is Batson’s (1994) hypothesis that principlism is a form of altruism; hence the
+prediction is a positive association between the principle of care and the altruism index τ (column 1 row 3). Column 2
+row 4 is Batson’s (2010) hypothesis that principlism may be a “subtle form of egoism”; hence the prediction is a
+positive association between the principle of care and the warm-glow index γ (column 2 row 4).d
+. a Cialdini et al. (1987); Schaller and Cialdini (1988). b The “0′′ in column 1 row 2 is Cialdini and co-authors’ predicted association between empathic concern and
+
+altruistic motivation as they presented it in the psychology literature. Because the choice-based altruism and warm-
+glow indices from economics are mechanically and negatively related (γ ≡ 1 − τ), Cialdini and co-authors’ prediction
+
+that empathic concern is positively associated with the warm-glow index ∂ E[γ | x]/ ∂ EC > 0 (column 2 row 2) implies
+for the altruism index ∂ E[τ | x]/ ∂ EC < 0. c Similar to the point just made in note b: the “0′′ in column 2 row 1 is Batson’s (2011) predicted association between
+empathic concern and private benefit/egoism/warm-glow motivation as he presented it in the psychology literature.
+Because of the negative relationship between the choice-based indices from economics (γ ≡ 1 − τ), Batson’s prediction
+that empathic concern is positively associated with the altruism index ∂ E[τ | x]/ ∂ EC > 0 (column 1 row 1) implies for
+the warm-glow index ∂ E[γ | x]/ ∂ EC < 0. d Similar to the points made in notes b and c: the “0′′ is Batson’s predicted association as presented in his article, but
+the mechanical γ ≡ 1 − τ relationship implies a negative sign for the choice-based index.
+
+Fig. 1. Histogram of the altruism index, τi. Notes: N = 9 pure warm-glow. N = 32 impure altruists. N = 37 pure altruists.
+M. Ottoni-Wilhelm and L. Vesterlund
+
+Journal of Economic Behavior and Organization 216 (2023) 354–365
+
+361
+
+Table 2
+Descriptive statistics.
+
+Mean Median Standard deviation Cronbach’s α
+
+Altruism index (τi)
+All participants (N = 78) 0.79 0.97 0.35 –
+Not pure altruists (N = 41) 0.60 0.85 0.40 –
+Empathic concern 3.83 3.86 0.71 0.84
+Principle of care 4.02 4.13 0.55 0.82
+Perspective taking 3.58 3.57 0.70 0.79
+Personal distress 2.51 2.43 0.65 0.78
+Notes: The sample size for the altruism index is N = 78. For the dispositions N = 85.
+Table 3
+Altruism index (τi) as a function of dispositions: fractional logit estimates.
+
+Empathic concern and Principle of care Add Perspective taking and Personal distress Add religiosity and demographics
+(1) (2) (3)
+
+Empathic concern 1.11*** (0.37) [0.00] 1.14*** (0.40) [0.01] 1.63*** (0.63) [0.01]
+Principle of care − 0.89** (0.37) [0.02] − 0.92** (0.35) [0.02] − 1.23** (0.63) [0.05]
+Perspective taking – 0.00 (0.27) [0.99] − 0.27 (0.37) [0.47]
+Personal distress – − 0.10 (0.30) [0.73] 0.32 (0.36) [0.39]
+Number of independent
+variables
+
+2 4 27
+Pseudo log-likelihood − 33.35 − 33.29 − 20.84
+N 78 78 75
+Notes: Standard errors in parentheses; p-values in square brackets. In column (3) estimates for sex, age, birth order, urban/rural, major, religiosity/
+spirituality, denominational identity (Catholic, etc.), and past experience with house fires are not shown, but available in Appendix B.
+*** p ≤ 0.01, ** p ≤ 0.05, * p ≤ 0.10.
+
+Fig. 2. Altruism index (τi) as a function of empathic concern, and warm-glow index (γi) as a function of the principle of care: Marginal effects. Notes:
+Shaded areas are 95 percent confidence intervals.
+M. Ottoni-Wilhelm and L. Vesterlund
+
+Journal of Economic Behavior and Organization 216 (2023) 354–365
+
+362
+
+the altruism index: the estimated coefficients are both economically and statistically insignificant (p-values = 0.99 and 0.73,
+respectively).16 Adding perspective taking and personal distress slightly increases the estimates on empathic concern and the principle
+of care. Column 3 adds the religiosity and demographic variables. The empathic concern and principle of care estimates are much
+larger, but caution is in order as the model is likely over-fitted. The primary takeaway from the column 3 model is that controlling for
+demographics and religiosity does not diminish the empathic concern–altruism and principle of care–warm-glow associations.17,18
+Table 4 examines the altruism and warm-glow preference parameters themselves, as well as overall donation generosity αi + βi.
+Column 1 presents fractional logit estimates of the economics altruism parameter (αi) as a function of psychology measures of empathic
+concern, principle of care, perspective taking, and personal distress (the demographics and religiosity are not used as independent
+variables). The association of αi with empathic concern is positive (B = 0.53, p = .002). The association with the principle of care is
+negative, but not statistically significant (B = − .25, p = .118). In column 2 the dependent variable is the economics warm-glow
+preference parameter (βi), which is negatively associated with empathic concern (B = − .93, p = .026) and positively associated
+with the principle of care (B = 0.83, p = .020).19 The associations of αi with perspective taking and personal distress are close to zero
+and not statistically significant; same with βi and the generosity results to be discussed next.
+Altruism and warm-glow preference parameters αi and βi each mix measurement of motivation with measurement of generosity.
+Columns 3–5 are models of overall generosity as measured by αi + βi, hence a measurement of generosity, regardless of motivation.
+Column 3 shows that empathic concern, on its own, is positively associated with generosity; the estimate suggests that a one standard
+deviation increase of empathic concern around its mean is associated with a one-quarter of a standard deviation increase in generosity.
+Column 4 shows a similar result for principle of care, albeit the magnitude is a little smaller: an increase of one-fifth of a standard
+deviation increase in generosity. The column 5 specification includes both dispositions and indicates positive associations, but the
+coefficients are smaller and not statistically significant. However, this is because empathic concern and the principle of care are
+strongly correlated with each other: a test of the joint hypothesis that both coefficients are zero is on the margin of significance at 10
+percent (p = .11), and becomes significant (p = .052) if perspective taking and personal distress (neither of which are predictive of
+generosity) are not included in the model.20
+5. Discussion and conclusion
+We explore the relationship between altruism and warm-glow motives for giving to those in need (as defined in the economics
+literature) and empathic concern and principle of care motivations (from the psychology literature). Using incentivized charitable
+giving decisions in a lab experiment, we use choice-based inference from economics to estimate the extent to which an individual’s
+
+generosity is motivated by altruism and warm-glow. Using survey measures from the psychology literature we infer individual dis-
+positions for empathic concern and moral principal of care. Intriguingly we find close relationships between the two measures. The
+
+share of generosity due to altruistic motivation is associated with empathic concern (Table 1 column 1 row 1), and the share due to
+warm-glow motivation is associated with endorsement of a moral principle to care for people in need (Table 1 column 2 row 4).
+As a first study to explore the connection between what is seen as motivating giving in the economics and psychology literatures, we
+demonstrate that motivations for prosocial behavior as understood in the two literatures are connected. This connection suggests that
+advances in one discipline can be used to advance the other. One possible example for future research is using the experimental design
+from economics that measures altruism and warm-glow preference parameters to investigate questions about emotions, cognition, and
+prosocial behavior typically studied in psychology. A second example is using knowledge from psychology about self-regarding
+
+16 A model with only perspective taking and personal distress as the independent variables (no empathic concern; no principle of care) also in-
+dicates perspective taking and personal distress are both economically and statistically insignificant (B = .12, p = .617 and B = .05, p = .839,
+
+respectively).
+17 Coefficient estimates for the religiosity and demographic variables are available in Appendix B. If only the religiosity, spirituality, and
+denominational identity variables are added, the empathic concern and the principle of care estimates get slightly stronger. If only the demographic
+variables are added the estimates get much larger (B = 1.50 and − 1.23, respectively). Among these independent variables there are a few whose
+association with the altruism index is significantly positive: age (recall 90 percent of the participants were 18-20 years old), religion being “not very”
+
+important, spirituality being “not very” important, and growing up in urban or rural areas (compared to suburban). The implication is that warm-
+glow motivation is associated with young age, religion (spirituality) being either important or “not at all” important, and growing up in suburban
+
+areas.
+18 Appendix C investigates the goodness-of-fit of empathic concern and the principle of care in predicting the altruism index. The main results are:
+(i) perspective taking and personal distress do not enhance the model’s predictive capability; and (ii) the predictive capability of empathic concern
+and the principle of care is roughly similar to that of the religiosity and demographic variables, despite religiosity and demographics being measured
+with many more independent variables. 19 One might think that, because αi and βi are first measured/estimated for each individual and second regressed on empathic concerni and
+principle of carei, that for the standard errors in columns 1 and 2 to be consistent, they need to be adjusted for the two steps or estimated all in one
+step. Adjustment/one-step estimation is not necessary for consistent standard errors, however, because αi and βi (and τi) are dependent variables,
+not generated regressors. That said, one-step estimation to get a “representative-agent” version of α and β is possible, and the results are qualitatively
+similar; see Appendix B. 20 The results in columns (3) and (5) indicate that principle of care mediates 25 percent of the empathy-generosity relationship. This is in line with
+the results of Bekkers and Ottoni-Wilhelm (2016). Their focus was on explaining the aggregate level of giving, while the focus here is on altruistic
+and warm-glow motives for giving as defined in the economics literature.
+M. Ottoni-Wilhelm and L. Vesterlund
+
+Journal of Economic Behavior and Organization 216 (2023) 354–365
+
+363
+
+motivations for prosocial behavior (e.g., guilt, sadness) to investigate how these motivations are related to warm-glow motivated
+charitable giving as measured in economics.
+The results also provide novel evidence about whether empathic concern is related to other- or self-regarding motives. The evidence
+from the psychology literature supporting a hypothesis that empathy is related to an other-regarding motive to help someone in need
+has been comprehensively reviewed by Batson (2011).
+
+21 The supporting evidence, however, has faced two criticisms: residuum and
+sequential testing (Cialdini, 1991). The residuum criticism is that the experimental design used in psychology to test whether empathic
+concern is other-regarding does not directly measure other-regarding motives; other-regarding motives are unmeasured residuals. The
+sequential testing criticism is that the experimental design used in psychology (to build support for the hypothesis that empathy is
+related to other-regarding motives) is to rule out one specific self-regarding alternative explanation at a time. For example, one
+experiment is designed to rule out that empathy is related to self-regarding guilt (e.g., Batson et al., 1988), and another experiment is
+designed to rule out that empathy is related to self-regarding sadness (e.g., Batson et al., 1981), etc. This leaves the nagging possibility
+that, in any one psychology experiment, self-regarding alternative explanations not under experimental control (in that specific
+experiment) may explain the results (instead of the results being evidence that empathy is related to unmeasured other-regarding
+
+motives).22 The present evidence that empathic concern is associated with altruistic motivation as measured in the economics liter-
+ature addresses both criticisms. Other-regarding motives are directly measured by the altruism preference parameter, addressing the
+
+residuum criticism. And all self-regarding motivations are measured by the warm-glow parameter, addressing the sequential testing
+criticism.
+In addition, the results may provide important insights regarding principlism—engaging in prosocial behavior because of a
+
+motivation to uphold a moral principle. Theory does not indicate whether principlism is a conduit through which one values the well-
+being of another person (hence, other-regarding) or a “subtle and sophisticated form of egoism” in which the behavior is motivated by
+
+the desire to uphold the principle (Batson, 1994, 2010). Our finding that the principle of care is associated with warm-glow suggests
+that principlism is a self-regarding motivation. To our knowledge, this is the first evidence shedding light on whether principlism is a
+self- or other-regarding motive.
+Finally, the results suggest an approach to designing campaigns that use motivated fundraising. Charities already use relationship
+building to understand the underlying motivations of donors one-on-one or in small groups (Breeze and Lloyd, 2013), but this
+obviously cannot be done in a campaign intended to reach thousands of potential donors. However, the present results suggest that a
+few survey questions measuring empathic concern and the principle of care may help determine which donors should be engaged with
+an appeal based on altruism (e.g., emphasizing the benefits to the recipient, what the donor’s contribution will do, the public good
+Table 4
+Altruism and warm-glow preference parameters (αi and βi), and the αi + βi measure of generosity, as functions of empathic concern and the principle
+of care.
+
+Altruism parameter (αi) Warm-glow parameter
+
+(βi)
+
+Generosity: αi + βi
+
+(1) (2) (3) (4) (5)
+
+Empathic concern 0.53*** (0.17) [0.00] − 0.93** (0.42) [0.03] 0.20** (0.10) [0.05] – 0.15 (0.14) [0.28]a
+Principle of care − 0.25 (0.16) [0.12] 0.83** (0.36) [0.02] – 0.16* (0.09) [0.09] 0.08 (0.13) [0.56]a
+Perspective taking − 0.03 (0.12) [0.81] − 0.01 (0.27) [0.98] − 0.01 (0.09) [0.84] 0.01 (0.08) [0.89] − 0.02 (0.09) [0.81]
+Personal distress − 0.05 (0.11) [0.66] − 0.05 (0.26) [0.84] − 0.09 (0.07) [0.19] − 0.07 (0.07) [0.32] − 0.09 (0.07) [0.22]
+Pseudo log-likelihood − 38.64 − 22.04 − 36.91 − 36.97 − 36.88
+Pseudo-R2 b 0.03 0.08 0.01 0.01 0.01
+“R2
+” c 0.12 0.15 0.07 0.06 0.07
+Mean-square error 0.06 0.04 0.03 0.03 0.03
+Root mean-square
+error
+
+0.24 0.20 0.18 0.18 0.18
+Notes: The estimates are from fractional logit models. The sample size is N = 78. *** p ≤ 0.01, ** p ≤ 0.05, * p ≤ 0.10. a A test of the joint significance of empathic concern and the principle of care has p = .11. b Pseudo-R2 = 1 – (L m/L 0) where L m is the model pseudo log-likelihood and L 0 is the pseudo log-likelihood from a model with only a constant
+term.
+c “R2
+” = the squared correlation coefficient between the dependent variable and its prediction from the model.
+
+21 Batson, Darley, and Coke (1978) originated this hypothesis, which came to be known in the psychology literature as the empathy–altruism
+hypothesis. In this literature the definition of “altruism” is a motive that has “the ultimate goal of increasing another’s welfare” (Batson, 2011);
+economists will note the similarity of this definition to Becker’s (1974). As the next footnote explains, a central criticism in the psychology literature
+about the evidence that has been presented to support the empathy–altruism hypothesis is the evidence has not been based on a direct measure of
+altruism/other-regarding motivation. 22 Cialdini (1991) succinctly summarizes the criticisms of the extant evidence in the psychology literature used to support the hypothesis that
+empathy is related to an other-regarding motive to help: “what we have is evidence of a helping residuum that, presumably, is altruistically
+mediated because when we partial out (one at a time) the explanatory power of each of the major egoistic [warm-glow] alternatives, helping
+remains elevated. . . . the weakness of this approach is that the empathy–altruism hypothesis is supported indirectly, by default. This is of special
+concern given the one-at-a-time pattern of assault on egoistic alternatives”; words in square brackets added by us. See Ottoni-Wilhelm (2017) for
+details about the experimental design used in psychology.
+M. Ottoni-Wilhelm and L. Vesterlund
+
+Journal of Economic Behavior and Organization 216 (2023) 354–365
+
+364
+
+aspect of the charity’s work, etc.), and which donors should be engaged with a warm-glow appeal of some kind (e.g., emphasizing the
+recognition you get from giving, encouragement to uphold a moral principle of care – “doing one’s bit”).23 Further such knowledge will
+be critical when considering appeals that involve say lotteries or matches, both tools that are effective for altruistically inclined donors
+but not for those motivated by warm-glow.
+Limitations of the present results are first that, although the measurement of altruism and warm-glow is based on causal evidence
+about how the participants’ donations respond to exogenous changes in net need, the evidence linking empathic concern and altruism,
+and the principle of care and warm-glow, is correlational. However, while this is a problem for researchers, it is less so for practitioners
+who want to predict the motives for giving and use that information to tailor campaigns to what motivates their donor base to give.
+Information on which of their donors are altruistically-motivated, and which are warm-glow-motivated is critical for selecting the most
+effective solicitation strategies.
+Second, as the first study to explore the connection between the two literatures, there is plenty of additional work to be done to
+
+demonstrate that the connection not only exists, but also that it generalizes to other environments. Our study documents the con-
+nections between the economics and psychology measures of motivations in a particular environment, when undergraduates in a lab
+
+setting give books to children who have lost a home. It will be of interest for future work to determine whether these relationships hold
+more generally, such as with different charities and different potential donors. While these changes are likely to change the level of
+donations (generosity), it is much less clear that they will change the measures that are corelated with one another. We see no reason
+why the correlations between altruism and empathic concern, and between warm-glow and moral principles of care, should not extend
+to a broader set of charities helping those in need, nor do we anticipate that the correlation will depend on donor demographics. This is
+not to say that giving or preferences for giving do not vary by individual characteristics; we know that they do. Rather it is to say that
+we do not anticipate that these changes will alter the set of measurements that are correlated. Similarly, while changes to the donation
+environment, e.g., increasing social distance or making the request more abstract, are likely to change the amount donated, the level of
+empathic concern,24 and the inferred motive for those donations, it is much less clear that these changes will eliminate the correlation
+between empathic concern and altruism, and between moral principle of care and warm-glow. That is, changes in the donation setting
+are likely to moderate the quantitative relationships, but we do not expect them to change the qualitative relationships.
+Although the magnitudes of the empathic concern–altruism and principle of care–warm-glow correlations may vary across types of
+charities, we think a next step in this research would be for charities, perhaps humanitarian charities at first, to collect survey data
+measuring empathic concern and the principle of care from representative samples of their donor bases, and use donors’ self-reported
+
+responses to tailor heterogeneous altruistic or warm-glow messages for their donor-specific fundraising appeals—“motivated fund-
+raising.” The present paper provides an evidentiary basis on which to begin build interdisciplinary communication to advance this
+
+research: communication between economists and psychologists about altruism and empathic concern, and about warm-low and the
+principle of care.

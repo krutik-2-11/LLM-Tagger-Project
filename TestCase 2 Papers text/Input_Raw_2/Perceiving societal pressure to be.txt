@@ -1,0 +1,684 @@
+Happiness is a valuable experience, and societies want their citizens to be happy. Although this
+societal commitment seems laudable, overly emphasizing positivity (versus negativity) may create an unattainable emotion norm that ironically compromises individual well-being. In this multi-national
+study (40 countries; 7443 participants), we investigate how societal pressure to be happy and not sad
+predicts emotional, cognitive and clinical indicators of well-being around the world, and examine how
+these relations difer as a function of countries’ national happiness levels (collected from the World
+Happiness Report). Although detrimental well-being associations manifest for an average country,
+the strength of these relations varies across countries. People’s felt societal pressure to be happy and
+not sad is particularly linked to poor well-being in countries with a higher World Happiness Index.
+Although the cross-sectional nature of our work prohibits causal conclusions, our fndings highlight
+the correlational link between social emotion valuation and individual well-being, and suggest that
+high national happiness levels may have downsides for some.
+
+Humans value happiness. Around the world, individuals share a similar aspiration to lead a satisfying and happy
+life1
+, yet there is also an emerging recognition that this personal quest in itself may have well-being consequences.
+Placing a premium on the value of positive emotion is known to paradoxically undermine our well-being, not
+only as a function of how we value happiness ourselves2–4
+
+, but also as a function of how the society we live in
+
+emphasizes the importance of being happy5–7
+.
+
+Preliminary work suggests that the deleterious efects of pursuing happiness may vary across nations8,9
+. Here,
+we aim to provide a robust cross-national test of this (predictive) efect, investigating whether the experienced
+social value placed on happiness ironically relates to poorer well-being across a large sample of nations. We
+also examine a previously unexplored source of variance between countries, their global levels of self-reported
+happiness, assessed with an established metric for societal well-being, the World Happiness Index (WHI10).
+By examining the link between social valuation of emotion and well-being across the globe, we aim to provide
+further insight into the important link between culture and individual emotional functioning11,12.
+The societal pressure to be happy and subjective well‐being
+Happiness or in scientifc terms, high subjective well-being13 is advantageous and desired, not in the least because
+it signals accomplishment and optimal functioning14. For individuals, high subjective well-being is associated
+with personal thriving in various life domains (e.g., work, social relations, physical health15–17). But also, for
+nations more broadly, social indicators research consistently illustrates that happy inhabitants indicate societal
+fourishing on economic, social, and political fronts18. Together, these favorable outcomes explain people’s natural
+tendency to value happiness, both for themselves and their fellow man.
+Although this social engagement with happiness appears admirable, recent research also highlights the risks
+of overly promoting positive emotion, which can result in a felt social pressure to be happy19–23. Today, the
+message that happiness is an important life goal is expressed at many diferent levels in modern societies, and
+
+social-emotion research shows that people readily internalize these salient emotion standards24–26. On a macro-
+level, for example, the prominence of happiness is evidenced explicitly by the numerous happiness coaches,
+
+campaigns and self-help books that provide us with tips and tricks to cultivate the most positive mindset27, but
+also more implicitly, by the seemingly perfect lives of infuencers on social media28, and the ubiquity of smiling
+faces and happiness allusions in prime-time commercials and magazines29,30. On a micro-level, people may feel
+pressured by their friends, family or colleagues to present themselves in an overly positive way, because these
+close social contacts directly or indirectly encourage them to feel happy31,32. At last, this subjective experience
+may even exist in the absence of concrete, objective antecedents33. Regardless of the specifc mechanism, this
+one-sided social emphasis on happiness also risks simultaneously cultivating the perception that there is little
+room for negativity9
+
+. Indeed, in many modern societies or social groups, the natural experience of negative
+
+emotion is easily stigmatized34, regarded as maladaptive for our mental well-being35, and as something trou-
+blesome that instantly needs cure36,37. Also in this case, social others may shape the internal expectation that
+
+negativity is undesired24,25. Nevertheless, occasional feelings of stress, sadness or anxiety are an inevitable reality
+for every human being, making it virtually impossible to constantly comply with the apparent stringent norm
+to be happy5
+. Because this unattainable standard readily reveals discrepancies between our actual emotional life
+and the emotions society apparently approves of, the perceived failure to meet social expectations is known to
+trigger negative meta-emotions, pessimistic self-attitudes and ruminative responding7,20,38,39, with the resulting
+ironic aggravation of these undesired emotional states40,41.
+Eventually, the chronic failure to adhere to these unrealistic emotion standards may compromise people’s
+well-being, as demonstrated by a large body of correlational and experimental research with various indicators
+
+of subjective well-being13. Emotionally, the experimental induction to value happiness (e.g., via happiness-
+extolling mock articles or verbal communication) paradoxically elicits blunted positive emotional responding to
+
+enjoyable events3
+
+, increased rumination over negative emotion7
+
+, and stronger feelings of loneliness22. On the fip
+side, experiencing societal pressure to avoid negativity (e.g., induced via mock articles that emphasize the social
+cost of negative emotion) instigates increased negative emotion (both in terms of intensity and duration9
+) and
+
+equally triggers loneliness19. Cognitively, the societal valuation of positive emotions (and the perceived devalu-
+ation of negative ones) relates to lower life satisfaction judgments for people who occasionally feel negative9,21.
+
+Finally, in the clinical realm, excessively valuing positivity has been linked to more depressive symptoms in both
+adolescent23 and adult samples42, and compared to healthy controls, depressed patients hold stronger beliefs
+that they should feel more positive and less negative43. Within individuals, perceiving social pressure not to feel
+negative paradoxically predicts increases in depressive symptomatology over time5
+.
+
+3
+Vol.:(0123456789)
+
+Scientifc Reports | (2022) 12:1514 | https://doi.org/10.1038/s41598-021-04262-z
+www.nature.com/scientificreports/
+
+An important question that currently remains unanswered is to what extent the detrimental link between
+the felt social pressure to be happy and individual well-being is universal versus culture-specifc11,12. Te vast
+majority of cited studies are typically confned to single-nation (Western) samples (e.g., 5,19,20). In the few cases
+where cultural variation is central to their investigation, researchers mainly relied on a small sample of diferent
+geographical regions (e.g., United States, Germany, Russia, East Asia8
+
+) or their study was limited to diferent
+nationalities living in the same country (e.g., Australian and East Asian students living in Australia9
+). Terefore,
+a comprehensive and cross-national evaluation of the tendency to place a social premium on happiness and
+the associated well-being problems with doing so, together with the examination of potential country-level
+moderators, is a crucial next step in understanding the link between social emotion valuation and individual
+adaptive functioning21.
+Country‐level happiness: The World Happiness Index
+
+Although there are many avenues through which the social value placed on happiness may be inadvertently com-
+municated and reinforced, it is possible that the happiness seen in other members of society may aggravate the
+
+ironic and negative (predictive) well-being efects of the felt social pressure to achieve personal happiness44–46.
+Signs of human happiness can manifest in a multitude of ways47, and are not limited to the explicit expression of
+overt joyful behavior alone (e.g., smiling facial expressions, positive verbal communication, etc.). Happiness is
+also evident in other more subtle, implicit overt cues (e.g., having more social contact, engaging in pleasurable
+activities, etc.), and fnally also includes truly covert experiences of joy and related behaviors (e.g., feeling happy,
+providing a high happiness rating in a well-being survey, etc.).
+If the happiness that is displayed by other citizens adds to the personal pressure to be happy or amplifes its
+(predictive) well-being efects, then national levels of self-reported happiness within a given society could pick
+
+up on this process. One of the most prominent and established barometers to evaluate national levels of self-
+reported happiness is the WHI, an annual metric published by the Sustainable Development Solution Network
+
+commissioned by the United Nations10. Based on the subjective happiness ratings of a large-scale and nationally
+representative sample (collected by the Gallup World Poll48), this initiative aims to present a global ranking of
+the most happy and unhappy nations in the world.
+At its core, the WHI is thought to summarize how happy the average person within a country typically feels10.
+However, it is equally possible that in countries in which citizens report higher levels of happiness, people, on
+average, also experience more social pressure to be happy and not sad, because social norms prescribing the
+
+value of happiness are elevated within these countries. If this hypothesis is correct, we should expect a meaning-
+ful country-level relation between the average perceived social pressure to be happy within a country and its
+
+national WHI score.
+Second, the possibility exists that in countries with higher national happiness levels, people’s own personal
+failure to (at times) live up to society’s prescribed standard to be happy may be accentuated by other people’s
+actual happiness. Based on an integration of the previously cited body of socio-cultural6–8
+
+and (meta-)emo-
+tional38–43 research, it is possible that, for some individuals, the happiness seen in others may set up a forced
+
+social comparison context44–46 in which discrepancies between one’s own emotional life and society’s perceived
+expectations are more painfully apparent, because others seemingly comply with the prevailing standard to be
+happy with little trouble. In this regard, social network research shows that happiness is distributed unequally
+within societies49,50, and this imbalance in happiness could create the detrimental basis for social comparison
+in a population. Indeed, for people who regularly experience negative emotion, being confronted with happy
+people inevitably highlights the fact that their feelings are out of step with the emotional lives of others46, and this
+self-other incongruity could aggravate the negative (predictive) well-being efects of the felt social pressure to
+strive for happiness7,20,45. If this rationale is correct, we should expect that the negative relation between people’s
+perceived social pressure to pursue happiness and their well-being is ironically stronger in high WHI countries.
+The current study
+To determine how the perceived social pressure to pursue happiness relates to people’s subjective well-being
+around the world, we conducted a large-scale cross-national study (40 countries; 7,443 participants). In a frst
+step, we examined whether the detrimental well-being associations of this felt pressure replicated across a wide
+array of countries. We surveyed for both participants’ perceived social pressure to be happy51, as well as not to
+be depressed or anxious20. Regarding their subjective well-being, we acknowledged the multi-componential
+structure of this construct13,52. In line with established conventions on how to survey subjective well-being53, we
+
+considered both emotional (i.e., the frequency and intensity of positive [PA] and negative afect [NA]), cogni-
+tive (i.e., life satisfaction) and clinical indicators (i.e., depressive, anxiety-, and stress-related symptomatology).
+
+In a second step, we examined the role of nations’ global happiness levels as a potential source of between-
+country variance explaining the negative well-being associations of the felt social pressure to feel positive and
+
+not negative. To this end, we obtained a global WHI score for each participating country from the World Hap-
+piness Report10. Tis score is based on the average life evaluation of a nationally representative sample48, using
+
+the Cantril Ladder54. Respondents are asked to evaluate the quality of their current life on a 11-rung ladder that
+ranges from worst possible life (zero) to best possible life (ten). Consequently, the WHI is more an indication of
+
+the average life satisfaction displayed by the inhabitants of a particular country, rather than their global subjec-
+tive well-being10.
+
+First, we explored whether higher national WHI scores are associated with stronger felt social pressure to be
+happy and not anxious or depressed. Second, we examined the moderating role of countries’ WHI score on the
+relation between this felt social pressure and people’s well-being. We hypothesized that the perceived societal
+pressure to feel happy and not anxious or depressed ironically shows stronger detrimental relations with people’s
+
+4
+
+Vol:.(1234567890)
+Scientifc Reports | (2022) 12:1514 | https://doi.org/10.1038/s41598-021-04262-z
+www.nature.com/scientificreports/
+
+subjective well-being in high WHI nations. In these happy contexts, the painful observation that other people
+are (seemingly) emotionally able to live up to society’s expectations when you yourself are unable to do so,
+likely makes personal deviations from the desired emotion standard more salient24,44. In this sense, the negative
+(predictive) well-being efects of the felt social pressure to strive for happiness (and avoid sadness) are likely to
+be reinforced in high WHI countries.
+
+To evaluate how the perceived societal pressure to feel (a) positive and (b) not negative is linked to poor sub-
+jective well-being, we performed two (separate) series of multilevel models (participants nested within countries)
+
+with the diferent subjective well-being indicators as outcomes of interest. Although previous work established a
+causal and unidirectional efect of experiencing pressure to be happy and not sad on subjective well-being (e.g.,
+7,9
+
+), we acknowledge that our selection of outcomes and predictors in the current cross-sectional multilevel con-
+text is somewhat arbitrary, and that we are ultimately restricted to correlational claims (but see SI 6, where we
+
+show that this arbitrary decision does not impact our conclusions). For each model, we examined the random
+efect distributions of these types of pressure in the prediction of well-being to see if detrimental links manifest
+
+globally or whether nation-specifc relations appear. Next, to explore the role of countries’ WHI score, we exam-
+ined its country-level relation with the average felt social pressure within a country, and evaluated its cross-level
+
+interaction with people’s felt social pressure to see whether national happiness levels moderated the within-
+country relations with well-being (see Methods for more detailed information about our statistical analyses).
+
+Results
+
+Descriptive statistics. Before answering the research questions central to this investigation, diferent ele-
+ments in Table 1 deserve special consideration. First, within nations, the interrelation between the social pres-
+sure to feel positive and not negative is moderately positive (r=0.54, p<0.001). Tis suggests a common factor
+
+in the perceived social pressure to pursue positivity and to avoid negativity, but also underscores the unique-
+ness of both constructs. Second, in line with previous research2–6,9,19,21,23, both types of social pressure show the
+
+expected pattern of associations with all well-being indicators. Feeling social pressure to be happy and not sad is
+associated with reduced life satisfaction, experiencing less frequent and intense positive, but more frequent and
+intense negative emotions, and more symptoms of depression, anxiety and stress (|r|s≥0.05, ps≤0.050). Finally,
+between countries, national WHI scores are only signifcantly related to countries’ average life satisfaction levels
+(r=0.37, p=0.017); but not with emotional or clinical markers of well-being. Tis confrms the convergent (and
+
+discriminant) validity of this country-level metric, because the WHI only assesses countries’ average life satisfac-
+tion and not global subjective well-being.
+
+Universal versus nation‐specifc subjective well‐being efects. Te fxed efects in Table 2 indicate
+how the perceived social pressure to be happy and not anxious or depressed (separately) relate to all subjective
+
+well-being markers for the average country in our sample. Tese results are fully in line with the average within-
+nation correlations in Table 1. Within the average country, the social pressure to be happy and not sad is linked
+
+to lower life satisfaction judgements (βs≤−0.05, ps≤0.024). Emotionally, experiencing these types of social pres-
+sure relate to less frequent and intense positive, but more frequent and intense negative emotions (|β|s≥0.09,
+
+Table 1. Summary statistics and correlations among all measures. ICC=Intra-class correlation, ratio of
+between-country variance to total variance. Within- and between-country multilevel internal consistencies
+(α) were calculated following79. Correlations below the diagonal represent the average within-country
+correlation between people’s personal scores, correlations above the diagonal represent the between-country
+correlations between country means (i.e., national scores). WHI=World Happiness Index; PA=Positive Afect;
+NA=Negative Afect; SEHS=Social Expectancies to be Happy Scale; SEDAS=Social Expectancies not to feel
+Depressed or Anxious Scale; *p≤.05, **p≤.01, ***p≤.001.
+
+Variables
+
+Descriptive statistics Correlations
+Mean (SD) ICC α within α between 1 2 3 4 5 6 7 8 9 10 WHI
+
+Cognitive subjective well-being
+1. Life satisfaction 4.30 (1.29) .06 .80 .89 .19 − .05 .33 * .04 − .12 − .10 .16 .04 .30 .37 *
+Emotional subjective well-being
+2. PA Frequency 5.60 (1.54) .03 .74 .83 .47 *** − .35 * .85 *** − .51 *** − .37 * − .09 − .42 ** − .05 − .27 − .21
+3. NA Frequency 4.74 (1.85) .08 .75 .92 − .38 *** − .43 *** − .29 .93 *** .64 *** .58 *** .64 *** .54*** .44 ** .23
+4. PA Intensity 5.60 (1.66) .03 .77 .83 .39 *** .76 *** − .35 *** − .32 * − .40 * − .14 − .35 * .05 − .02 − .21
+5. NA intensity 4.80 (1.96) .06 .77 .89 − .34 *** − .41 *** .82 *** − .22 *** .57 *** .49 ** .63 *** .48** .48 ** .29
+Clinical subjective well-being
+6. Depression 1.75 (0.65) .12 .83 .95 − .44 *** − .48 *** .63 *** − .39 *** .58 *** .90*** .88 *** .22 .26 .06
+7. Anxiety 1.69 (0.60) .11 .78 .95 − .23 *** − .33 *** .55 *** − .25 *** .52 *** .63 *** .79 *** .32 * .21 − .06
+8. Stress 2.00 (0.61) .12 .80 .95 − .25 *** − .40 *** .61 *** − .31 *** .58 *** .65 *** .70 *** .23 .41 ** .23
+Perceived emotion norm
+9. SEHS 6.01 (1.34) .11 .75 .94 − .05 * − .10 *** .27 *** − .08 ** .24 *** .21 *** .22 *** .24 *** .63 *** .23
+10. SEDAS 5.56 (1.18) .11 .72 .95 − .21 *** − .23 *** .31 *** − .18 *** .29 *** .27 *** .23 *** .26 *** .54 *** .26
+
+5
+Vol.:(0123456789)
+
+Scientifc Reports | (2022) 12:1514 | https://doi.org/10.1038/s41598-021-04262-z
+www.nature.com/scientificreports/
+
+ps≤0.003, R%s=100%). Finally, in the clinical realm, feeling pressured to be happy and not sad predicts stronger
+symptoms of depression, anxiety and general distress (βs≥0.09, ps<0.001). Te (predictive) well-being efects of
+the felt social pressure not to feel negative are typically stronger than to feel positive.
+
+However, when examining the variability in random efects, we observe considerable between-country hetero-
+geneity for some well-being indicators. Tis points towards a potential moderating impact of critical nation-level
+
+variables that exacerbate or alleviate the debilitating link between the felt social pressure to be happy and not
+sad and personal well-being. In particular, country-specifc patterns appear for positive markers of subjective
+well-being (i.e., life satisfaction, PA frequency and intensity). For these indicators, the average negative relation
+with both types of social pressure signifcantly switches sign in 3 to 13 of the countries in our sample (and is
+non-signifcant in 10 to 28 countries). In contrast, for negative markers of subjective well-being (i.e., clinical
+symptoms, NA frequency and intensity), the average positive association with these types of pressure only
+turns negative in maximum 1 country (and is non-signifcant in 4 to 8 countries), suggesting a more universal
+detrimental association.
+The moderating role of national happiness levels. To explain this between-country variability in
+
+(predictive) well-being efects, we examine the role of nations’ global levels of self-reported happiness on the per-
+ceived social pressure to be happy and not sad in two ways. First, inspecting the correlations above the diagonal
+
+in Table 1, national WHI scores are not signifcantly related to the average felt societal pressure within a country
+(rs≤0.23, ps≥0.112). Tus, contrary to what we predicted, the perceived societal norms that prescribe people to
+feel happy and not anxious or depressed are not particularly elevated in countries with a high WHI score.
+Second, however, when exploring the moderating impact of national happiness levels, we observe how the
+within-country association between almost all subjective well-being indicators and the felt societal pressure to be
+happy and not sad changes as a function of a country’s WHI score (see Fig. 1). For the perceived social pressure
+to be happy, signifcant cross-level interactions with nations’ WHI score indicate that these efects are stronger
+
+in countries that report higher levels of national happiness. In line with our hypothesis, perceiving social pres-
+sure to be happy is linked to poorer subjective well-being in high WHI countries, both emotionally (|β|s≥0.07,
+
+ps≤0.016, R%s≤87%), cognitively (β=−0.08, p=0.003) and clinically (βs≥0.03, ps≤0.006).
+Indeed, as can be seen from Panel A in Fig. 2, comparing the countries in our sample with a lower (− 1 SD)
+versus higher (+ 1 SD) WHI score, the link between people’s perceived social pressure to be happy and their
+
+subjective well-being is substantially stronger in the latter. In terms of absolute magnitude diferences, the abso-
+lute explanatory efect of the perceived social pressure to be happy in people’s well-being is almost always small
+
+to non-existent in low WHI nations (|β|s≤0.08; except for the prediction of the frequency and intensity of NA
+feelings). In contrast, in high WHI nations, the absolute predictive efect of this pressure ranges from 0.12 to
+0.44. In terms of relative magnitude, the (absolute) diference in predictive efects between low and high WHI
+countries is the smallest for the clinical indicators (diference in |β|s≤0.06), and the largest for the emotional
+indicators of psychological well-being (diference in |β|s≥0.12).
+Finally, the graphical visualization of these signifcant cross-level interactions in Fig. 3 (Panel A) further
+
+unfolds the moderating impact of national WHI scores. Independent of WHI status, the perceived social pres-
+sure to be happy predicts poorer subjective well-being in all indicators. However, in high WHI countries this
+
+prediction is always stronger, generally producing larger diferences in well-being in happier nations between
+people who experience little versus a great deal of social pressure to be happy.
+Table 2. Exploring the universality of the detrimental well-being efects of the perceived social pressure to be
+happy and not to be depressed or anxious. Each fxed efect represents the observed relation for the average
+country in our sample. Te standard deviation of the random efects distribution describes the observed
+variability around that average association. For each well-being variable, we report the number of signifcant
+positive, signifcant negative and null-associations across countries (n=40 for the perceived social pressure to
+be happy; n=39 for the perceived social pressure not to be depressed or anxious, due to an irreversible coding
+error for Poland). Both types of pressure were within-country centered. Te number of associations that mirror
+the fxed efect are bolded. PA=Positive Afect; NA=Negative Afect; *p≤.05, **p≤.01, ***p≤.001.
+Perceived social pressure to be happy Perceived social pressure not to be depressed or anxious
+Fixed efect SD random efects # Positive # Negative # Null Fixed efect SD random efects # Positive # Negative # Null
+
+Cognitive subjective well-being
+Life satisfaction − 0.05* 0.11 5 10 25 − 0.23*** 0.10 5 24 10
+Emotional subjective well-being
+PA Frequency − 0.11*** 0.14 4 14 22 − 0.27*** 0.15 13 18 8
+NA Frequency 0.36*** 0.09 36 0 4 0.46*** 0.08 35 0 4
+PA Intensity − 0.09** 0.13 3 10 27 − 0.24*** 0.13 3 28 8
+NA intensity 0.36*** 0.10 32 0 8 0.46*** 0.09 34 0 5
+Clinical subjective well-being
+Depression 0.10*** 0.05 32 0 8 0.14*** 0.04 33 0 6
+Anxiety 0.09*** 0.03 33 1 6 0.11*** 0.03 31 0 8
+Stress 0.10*** 0.04 34 0 6 0.12*** 0.04 32 1 6
+
+6
+
+Vol:.(1234567890)
+Scientifc Reports | (2022) 12:1514 | https://doi.org/10.1038/s41598-021-04262-z
+www.nature.com/scientificreports/
+
+For the felt societal pressure not to be depressed or anxious, we observe a pattern of results that is highly
+
+similar. Here, signifcant cross-level interactions with countries’ WHI score indicate that most negative (predic-
+tive) well-being efects of participants’ perceived societal pressure to not feel negative are stronger in countries
+
+that report higher levels of national happiness. Emotionally, in countries with a high WHI score, the perceived
+societal pressure to avoid negative emotion shows stronger ties to a reduced experience of PA (both in terms
+of frequency and intensity; βs≤−0.09, ps≤0.005, R%s≤93%) and an increased experience of NA (in terms of
+intensity, β=0.07, p=0.017, R%=67%; but not frequency, β=0.04, p=0.146, R%=80%). Cognitively, this societal
+pressure predicts poor life satisfaction, particularly in happy nations (β=−0.07, p=0.005). Clinically, in high WHI
+countries, feeling socially pressured not to feel depressed or anxious paradoxically predicts more symptoms of
+depression and general distress (βs≥0.03, ps≤0.003), but not anxiety (β=0.02, p=0.057).
+An explicit comparison of lower (− 1 SD) versus higher (+ 1 SD) WHI nations in Fig. 2 (Panel B) further
+elucidates the diferences in the strength of these within-country associations. For all well-being indicators, the
+link with people’s perceived social pressure not to feel anxious or depressed is substantially weaker in low WHI
+countries, except for the frequency of NA and anxiety symptoms. Regarding absolute magnitude diferences,
+the (absolute) explanatory efect of the perceived social pressure not to feel negative in people’s well-being never
+exceeds 0.19 in countries with a lower WHI score, except for the frequency and intensity of NA. In contrast, in
+high WHI countries, the absolute signifcant predictive efect of this pressure is almost always higher, ranging
+from 0.15 to 0.53. In terms of relative magnitude, the (absolute) diference in explanatory efects between low
+and high WHI nations is smallest for anxiety symptoms (diference in β=0.03) and strongest for the frequency
+in PA (diference in β=0.17).
+
+Finally, Panel B in Fig. 3 again illustrates that, for all well-being indicators, people who experience social pres-
+sure not to feel negative always report poorer subjective well-being, irrespective of their country’s WHI score.
+
+However, in high WHI nations this link is usually stronger (except for NA frequency and anxiety symptoms),
+Figure 1. Exploring the diferential role of the perceived social pressure (a) to be happy and (b) not to be
+depressed or anxious in various well-being indicators as function of countries’ World Happiness Index (WHI).
+
+Dots represent the magnitude of the fxed efects in each multilevel model (red=signifcant; gray=non-
+signifcant with α=.05), error bars refer to the 95% confdence interval. Intercepts are not presented for optimal
+
+visibility, but were always signifcant with ps≤.001. Original values, standard errors, test statistics and p-values
+can be found in Supplementary Tables 2 and 3. PA=Positive Afect; NA=Negative Afect; LS=Life Satisfaction;
+SEHS=Social Expectancies to be Happy Scale; SEDAS=Social Expectancies not to feel Depressed or Anxious
+Scale.
+
+7
+Vol.:(0123456789)
+
+Scientifc Reports | (2022) 12:1514 | https://doi.org/10.1038/s41598-021-04262-z
+www.nature.com/scientificreports/
+
+which leads diferences in personal well-being in happier countries to be more extreme when comparing citizens
+who perceive considerable versus little social pressure not to feel negative.
+Discussion
+Te present cross-national study set out to explore how the perceived social emotion norms to pursue positivity
+and avert negativity play a role in people’s subjective well-being around the world. Breaking down well-being
+into its diferent constituents13,52, we robustly demonstrated how the perceived societal premium on happiness
+
+(and aversion of sadness) in most countries paradoxically relates to fewer and less intense experiences of posi-
+tive emotions (with an opposite pattern for negative emotions), lower life satisfaction evaluations, and more
+
+symptomatic complaints related to depression, anxiety and general distress.
+However, we also demonstrated that these negative (predictive) well-being efects are not entirely universal,
+corroborating the preliminary fndings of earlier studies8,9
+
+. Particularly for positive markers of subjective well-
+being, we observed how the (predictive) efects of the felt social pressure to be happy and not sad are subject to
+
+substantial national diferences. Tat is, in a great number of countries, feeling socially pressured to be happy
+and not sad was actually unrelated to positive well-being, and in a small minority an opposite association even
+emerged. Here, the perceived social premium on happiness was related to higher life satisfaction evaluations, and
+Figure 2. Te predictive efect of people’s perceived social pressure (A) to be happy and (B) not to be depressed
+or anxious for all well-being indicators in high and low WHI countries (− 1/+1 SD). Te magnitude and
+transparency of the edges corresponds with the strength of the association. Green lines represent positive
+relations, red lines negative relations. Gray lines indicate that the cross-level interaction was non-signifcant,
+meaning that the person-level relation between the perceived emotion norm and subjective well-being did
+not meaningfully difer in low versus high WHI countries (also denoted with an *). WHI=World Happiness
+Index; SEHS=Social Expectancies to be Happy Scale; SEDAS=Social Expectancies not to feel Depressed or
+Anxious Scale; PA=Positive Afect; NA=Negative Afect; F=Frequency; I=Intensity; LS=Life Satisfaction;
+DEP=Depressive symptoms, ANX=Anxiety symptoms, STR=Stress symptoms.
+
+8
+
+Vol:.(1234567890)
+Scientifc Reports | (2022) 12:1514 | https://doi.org/10.1038/s41598-021-04262-z
+www.nature.com/scientificreports/
+
+a more frequent and intense experience of positive emotion. In contrast, for negative indicators of subjective well-
+being, the (predictive) efects of the felt social pressure to be happy and not sad were more universally negative.
+
+In almost all countries, experiencing pressure to be happy and not sad was related to more and stronger negative
+feelings, and stronger symptoms of depression, anxiety and stress. Tis diference suggests that the presence of
+
+negative well-being (e.g., frequent and intense negative emotions or psychopathological symptoms) likely dis-
+closes discrepancies with the prevailing societal emotion standard that are more salient, compared to the absence
+
+of positive well-being (e.g., little to low positive emotions or poor life satisfaction). Tis fnding coincides with
+Figure 3. Unfolding all cross-level interactions between countries’ WHI score and participants’ perceived social
+
+pressure (a) to be happy and (b) not to be depressed or anxious in the prediction of individual subjective well-
+being. To distinguish between low (− 1 SD) and high (+1 SD) values, we adopted the average within-country
+
+SD for person-level predictors, and the between-country SD for countries’ WHI score. Gray plots indicate
+that the cross-level interaction was not signifcant (also denoted with an *). WHI=World Happiness Index;
+SEHS=Social Expectancies to be Happy Scale; SEDAS=Social Expectancies not to feel Depressed or Anxious
+Scale; PA=Positive Afect; NA=Negative Afect; LS=Life Satisfaction.
+
+9
+Vol.:(0123456789)
+
+Scientifc Reports | (2022) 12:1514 | https://doi.org/10.1038/s41598-021-04262-z
+www.nature.com/scientificreports/
+
+the observation that experiencing social pressure to avoid negativity overall typically shows poorer well-being
+associations than the pressure to pursue positivity.
+Exploring the factors that drive this country-level variability in (predictive) well-being efects, we found that
+feeling pressured to be happy and not sad is particularly associated with poor well-being in countries with high
+national happiness levels. Although these perceived happiness norms in themselves are, on average, not more
+elevated among citizens of high-ranked WHI nations, the personal belief that social others view the experience
+of positive emotions as a key indicator of success in life (and devalue negative emotions) is found to hold an
+especially negative relation to people’s well-being in happier countries.
+Regarding actual (causal) process explanations, the cross-sectional nature of our data prevents us to uncover
+the exact explanatory mechanisms underlying the current moderation, but the idea that the happiness seen in
+others in high WHI countries could ironically amplify the negative relation between the perceived social pressure
+to be happy and personal well-being opens up multiple avenues for future research. For example, it is possible that
+citizens of high WHI nations are typically more expressive of their happiness, as previous cross-cultural studies
+established national diferences in emotional display rules55. Not only would this explain a higher WHI ranking
+for these countries, more overt signs of happiness would also produce a stronger detrimental basis for negative
+social comparison in unhappy people7,46). Second, it could be that high WHI countries also sufer from more
+happiness inequality49,50. Nation-level aggregates do not reveal how happiness is distributed within a country53,
+
+but a stronger imbalance in happiness would explain why unhappy individuals feel compelled to align their feel-
+ings with those of the majority group. If true, this perceived social pressure would not only further impair these
+
+outcasts’ personal well-being, it would also again lead to more happiness inequality, ultimately contributing to
+a self-sustaining feedback mechanism.
+Regardless of the specifc mechanism, our fndings emphasize that an exclusive focus or overreliance on
+national aggregates may be misleading to inform well-being policy, a concern that has been repeatedly expressed
+by the social indicator movement in the past53,56. Although the WHI is meaningfully related to countries’ average
+life satisfaction levels, underscoring the construct validity of this index on a national level (i.e., this metric does
+not echo country-level averages in emotional or clinical well-being10), the present results suggest that the WHI
+may be less equipped to provide insight into the subjective well-being of specifc citizens. Indeed, we found that a
+higher WHI ranking does not necessarily indicate higher subjective well-being for everyone within that country,
+as the normative emotion processes in high WHI societies may paradoxically work against individual well-being
+for some. Overall, these fndings further illustrate the concern that considerable between-person heterogeneity
+may undermine the unifying quality of country-level metrics56,57, and highlight the importance of additionally
+considering the within-nation processes that may explain this variability.
+Finally, with respect to the potential societal implications of our fndings, nationwide (psycho-)educational
+campaigns that put the pressing need to be happy in perspective, while also acknowledging the valuable role
+of negative emotion (particularly in high WHI nations), could have benefcial efects for people’s psychological
+well-being in the long run2,5
+
+. In this way, the outdated yet dominant societal discourse that promotes a one-sided
+embrace of one’s emotions can make way for an updated version, in which people learn to appreciate the full
+scope of their emotional lives, both positive and negative.
+Limitations. Te current fndings should be considered in the light of some limitations. First, in addition to
+the fact that our claims about the specifc process mechanisms underlying our results remain speculative on the
+basis of correlational data alone, we acknowledge that country-level WHI scores may not provide the optimal
+
+window of analysis to fttingly establish negative social comparison. Although the WHI clearly captures ele-
+ments of this referential process at a macro-level, future studies with a more fne-grained resolution are needed
+
+to complement the current work with fndings from micro-level contexts (i.e., social comparison of happiness as
+a result of immediate social interactions). Previous work on the prevalence of suicide in happy places has shown
+that both perspectives do not always converge in their results58,59, and other paradoxical patterns described in the
+happiness literature (e.g., the Easterlin Paradox60) have highlighted the critical importance of explicitly clarifying
+
+the level of analysis when interpreting results. In this regard, future studies could also beneft from explicitly dis-
+tinguishing between diferent potential sources that shape people’s perceived social pressure to be happy and not
+
+sad (e.g., macro- versus micro-level, implicit versus explicit, objective antecedents versus subjective appraisals,
+etc.). Although this pressure is likely multi-determined, the instruments currently available do not diferentiate
+between these diferent factors.
+Second, to assess the average life satisfaction in our own sample, we did not include the original WHI Cantril
+
+Ladder10,54, but rather relied on Diener’s traditional Satisfaction With Life rating scale61. Although both instru-
+ments are known to correlate highly62, we cannot simply generalize our fndings to other types of well-being
+
+assessments. Similarly, compared to the diverse and nationally representative samples in WHI research10, this
+
+multi-national study mainly comprised a student population, limiting the generalizability of the found associa-
+tions to other sub-samples within a country. For example, with respect to diferent age groups, the factors that
+
+contribute to a happy life are known to change remarkably across the life span63, and adolescent students are gen-
+erally more susceptible to the expectations of social others or the infuence of peers compared to adults (e.g.,64,65).
+
+Surveying a more balanced research sample and exploring the moderating role of other theoretically relevant
+demographic covariates (both on an individual and societal level) will further elucidate the comprehensiveness
+of the established well-being associations.
+Finally, as is the case in all cross-national studies, expecting full language and translation equivalence across
+
+countries is difcult (e.g., some emotion words may be interpreted slightly diferent around the world66). Nev-
+ertheless, national inequivalence would likely introduce more measurement noise to the data, acting against
+
+establishing meaningful associations.
+
+10
+
+Vol:.(1234567890)
+Scientifc Reports | (2022) 12:1514 | https://doi.org/10.1038/s41598-021-04262-z
+www.nature.com/scientificreports/
+
+Materials and methods
+
+Participants. Te present research project was part of a larger cross-national study investigating how indi-
+vidual and cultural values infuence emotional well-being and moral attitudes around the world. Te initiating
+
+sites were based in Australia and Belgium, and the associated researchers contacted potential collaborators via
+
+e-mail, in which they outlined the aims and nature of the study, and provided an initial copy of the survey mate-
+rials (in English). Upon agreeing to participate, all collaborating sites arranged the requisite ethical approval for
+
+data collection at their host institution, and translated the questionnaires into their native language (see SI 1 for
+more information about this process). Te original study was approved by the Psychological Sciences Human
+
+Ethics Advisory Group in Australia (1647465.2) and the Social-Societal Ethical Committee KU Leuven in Bel-
+gium (G-2017 10 954). Each collaborating site was asked to enroll a minimum sample of 100 university students
+
+that originated from the nation of testing (e.g., no international or exchange students).
+
+In the end, we collected data from 40 diferent countries (42 sites), adequately covering all populated con-
+tinents in the world (i.e., Europe n = 17; Asia n = 10; Africa n = 4; South America n = 4; North America n = 3;
+
+Oceania n=2). A world map with all participating countries can be found in SI 2, together with the fnal sample
+size for each site. On average, each country collected 186 participants (SD=129), with a total sample of 7,443
+participants taking part in the study (Mage=21.81, SDage=5.60). Te balance of gender identifcation consisted
+of 32% men, 61.2% women, 0.3% other, and 6.5% unspecifed, and the majority of participants (87.6%) were
+enrolled in a psychology course at the time of the study. All participants provided informed consent.
+Procedure and materials. In each country, we adopted a standardized survey battery that was locally
+translated into participants’ native language (and back-translated by some but not all host institutions; see SI
+1 for more information) to evaluate their subjective well-being, alongside their perception of the predominant
+emotion norms in their country. Participants were only sampled a single time. Next, accessing the public data of
+the 2019 World Happiness Report, we obtained a global WHI score for each participating country10. Summary
+statistics and correlations among all measures can be found in Table 1.
+Emotional well‐being components: natural positive and negative afect. To evaluate the emotional components
+
+in subjective well-being, the distinct and global experience of positive (PA) and negative afect (NA67), we com-
+piled a list of four positive (happy, joyful, relaxed, calm) and four negative (sad, depressed, stressed, anxious)
+
+emotion items, respectively. Te selection of these emotions was based on the circumplex model of afect68
+to ensure an adequate representation of diferent arousal levels. We invited participants to rate their everyday
+emotional experience both in terms of frequency (How ofen have you experienced the following emotion during
+the last month?) and intensity (How intense was your experience of the following emotion?), as both dimensions
+are known to relate diferently to subjective well-being69. For each emotion item, participants provided their
+response on a 9-point Likert scale that ranged from none of the time (one) to all of the time (nine) for frequency,
+and from very mild (one) to very intense (nine) for intensity. We averaged same-valenced emotion ratings for
+each dimension to create a score for PA and NA frequency, and PA and NA intensity.
+Cognitive well‐being component: satisfaction with life. We assessed life satisfaction with the Satisfaction with
+Life scale61. Tis 5-item questionnaire is designed to capture a broad and integrative evaluation of people’s life
+(e.g., Te conditions of my life are excellent.), and concerns the cognitive-judgmental component in subjective
+well-being13. Participants rated each item on a 7-point Likert scale, ranging from strongly disagree (one) to
+strongly agree (seven), and we averaged across items to get a global life satisfaction score.
+
+Clinical well‐being components: mood complaints. To determine the presence of mood-related symptoma-
+tology, experiential factors that usually undermine high subjective well-being52, participants had to complete
+
+the Depression Anxiety and Stress Scale70. Tis 21-item survey is based on the tripartite model of anxiety and
+depression71, and consists of three 7-item subscales that aim to diferentiate between prototypical symptoms of
+depression (e.g., I felt down-hearted and blue.), anxiety (e.g., I felt scared without any good reason.) and general
+distress (e.g., I tended to over-react to situations.70). Participants indicated how frequently they experienced each
+item over the last week on a 4-point scale that ranged from not at all (zero) to most of the time (three), and we
+averaged responses per subscale to get an indication of each symptom type severity.
+Perceived emotion norms. We assessed participants’ perceived societal expectancies to feel positive with the
+Social Expectancies about Happiness (SEHS51), and not to feel negative with the Social Expectancies about
+Depression and Anxiety Scale (SEDAS20). Te SEHS is a 9-item survey that evaluates people’s global idea about
+how they think their society expects people to pursue positivity (e.g., I think that society places a great deal of
+pressure on people to feel happy. or People in my society view people who feel happy as more valuable.; see SI 3 for
+the full item list). Conversely, the SEDAS is a 13-item instrument that reveals people’s general beliefs about how
+they think their society disapproves of negative emotional states such as depression or anxiety (e.g., I think soci‐
+ety tends to place a lot of pressure on people not to feel depressed or anxious. or I think society accepts people who
+feel depressed or anxious as normal. [reversed]). For both scales, participants rated each statement on a 9-point
+Likert scale that ranged from strongly disagree (one) to strongly agree (nine). We averaged across all items (afer
+rescoring the reversed items), so that higher SEHS and SEDAS scores indicated stronger individual beliefs that
+society pressures people to be happy, and disapproves of negative emotion, respectively. Due to an irreversible
+coding error the SEDAS scores for Poland are missing.
+
+11
+Vol.:(0123456789)
+
+Scientifc Reports | (2022) 12:1514 | https://doi.org/10.1038/s41598-021-04262-z
+www.nature.com/scientificreports/
+
+World happiness index. To get a robust indication of the country-level happiness reported within a particular
+society, we evaluated countries’ WHI score. A country’s WHI score is based on the average life evaluation of a
+nationally representative sample10, using the Cantril Ladder54. In this single-item survey, respondents are asked
+to evaluate the quality of their current life on a 11-rung ladder that ranges from worst possible life (zero) to best
+
+possible life (ten). As such, the WHI is more an indication of the average life satisfaction displayed by the inhab-
+itants of a particular country, rather than their global subjective well-being10. Cantril Ladder evaluations and
+
+traditional self-report measures for life satisfaction (e.g.,61) are known to correlate very high62.
+Because data collection took place in 2019, we adopted the WHI scores for that year (freely accessible online:
+https://worldhappiness.report/ed/2019/). Te countries that took part in our study representatively covered
+the global ranking (M=6.11; SD=0.86), with the Netherlands being the highest ranked country in our sample
+(7.49; position 5) and Uganda the lowest (4.19; position 136 out of 156). For the participating sites in England,
+Scotland, Wales and Northern Ireland, we imputed the WHI score of the United Kingdom. In all analyses, we
+used countries’ actual WHI score, not their corresponding ranking.
+Statistical analyses. All analyses in this article were conducted in R (version 4.0.072). To reproduce our
+results and fgures, researchers can consult the data, code and materials at the Open Science Framework (https://
+osf.io/3aut4/). All methods were carried out in accordance with relevant guidelines and regulations.
+Multilevel analysis. To account for the hierarchical structure of the data, we performed our analyses in a
+multilevel framework, using the lme4 R-package73. Specifcally, we ran various two-level models, with persons
+(n=7,443) nested within countries (n=40). In all models, slopes and intercept were allowed to vary randomly
+across countries to account for possible national diferences in the found efects. For an intuitive interpretation of
+the model parameter estimates, we group-mean centered all person-level predictors. Country-level WHI scores
+
+were grand-mean centered. In this way, we efectively separated within- and between-country efects74. All sta-
+tistical tests were two-sided.
+
+To evaluate how the perception of the societal emotion standard in a country diferently relates to subjective
+well-being as a function of nation’s global happiness level, we ran a series of multilevel models with the various
+well-being indicators as the outcome of interest (i.e., cognitive, emotional and clinical well-being markers). At
+the person-level, we either entered participants’ perceived societal pressure to feel positive (SEHS) or not to
+feel negative (SEDAS) as the focal predictor (separately). At the country-level, we introduced the national WHI
+scores and evaluated the cross-level interactions with the global intercept and person-level predictor. A generic
+overview of all model formulae can be found in SI 4.
+We emphasize that our multilevel approach inevitably introduces an asymmetry in the specifed relation
+
+between outcome and predictor75. Because the selection of an outcome and predictor is always somewhat arbi-
+trary with cross-sectional data, we additionally ran all reversed models, together with a third statistical approach
+
+in which all variables were within-country standardized (to remove the asymmetry in a multilevel context76).
+Results can be found in SI 6 and illustrate that this arbitrary decision did not impact our conclusions.
+Robustness analysis. With respect to the emotional well-being components, we acknowledge that every item
+
+operationalization of a PA and NA composite score is somewhat arbitrary. Because there is little theoretical con-
+sensus on how researchers should exactly construct these afective aggregates77, we performed a leave-one-out
+
+multiverse analysis for our PA and NA constructs (e.g.,78). For each of the multilevel models that involved PA or
+NA frequency or intensity as a predictor, we evaluated the robustness of each model parameter under diferent
+PA and NA operationalizations. Because we evaluated four specifc emotion items for each afective construct,
+this yielded 15 alternative PA and NA operationalizations, each based on a unique combination of emotion
+items. We entered each unique afective aggregate as a predictor in the previously outlined models, and evaluated
+
+the proportion of models for which the signifcance test of each estimate (with α=0.05) yielded identical conclu-
+sions as the model in which the PA and NA composites were based on all emotion items (of which the results
+
+are presented here). A higher robustness percentage (R%) indicates that the model parameter is less driven by
+particular PA and NA operationalizations.
