@@ -11,3 +11,8 @@ To address these issues, this paper introduces a novel Large Language Model (LLM
 We measure the quality of the clusters using established indices, the silhouette score, Davies-Bouldin Index, Calinski-Harabasz Index, and Dunn Index. 
 Our proposed approach performs better than traditional methods, demonstrating that it not only aids in the clustering of unlabeled and unstructured textual data but also highlights the potential for improvement in document clustering 
 practices through the use of large language models. Consequently, our findings pave the way for researchers, academics, and other professionals to organize academic papers more effectively, employing a simple, yet advanced, methodology. 
+
+# Currently we defined the test cases as below:
+- Test Case 1: Input papers belong to multiple different categories
+- Test Case 2: Input papers all belong to the same category
+- Test Case 3: Input papers belong to two different categories
